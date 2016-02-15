@@ -1,0 +1,22 @@
+{
+  "name": "ocp-data",
+  "version": "0.1.0",
+  "description": "OCP data",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developmentseed/ocp-data.git"
+  },
+  "author": {
+    "name": "Development Seed",
+    "url": "https://developmentseed.org"
+  },
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/developmentseed/ocp-data/issues"
+  },
+  "homepage": "http://open-contracting.org/",
+  "devDependencies": {},
+  "dependencies": {
+    "fs-extra": "^0.26.5"
+  }
+}
