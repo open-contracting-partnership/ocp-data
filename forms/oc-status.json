@@ -1,0 +1,125 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Open Contracting Status",
+  "description": "Surveying the status of open contracting around the world",
+  "type": "object",
+  "version": 1,
+  "required": [],
+  "properties": {
+    "godi_score": {
+      "title": "GODI Score",
+      "type": "number",
+      "description": ""
+    },
+    "godi_link": {
+      "title": "GODI link",
+      "type": "string",
+      "description": ""
+    },
+    "innovations": {
+      "type": "array",
+      "title": "Innovations in monitoring and data use",
+      "items": {
+        "title": "Innovation",
+        "type": "object",
+        "properties": {
+          "innovation_description": {
+            "title": "Provide a simple description of the innovation",
+            "type": "string",
+            "maxLength": 30
+          },
+          "innovation_link": {
+            "title": "Provide a link to the innovation",
+            "type": "string"
+          }
+        },
+        "required": ["innovation_description"]
+      }
+    },
+    "ocds_historic_data": {
+      "title": "Publishing historic OCDS data",
+      "type": "boolean",
+      "default": false,
+      "description": ""
+    },
+    "ocds_ongoing_data": {
+      "title": "Publishing ongoing OCDS data",
+      "type": "boolean",
+      "default": false,
+      "description": ""
+    },
+    "ocds_implementation": {
+      "title": "Implementation in progress",
+      "type": "boolean",
+      "default": false,
+      "description": ""
+    },
+    "websites": {
+      "type": "array",
+      "title": "Relevant websites",
+      "items": {
+        "title": "Website",
+        "type": "object",
+        "properties": {
+          "website_link": {
+            "title": "Website link",
+            "type": "string",
+            "description": ""
+          },
+          "publisher": {
+            "title": "Published name",
+            "type": "string",
+            "description": "Name of the publishing entity or page"
+          }
+        },
+        "required": []
+      }
+    },
+    "ogp_commitments": {
+      "type": "array",
+      "title": "Relevant OGP commitments",
+      "items": {
+        "title": "Commitment",
+        "type": "object",
+        "properties": {
+          "ogp_commitment": {
+            "title": "Relevant OGP Commitment",
+            "type": "string"
+          },
+          "ogp_commitment_link": {
+            "title": "Link to OGP NAP",
+            "type": "string"
+          }
+        },
+        "required": ["ogp_commitment"]
+      }
+    },
+    "citizen_monitoring": {
+      "title": "Citizen Monitoring Legal Framework",
+      "type": "boolean",
+      "default": false
+    },
+    "commitment_oil_mining": {
+      "title": "Relevant commitment: Oil and Mining",
+      "type": "string",
+      "description": ""
+    },
+    "commitment_oil_mining_link": {
+      "title": "Link to oil and mining commitment",
+      "type": "string",
+      "description": ""
+    },
+    "disclosure_oil_mining": {
+      "title": "Notable disclosure: Oil and Mining sector",
+      "type": "string",
+      "default": "",
+      "description": ""
+    },
+    "disclosure_oil_mining_link": {
+      "title": "Link to oil and mining disclosure",
+      "type": "string",
+      "default": "",
+      "description": ""
+    }
+  }
+}
