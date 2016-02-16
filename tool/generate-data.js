@@ -29,19 +29,19 @@ var parser = csv.parse({columns:true}, function(err, data){
           godi_score: checkEmpty(data[i].godi_score),
           godi_link: checkEmpty(data[i].godi_link),
           innovations: [{
-            innovation_description: checkEmpty(data[i].innovation_description),
-            innovation_link: checkEmpty(data[i].innovation_link)
+            innovation_description: data[i].innovation_description,
+            innovation_link: data[i].innovation_link
           }],
           ocds_historic_data: checkEmpty(data[i].ocds_historic_data),
           ocds_ongoing_data: checkEmpty(data[i].ocds_ongoing_data),
           ocds_implementation: checkEmpty(data[i].ocds_implementation),
           websites: [{
-            website_link: checkEmpty(data[i].website_link),
-            publisher: checkEmpty(data[i].publisher)
+            website_link: data[i].website_link,
+            publisher: data[i].publisher
           }],
           ogp_commitments: [{
-            ogp_commitment: checkEmpty(data[i].ogp_commitment),
-            ogp_commitment_link: checkEmpty(data[i].ogp_commitment_link)
+            ogp_commitment: data[i].ogp_commitment,
+            ogp_commitment_link: data[i].ogp_commitment_link
           }],
           citizen_monitoring: checkEmpty(data[i].citizen_monitoring),
           commitment_oil_mining: checkEmpty(data[i].commitment_oil_mining),
