@@ -1,0 +1,33 @@
+language: node_js
+node_js:
+- '4'
+env:
+  global:
+  - CXX=g++-4.8
+  - GH_REF=github.com/open-contracting-partnership/ocp-data.git
+  - DEPLOY_BRANCH=master
+  - secure: GChpb3L9fkGJTUJl9dd2jfS105cy0ff/IP1WiukO9QDW7mLjBeL4j1L2yuxJWyMwnI/K8TeJu6OhxMvNReOPvJ9aVApGZNgfwqu1XKCKK/UAaSynociezFkMfvXkqsv9PzodkoqZLeDFGv8aBFhjEjXr7MBF6oWfOIP0URHBbl5af8t8Mz5LLU0puaAfLkzY7kcMpn82SUqZ9XlGvwC4doJJUp05vJmWm3QER9fTHRmiZz/5IMJ+yZR5ye+0hgWMB7Of/YELM02M5USu/kW2cUBmpoyDTwwWbH5oJFCDFfTAw5znvjX8LiKwQM0NgBtGiZday2W1xjlYTvHj3W5AR6jh8IfLNakampiOfRLnENKfcelFdeu11Xmn9jMTQbLLK5Zc36VbpwVz9EDcAVqBSYkdFYundoZhGFRPmNuF6XGFRPv9z20Z+2XwZdzasQeQsILW3OfjfE4YMp2PE+UVeVOCbJlQAR1dgD3ggOfl9NuUYEOQpZJxkj+e/yXmr7N5SvwB6Bsh7ggfJfguSNgbsIBeWVN9DTCSXd+oQbFdZ7hyG7hlmmpp7PMWRTd5zY1CwUAGKQUkly1JgwtfY0JAGyT3wz6h3a3tuoZ7cMO8vlAvIdF1+ajr+5BF33l/nA6/8jtL8QpDMSI6FqM1f6qqE5zR7uJJWQh06pjVRPJeSfo=
+addons:
+  apt:
+    sources:
+    - ubuntu-toolchain-r-test
+    packages:
+    - g++-4.8
+cache:
+  apt: true
+  directories:
+  - node_modules
+before_install:
+- chmod +x ./.build_scripts/deploy.sh
+- chmod +x ./.build_scripts/lint.sh
+before_script:
+- "./.build_scripts/lint.sh"
+- npm test
+script:
+- npm run build
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: ".build_scripts/deploy.sh"
+  on:
+    branch: "${DEPLOY_BRANCH}"
