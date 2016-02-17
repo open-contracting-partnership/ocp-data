@@ -54,6 +54,11 @@
       "default": false,
       "description": ""
     },
+    "ocds_description": {
+      "title": "Details about OCDS activities in this country",
+      "type": "text",
+      "description": ""
+    },
     "websites": {
       "type": "array",
       "title": "Relevant websites",
@@ -102,6 +107,12 @@
     "commitment_oil_mining": {
       "title": "Relevant commitment: Oil and Mining",
       "type": "string",
+      "enum": ["full", "partial", "some", "none"],
+      "default": "none"
+    },
+    "commitment_oil_mining_description": {
+      "title": "Description of oil and mining commitment",
+      "type": "string",
       "description": ""
     },
     "commitment_oil_mining_link": {
@@ -112,7 +123,12 @@
     "disclosure_oil_mining": {
       "title": "Notable disclosure: Oil and Mining sector",
       "type": "string",
-      "default": "",
+      "enum": ["full", "partial", "some", "none"],
+      "default": "none"
+    },
+    "disclosure_oil_mining_description": {
+      "title": "Description of oil and mining disclosure",
+      "type": "string",
       "description": ""
     },
     "disclosure_oil_mining_link": {
