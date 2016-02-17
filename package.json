@@ -16,7 +16,7 @@
   },  
   "scripts": {
     "build": "node index.js",
-    "lint": "eslint app/assets/scripts/ --ext .js",
+    "lint": "eslint app/assets/scripts/ --ext .js"
   },
   "homepage": "http://open-contracting.org/",
   "devDependencies": {},
