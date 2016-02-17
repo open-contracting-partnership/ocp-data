@@ -17,6 +17,14 @@ function checkEmpty(value) {
   }
 };
 
+function checkBool(value) {
+  if (value.toLowerCase() === "x") {
+    return true;
+  } else {
+    return false;
+  }
+}
+
 var parser = csv.parse({columns:true}, function(err, data){
   for (var i in data) {
     if (data[i].iso) {
@@ -32,9 +40,10 @@ var parser = csv.parse({columns:true}, function(err, data){
             innovation_description: data[i].innovation_description,
             innovation_link: data[i].innovation_link
           }],
-          ocds_historic_data: checkEmpty(data[i].ocds_historic_data),
-          ocds_ongoing_data: checkEmpty(data[i].ocds_ongoing_data),
-          ocds_implementation: checkEmpty(data[i].ocds_implementation),
+          ocds_historic_data: checkBool(data[i].ocds_historic_data),
+          ocds_ongoing_data: checkBool(data[i].ocds_ongoing_data),
+          ocds_implementation: checkBool(data[i].ocds_implementation),
+          ocds_description: checkEmpty(data[i].ocds_description),
           websites: [{
             website_link: data[i].website_link,
             publisher: data[i].publisher
@@ -43,10 +52,12 @@ var parser = csv.parse({columns:true}, function(err, data){
             ogp_commitment: data[i].ogp_commitment,
             ogp_commitment_link: data[i].ogp_commitment_link
           }],
-          citizen_monitoring: checkEmpty(data[i].citizen_monitoring),
-          commitment_oil_mining: checkEmpty(data[i].commitment_oil_mining),
+          citizen_monitoring: checkBool(data[i].citizen_monitoring),
+          commitment_oil_mining: checkEmpty(data[i].commitment_oil_mining.toLowerCase()),
+          commitment_oil_mining_description: checkEmpty(data[i].commitment_description),
           commitment_oil_mining_link: checkEmpty(data[i].commitment_oil_mining_link),
-          disclosure_oil_mining: checkEmpty(data[i].disclosure_oil_mining),
+          disclosure_oil_mining: checkEmpty(data[i].disclosure_oil_mining.toLowerCase()),
+          disclosure_oil_mining_description: checkEmpty(data[i].disclosure_description),
           disclosure_oil_mining_link: checkEmpty(data[i].disclosure_oil_mining_link)
         }
       }
