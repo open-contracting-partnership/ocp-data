@@ -25,8 +25,7 @@
         "properties": {
           "innovation_description": {
             "title": "Provide a simple description of the innovation",
-            "type": "string",
-            "maxLength": 30
+            "type": "string"
           },
           "innovation_link": {
             "title": "Provide a link to the innovation",
@@ -56,7 +55,7 @@
     },
     "ocds_description": {
       "title": "Details about OCDS activities in this country",
-      "type": "text",
+      "type": "string",
       "description": ""
     },
     "websites": {
