@@ -15,7 +15,8 @@
     "url": "https://github.com/developmentseed/ocp-data/issues"
   },  
   "scripts": {
-    "build": "node index.js"
+    "build": "node index.js",
+    "lint": "eslint app/assets/scripts/ --ext .js",
   },
   "homepage": "http://open-contracting.org/",
   "devDependencies": {},
