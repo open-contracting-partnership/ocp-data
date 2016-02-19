@@ -1,1 +1,17 @@
-{"iso":"ci","name":"Ivory Coast","full_name":"Ivory Coast – Republic of Côte d'Ivoire","meta":{},"results":{"innovations":[{"innovation_description":"","innovation_link":""}],"ocds_historic_data":false,"ocds_ongoing_data":false,"ocds_implementation":false,"websites":[{"website_link":"","publisher":""}],"ogp_commitments":[{"ogp_commitment":"","ogp_commitment_link":""}],"citizen_monitoring":false,"commitment_oil_mining":"full","commitment_oil_mining_description":"Full oil and gas"}}
+{
+  "iso": "ci",
+  "name": "Ivory Coast",
+  "full_name": "Ivory Coast – Republic of Côte d'Ivoire",
+  "meta": {},
+  "results": {
+    "innovations": [],
+    "ocds_historic_data": false,
+    "ocds_ongoing_data": false,
+    "ocds_implementation": false,
+    "websites": [],
+    "ogp_commitments": [],
+    "citizen_monitoring": false,
+    "commitment_oil_mining": "full",
+    "commitment_oil_mining_description": "Full oil and gas"
+  }
+}
