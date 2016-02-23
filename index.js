@@ -1,18 +1,17 @@
+/**
+ * This script takes raw OCP data and processes it into something that can be
+ * used more easily by other applications.
+ */
 'use strict';
 
 var _ = require('lodash');
 var async = require('async');
 var fs = require('fs-extra');
-var mapData = require('./lib/ne_110m_admin_0_countries.json');
 
-// Merge all individual countries from the OC Status survey in one file
 var sourceDir = './data/oc-status';
 var targetDir = './dist/oc-status';
-var mergedFile = 'all.json';
-var tableFile = 'table.json';
-var mapFile = 'map.json';
-var mergedData = [];
 
+var mapData = require('./lib/ne_110m_admin_0_countries.json');
 var tableData = {
   meta: {
     display: [
@@ -35,6 +34,25 @@ var tableData = {
     ]
   },
   data: []
+};
+
+var output = {
+  merged: {
+    data: [],
+    file: '_all.json'
+  },
+  index: {
+    data: {},
+    file: '_index.json'
+  },
+  map: {
+    data: mapData,
+    file: '_map.json'
+  },
+  table: {
+    data: tableData,
+    file: '_table.json'
+  }
 };
 
 function processOCDS (countryData) {
@@ -80,30 +98,24 @@ async.waterfall([
         // False values on booleans count as no data
         jsonData.results.has_data = _.every(jsonData.results, _.negate(_.isEmpty));
 
-        var i = _.findIndex(mapData.features, function (o) { return o.properties.iso_a2.toLowerCase() === jsonData.iso; });
+        var i = _.findIndex(output.map.data.features, function (o) { return o.properties.iso_a2.toLowerCase() === jsonData.iso; });
         if (i !== -1) {
-          _.merge(mapData.features[i].properties, jsonData.results);
+          _.merge(output.map.data.features[i].properties, jsonData.results);
         }
 
-        tableData.data.push(prepTableData(jsonData));
-        mergedData.push(jsonData);
+        output.index.data[list[f]] = {name: jsonData.name};
+        output.table.data.data.push(prepTableData(jsonData));
+        output.merged.data.push(jsonData);
       }
-      callback(err, mergedData, tableData, mapData);
+      callback(err, output);
     });
   },
-  function (mergedData, tableData, mapData, callback) {
-    // Write the merged file
-    fs.writeFile(`${targetDir}/${mergedFile}`, JSON.stringify(mergedData), function (err) {
-      callback(err);
-    });
-    // Write the table file
-    fs.writeFile(`${targetDir}/${tableFile}`, JSON.stringify(tableData), function (err) {
-      callback(err);
-    });
-    // Write the map file
-    fs.writeFile(`${targetDir}/${mapFile}`, JSON.stringify(mapData), function (err) {
-      callback(err);
-    });
+  function (output, callback) {
+    for (var f in output) {
+      fs.writeFile(`${targetDir}/${output[f].file}`, JSON.stringify(output[f].data), function (err) {
+        callback(err);
+      });
+    }
   }
 ], function (err) {
   if (err) console.error(err.message);
