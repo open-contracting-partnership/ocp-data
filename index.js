@@ -87,12 +87,10 @@ async.waterfall([
     });
   },
   function (callback) {
-    // Load all the country files and merge them in one array
+    // Process the data
     fs.readdir(sourceDir, function (err, list) {
       for (var f in list) {
-        var path = `${sourceDir}/${list[f]}`;
-        var contents = fs.readFileSync(path);
-        var jsonData = JSON.parse(contents);
+        var jsonData = JSON.parse(fs.readFileSync(`${sourceDir}/${list[f]}`));
 
         // Add an indication if the country has any data reported
         // False values on booleans count as no data
@@ -111,11 +109,15 @@ async.waterfall([
     });
   },
   function (output, callback) {
-    for (var f in output) {
-      fs.writeFile(`${targetDir}/${output[f].file}`, JSON.stringify(output[f].data), function (err) {
-        callback(err);
+    var tasks = [];
+    _.forEach(output, function (f) {
+      tasks.push(function (cb) {
+        fs.writeFile(`${targetDir}/${f.file}`, JSON.stringify(f.data), function (err) {
+          cb(err);
+        });
       });
-    }
+    });
+    async.parallel(tasks, callback);
   }
 ], function (err) {
   if (err) console.error(err.message);
