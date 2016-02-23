@@ -76,6 +76,10 @@ async.waterfall([
         var contents = fs.readFileSync(path);
         var jsonData = JSON.parse(contents);
 
+        // Add an indication if the country has any data reported
+        // False values on booleans count as no data
+        jsonData.results.has_data = _.every(jsonData.results, _.negate(_.isEmpty));
+
         var i = _.findIndex(mapData.features, function (o) { return o.properties.iso_a2.toLowerCase() === jsonData.iso; });
         if (i !== -1) {
           _.merge(mapData.features[i].properties, jsonData.results);
