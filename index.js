@@ -95,7 +95,7 @@ async.waterfall([
 
           // Add an indication if the country has any data reported
           // False values on booleans count as no data
-          jsonData.results.has_data = _.every(jsonData.results, _.negate(_.isEmpty));
+          jsonData.results.has_data = !(_.every(_.map(jsonData.results), _.isEmpty));
 
           var i = _.findIndex(output.map.data.features, function (o) { return o.properties.iso_a2.toLowerCase() === jsonData.iso; });
           if (i !== -1) {
