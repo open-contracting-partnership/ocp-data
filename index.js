@@ -90,20 +90,22 @@ async.waterfall([
     // Process the data
     fs.readdir(sourceDir, function (err, list) {
       for (var f in list) {
-        var jsonData = JSON.parse(fs.readFileSync(`${sourceDir}/${list[f]}`));
+        if (list[f] !== '_index.json') {
+          var jsonData = JSON.parse(fs.readFileSync(`${sourceDir}/${list[f]}`));
 
-        // Add an indication if the country has any data reported
-        // False values on booleans count as no data
-        jsonData.results.has_data = _.every(jsonData.results, _.negate(_.isEmpty));
+          // Add an indication if the country has any data reported
+          // False values on booleans count as no data
+          jsonData.results.has_data = _.every(jsonData.results, _.negate(_.isEmpty));
 
-        var i = _.findIndex(output.map.data.features, function (o) { return o.properties.iso_a2.toLowerCase() === jsonData.iso; });
-        if (i !== -1) {
-          _.merge(output.map.data.features[i].properties, jsonData.results);
+          var i = _.findIndex(output.map.data.features, function (o) { return o.properties.iso_a2.toLowerCase() === jsonData.iso; });
+          if (i !== -1) {
+            _.merge(output.map.data.features[i].properties, jsonData.results);
+          }
+
+          output.index.data[list[f]] = {name: jsonData.name};
+          output.table.data.data.push(prepTableData(jsonData));
+          output.merged.data.push(jsonData);
         }
-
-        output.index.data[list[f]] = {name: jsonData.name};
-        output.table.data.data.push(prepTableData(jsonData));
-        output.merged.data.push(jsonData);
       }
       callback(err, output);
     });
