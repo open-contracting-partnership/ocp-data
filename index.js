@@ -11,7 +11,7 @@ var fs = require('fs-extra');
 var sourceDir = './data/oc-status';
 var targetDir = './dist/oc-status';
 
-var mapData = require('./lib/ne_110m_admin_0_countries.json');
+var mapData = require('./lib/ne_50m_admin_0_countries.json');
 var tableData = {
   meta: {
     display: [
