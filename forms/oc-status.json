@@ -6,35 +6,6 @@
   "version": 1,
   "required": [],
   "properties": {
-    "godi_score": {
-      "title": "GODI Score",
-      "type": "number",
-      "description": ""
-    },
-    "godi_link": {
-      "title": "GODI link",
-      "type": "string",
-      "description": ""
-    },
-    "innovations": {
-      "type": "array",
-      "title": "Innovations in monitoring and data use",
-      "items": {
-        "title": "Innovation",
-        "type": "object",
-        "properties": {
-          "innovation_description": {
-            "title": "Provide a simple description of the innovation",
-            "type": "string"
-          },
-          "innovation_link": {
-            "title": "Provide a link to the innovation",
-            "type": "string"
-          }
-        },
-        "required": ["innovation_description"]
-      }
-    },    
     "publishers": {
       "type": "array",
       "title": "Publishers",
@@ -81,6 +52,25 @@
       "type": "string",
       "description": ""
     },
+    "innovations": {
+      "type": "array",
+      "title": "Innovations in monitoring and data use",
+      "items": {
+        "title": "Innovation",
+        "type": "object",
+        "properties": {
+          "innovation_description": {
+            "title": "Provide a simple description of the innovation",
+            "type": "string"
+          },
+          "innovation_link": {
+            "title": "Provide a link to the innovation",
+            "type": "string"
+          }
+        },
+        "required": ["innovation_description"]
+      }
+    },    
     "ogp_commitments": {
       "type": "array",
       "title": "Relevant OGP commitments",
