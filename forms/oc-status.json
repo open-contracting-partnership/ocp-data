@@ -34,50 +34,52 @@
         },
         "required": ["innovation_description"]
       }
-    },
-    "ocds_historic_data": {
-      "title": "Publishing historic OCDS data",
-      "type": "boolean",
-      "default": false,
-      "description": ""
-    },
-    "ocds_ongoing_data": {
-      "title": "Publishing ongoing OCDS data",
-      "type": "boolean",
-      "default": false,
-      "description": ""
-    },
-    "ocds_implementation": {
-      "title": "Implementation in progress",
-      "type": "boolean",
-      "default": false,
-      "description": ""
+    },    
+    "publishers": {
+      "type": "array",
+      "title": "Publishers",
+      "items": {
+        "title": "Publisher",
+        "type": "object",
+        "properties": {
+          "publisher": {
+            "title": "Name of the publishing entity or page",
+            "type": "boolean",
+            "default": false,
+            "description": ""
+          },
+          "publisher_link": {
+            "title": "Link to publishing entity",
+            "type": "boolean",
+            "default": false,
+            "description": ""
+          },
+          "ocds_historic_data": {
+            "title": "Publishing historic OCDS data",
+            "type": "boolean",
+            "default": false,
+            "description": ""
+          },
+          "ocds_ongoing_data": {
+            "title": "Publishing ongoing OCDS data",
+            "type": "boolean",
+            "default": false,
+            "description": ""
+          },
+          "ocds_implementation": {
+            "title": "Implementation in progress",
+            "type": "boolean",
+            "default": false,
+            "description": ""
+          }
+        },
+        "required": ["publisher_name"]
+      }
     },
     "ocds_description": {
       "title": "Details about OCDS activities in this country",
       "type": "string",
       "description": ""
-    },
-    "websites": {
-      "type": "array",
-      "title": "Relevant websites",
-      "items": {
-        "title": "Website",
-        "type": "object",
-        "properties": {
-          "website_link": {
-            "title": "Website link",
-            "type": "string",
-            "description": ""
-          },
-          "publisher": {
-            "title": "Published name",
-            "type": "string",
-            "description": "Name of the publishing entity or page"
-          }
-        },
-        "required": []
-      }
     },
     "ogp_commitments": {
       "type": "array",
