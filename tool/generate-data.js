@@ -20,7 +20,7 @@ function checkBool (value) {
   if (value.toLowerCase() === 'x') {
     return true;
   } else {
-    return false;
+    return undefined;
   }
 }
 
@@ -37,17 +37,8 @@ var parser = csv.parse({columns: true}, function (err, data) {
           godi_score: checkEmpty(data[i].godi_score),
           godi_link: checkEmpty(data[i].godi_link),
           innovations: [],
-          publishers: [
-            {
-              publisher: checkEmpty(data[i].publisher),
-              publisher_link: checkEmpty(data[i].website_link),
-              ocds_historic_data: checkBool(data[i].ocds_historic_data),
-              ocds_ongoing_data: checkBool(data[i].ocds_ongoing_data),
-              ocds_implementation: checkBool(data[i].ocds_implementation)
-            }
-          ],
+          publishers: [],
           ocds_description: checkEmpty(data[i].ocds_description),
-          websites: [],
           ogp_commitments: [],
           citizen_monitoring: checkBool(data[i].citizen_monitoring),
           commitment_oil_mining: checkEmpty(data[i].commitment_oil_mining.toLowerCase()),
@@ -68,6 +59,15 @@ var parser = csv.parse({columns: true}, function (err, data) {
         countryJSON.results.ogp_commitments.push({
           ogp_commitment: checkEmpty(data[i].ogp_commitment),
           ogp_commitment_link: checkEmpty(data[i].ogp_commitment_link)
+        });
+      }
+      if (checkEmpty(data[i].publisher) || checkEmpty(data[i].website_link) || checkBool(data[i].ocds_historic_data) || checkBool(data[i].ocds_ongoing_data) || checkBool(data[i].ocds_implementation)) {
+        countryJSON.results.publishers.push({
+          publisher: checkEmpty(data[i].publisher),
+          publisher_link: checkEmpty(data[i].website_link),
+          ocds_historic_data: checkBool(data[i].ocds_historic_data),
+          ocds_ongoing_data: checkBool(data[i].ocds_ongoing_data),
+          ocds_implementation: checkBool(data[i].ocds_implementation)
         });
       }
       fs.writeFile(`${exportDir}/${data[i].iso.toLowerCase()}.json`, JSON.stringify(countryJSON));

@@ -4,17 +4,14 @@
   "full_name": "Ivory Coast – Republic of Côte d'Ivoire",
   "meta": {},
   "results": {
-    "innovations": [],
-    "publishers": [
+    "innovations": [
       {
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false
+        "innovation_description": "Civil Society Construction Monitoring (2014)",
+        "innovation_link": "http://www.developmentcheck.org/countries/ci"
       }
     ],
-    "websites": [],
+    "publishers": [],
     "ogp_commitments": [],
-    "citizen_monitoring": false,
     "commitment_oil_mining": "full",
     "commitment_oil_mining_description": "Full oil and gas"
   }
