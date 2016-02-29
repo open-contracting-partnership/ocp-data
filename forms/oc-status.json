@@ -16,13 +16,11 @@
           "publisher": {
             "title": "Name of the publishing entity or page",
             "type": "string",
-            "default": false,
             "description": ""
           },
           "publisher_link": {
             "title": "Link to publishing entity",
             "type": "string",
-            "default": false,
             "description": ""
           },
           "ocds_historic_data": {
@@ -43,8 +41,7 @@
             "default": false,
             "description": ""
           }
-        },
-        "required": ["publisher_name"]
+        } 
       }
     },
     "ocds_description": {
