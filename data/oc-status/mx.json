@@ -1,1 +1,37 @@
-{"iso":"mx","name":"Mexico","full_name":"Mexico – United Mexican States","meta":{},"results":{"innovations":[{"innovation_description":"Social Witness;Compranet Business Intelligence Tool","innovation_link":"http://www.opengovguide.com/country-examples/in-mexico-social-witnesses-oversee-public-procurement/;https://compranetim.funcionpublica.gob.mx/CompranetIMindex.html;http://datos.gob.mx/redcompartida/"}],"publishers":[{"publisher":"Mexico City;Ministry of Communications Telecom PPP","publisher_link":"http://www.contratosabiertos.cdmx.gob.mx/;http://datos.gob.mx/redcompartida/","ocds_implementation":true}],"ogp_commitments":[{"ogp_commitment":"Compras Abiertas: Promover mayor transparencia y participación en los procesos de compras del gobierno, apoyándose en el Sistema de Contrataciones Gubernamentales. Mediante la publicación oportuna, actualizada y sistemática de información suficiente acerca de la formación, adjudicación, ejecución, cumplimiento y finalización de los contratos públicos se harán adquisiciones con mayor certidumbre, más competitivas y justas. Con ello se logrará un uso más eficiente de los recursos públicos.","ogp_commitment_link":"http://www.opengovpartnership.org/sites/default/files/pa_aga_2015%20%281%29.pdf"}],"citizen_monitoring":true}}
+{
+  "iso": "mx",
+  "name": "Mexico",
+  "full_name": "Mexico – United Mexican States",
+  "meta": {
+    "date": 1456776647790
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Social Witness;Compranet Business Intelligence Tool",
+        "innovation_link": "http://www.opengovguide.com/country-examples/in-mexico-social-witnesses-oversee-public-procurement/;https://compranetim.funcionpublica.gob.mx/CompranetIMindex.html;http://datos.gob.mx/redcompartida/"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Mexico City",
+        "publisher_link": "http://www.contratosabiertos.cdmx.gob.mx/",
+        "ocds_implementation": true
+      },
+      {
+        "publisher": "Ministry of Communications Telecom PPP",
+        "publisher_link": "http://datos.gob.mx/redcompartida/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "Compras Abiertas: Promover mayor transparencia y participación en los procesos de compras del gobierno, apoyándose en el Sistema de Contrataciones Gubernamentales. Mediante la publicación oportuna, actualizada y sistemática de información suficiente acerca de la formación, adjudicación, ejecución, cumplimiento y finalización de los contratos públicos se harán adquisiciones con mayor certidumbre, más competitivas y justas. Con ello se logrará un uso más eficiente de los recursos públicos.",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/pa_aga_2015%20%281%29.pdf"
+      }
+    ],
+    "citizen_monitoring": true
+  }
+}
