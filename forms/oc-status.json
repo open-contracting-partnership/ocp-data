@@ -15,13 +15,13 @@
         "properties": {
           "publisher": {
             "title": "Name of the publishing entity or page",
-            "type": "boolean",
+            "type": "string",
             "default": false,
             "description": ""
           },
           "publisher_link": {
             "title": "Link to publishing entity",
-            "type": "boolean",
+            "type": "string",
             "default": false,
             "description": ""
           },
