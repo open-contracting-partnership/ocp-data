@@ -1,1 +1,18 @@
-{"iso":"hu","name":"Hungary","full_name":"Hungary","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "hu",
+  "name": "Hungary",
+  "full_name": "Hungary",
+  "meta": {
+    "date": 1457119205685
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Detecting red flags in public procurement",
+        "innovation_link": "http://www.redflags.eu/"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": []
+  }
+}
