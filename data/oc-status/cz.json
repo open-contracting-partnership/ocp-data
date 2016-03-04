@@ -1,2 +1,16 @@
-{"iso":"cz","name":"Czech Republic","full_name":"Czech Republic","meta":{},"results":{"innovations":["innovation_description": "Public Procurement Benchmarking Tool",
-        "innovation_link": "http://www.zindex.cz"],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "cz",
+  "name": "Czech Republic",
+  "full_name": "Czech Republic",
+  "meta": {},
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Public Procurement Benchmarking Tool",
+        "innovation_link": "http://www.zindex.cz"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": []
+  }
+}
