@@ -1,1 +1,23 @@
-{"iso":"co","name":"Colombia","full_name":"Colombia – Republic of Colombia","meta":{},"results":{"innovations":[],"publishers":[{"publisher":"Colombia Compra","ocds_implementation":true}],"ogp_commitments":[{"ogp_commitment":"X"}]}}
+{
+  "iso": "co",
+  "name": "Colombia",
+  "full_name": "Colombia – Republic of Colombia",
+  "meta": {
+    "date": 1457455737192
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Colombia Compra",
+        "ocds_implementation": true
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Open%20%20Government%20Partnership%20%28Inglés%29Documento%20enviado%20OGP.docx"
+      }
+    ]
+  }
+}
