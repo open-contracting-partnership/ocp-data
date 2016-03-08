@@ -1,1 +1,22 @@
-{"iso":"ro","name":"Romania","full_name":"Romania","meta":{},"results":{"innovations":[],"publishers":[{"ocds_implementation":true}],"ogp_commitments":[{"ogp_commitment":"x","ogp_commitment_link":"http://www.opengovpartnership.org/sites/default/files/Romania%202nd%20Action%20Plan%202014-2016.pdf"}]}}
+{
+  "iso": "ro",
+  "name": "Romania",
+  "full_name": "Romania",
+  "meta": {
+    "date": 1457454652963
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "ocds_implementation": true
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Romania%202nd%20Action%20Plan%202014-2016.pdf"
+      }
+    ]
+  }
+}
