@@ -3,10 +3,15 @@
   "name": "Romania",
   "full_name": "Romania",
   "meta": {
-    "date": 1457454652963
+    "date": 1459540027659
   },
   "results": {
-    "innovations": [],
+    "innovations": [
+      {
+        "innovation_description": "Tender Tracking Project",
+        "innovation_link": "http://ro.tendertracking.eu/?sf_culture=en"
+      }
+    ],
     "publishers": [
       {
         "ocds_implementation": true
