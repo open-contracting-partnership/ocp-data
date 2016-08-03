@@ -3,14 +3,16 @@
   "name": "Colombia",
   "full_name": "Colombia – Republic of Colombia",
   "meta": {
-    "date": 1457455737192
+    "date": 1470237712674
   },
   "results": {
     "innovations": [],
     "publishers": [
       {
         "publisher": "Colombia Compra",
-        "ocds_implementation": true
+        "ocds_implementation": true,
+        "ocds_ongoing_data": true,
+        "ocds_historic_data": true
       }
     ],
     "ogp_commitments": [
