@@ -1,1 +1,27 @@
-{"iso":"ua","name":"Ukraine","full_name":"Ukraine","meta":{},"results":{"innovations":[{"innovation_description":"Business Intelligence tool","innovation_link":"bi.prozorro.org/en"}],"publishers":[{"publisher":"Ministry of Economic Development","ocds_implementation":true}],"ogp_commitments":[],"citizen_monitoring":true}}
+{
+  "iso": "ua",
+  "name": "Ukraine",
+  "full_name": "Ukraine",
+  "meta": {
+    "date": 1470337149717
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Business Intelligence tool",
+        "innovation_link": "bi.prozorro.org/en"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Ministry of Economic Development",
+        "ocds_implementation": false,
+        "publisher_link": "http://www.prozorro.gov.ua",
+        "ocds_ongoing_data": true,
+        "ocds_historic_data": true
+      }
+    ],
+    "ogp_commitments": [],
+    "citizen_monitoring": true
+  }
+}
