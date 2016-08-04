@@ -3,16 +3,22 @@
   "name": "Poland",
   "full_name": "Poland – Republic of Poland",
   "meta": {
-    "date": 1459540101328
+    "date": 1469791210592
   },
   "results": {
     "innovations": [
       {
         "innovation_description": "Tender Tracking Project",
         "innovation_link": "http://pl.tendertracking.eu/?sf_culture=en"
+      },
+      {
+        "innovation_description": "Searchable contracting data and analysis",
+        "innovation_link": "https://mojepanstwo.pl/zamowienia_publiczne"
       }
     ],
     "publishers": [],
-    "ogp_commitments": []
+    "ogp_commitments": [],
+    "citizen_monitoring": false,
+    "ocds_description": "Polska"
   }
 }
