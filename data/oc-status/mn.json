@@ -1,1 +1,25 @@
-{"iso":"mn","name":"Mongolia","full_name":"Mongolia","meta":{},"results":{"innovations":[{"innovation_description":"Mongolia Monitoring Network - Need to find name","innovation_link":"http://pro-act.org/profiles/blogs/open-contracting-building-better-roads-in-mongolia"}],"publishers":[],"ogp_commitments":[],"citizen_monitoring":true,"disclosure_oil_mining":"some"}}
+{
+  "iso": "mn",
+  "name": "Mongolia",
+  "full_name": "Mongolia",
+  "meta": {
+    "date": 1471379281183
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Mongolia Monitoring Network - Need to find name",
+        "innovation_link": "http://pro-act.org/profiles/blogs/open-contracting-building-better-roads-in-mongolia"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Mongolia_NAP2_Eng.pdf"
+      }
+    ],
+    "citizen_monitoring": true,
+    "disclosure_oil_mining": "some"
+  }
+}
