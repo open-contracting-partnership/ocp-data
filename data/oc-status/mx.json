@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1466345514868
+    "date": 1473366662664
   },
   "results": {
     "innovations": [
@@ -20,21 +20,22 @@
       {
         "publisher": "Mexico City",
         "publisher_link": "http://www.contratosabiertos.cdmx.gob.mx/",
-        "ocds_implementation": true
+        "ocds_implementation": false,
+        "ocds_ongoing_data": true
       },
       {
         "publisher": "Ministry of Communications Telecom PPP",
         "publisher_link": "http://datos.gob.mx/redcompartida/",
         "ocds_historic_data": false,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": true
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false
       },
       {
         "publisher": " New International Airport of Mexico City",
         "publisher_link": "http://busca.datos.gob.mx/#!/instituciones/gacm/",
-        "ocds_historic_data": false,
+        "ocds_historic_data": true,
         "ocds_ongoing_data": false,
-        "ocds_implementation": true
+        "ocds_implementation": false
       }
     ],
     "ogp_commitments": [
