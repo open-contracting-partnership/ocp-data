@@ -1,1 +1,26 @@
-{"iso":"ar","name":"Argentina","full_name":"Argentina – Argentine Republic","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "ar",
+  "name": "Argentina",
+  "full_name": "Argentina – Argentine Republic",
+  "meta": {
+    "date": 1483560908782
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "",
+        "publisher_link": "",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "Transparency and Institutional Innovation Agenda, City of Buenos Aires",
+        "ogp_commitment_link": "http://www.buenosaires.gob.ar/agendadetransparencia/gobierno-abierto/compras-publicas"
+      }
+    ]
+  }
+}
