@@ -1,1 +1,23 @@
-{"iso":"cl","name":"Chile","full_name":"Chile – Republic of Chile","meta":{},"results":{"innovations":[{"innovation_description":"Compras Transparentes","innovation_link":"http://www.comprastransparentes.cl"}],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "cl",
+  "name": "Chile",
+  "full_name": "Chile – Republic of Chile",
+  "meta": {
+    "date": 1483563691772
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Compras Transparentes",
+        "innovation_link": "http://www.comprastransparentes.cl"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2016-18",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Chile_Plan-de-Accion_2016-2018.pdf"
+      }
+    ]
+  }
+}
