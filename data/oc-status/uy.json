@@ -1,1 +1,19 @@
-{"iso":"uy","name":"Uruguay","full_name":"Uruguay – Oriental Republic of Uruguay","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "uy",
+  "name": "Uruguay",
+  "full_name": "Uruguay – Oriental Republic of Uruguay",
+  "meta": {
+    "date": 1486153791839
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Uruguay_3-Plan-Accion_GA_V22.pdf"
+      }
+    ],
+    "ocds_description": "United States"
+  }
+}
