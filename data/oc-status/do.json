@@ -1,1 +1,19 @@
-{"iso":"do","name":"Dominican Republic","full_name":"Dominican Republic","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "do",
+  "name": "Dominican Republic",
+  "full_name": "Dominican Republic",
+  "meta": {
+    "date": 1486153865113
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/RepDom_NAP3.pdf"
+      }
+    ],
+    "ocds_description": "United States"
+  }
+}
