@@ -1,1 +1,40 @@
-{"iso":"gb","name":"United Kingdom","full_name":"United Kingdom – United Kingdom of Great Britain and Northern Ireland","meta":{},"results":{"innovations":[{"innovation_description":"Mystery Shopper;Corruption Risk Analysis ","innovation_link":"http://www.opengovguide.com/country-examples/the-uk-created-a-mystery-shopper-service-to-resolve-complaints-related-to-procurement-processes/; http://electoral-reform.org.uk/sites/default/files/THE%20COST%20OF%20ONE-PARTY%20COUNCILS.pdf"}],"publishers":[{"publisher":"UK Cabinet Office Contracts Finder;Spend Network Private Platform","ocds_implementation":true}],"ogp_commitments":[{"ogp_commitment":"The UK government endorses the principles of open contracting. We will build on the existing foundation of transparency in procurement and contracting and, in consultation with civil society organisations and other stakeholders, we will look at ways to enhance the scope, breadth and usability of published contractual data.","ogp_commitment_link":"http://www.opengovpartnership.org/sites/default/files/20131031_ogp_uknationalactionplan.pdf"}],"disclosure_oil_mining":"partial","disclosure_oil_mining_description":"Most or all"}}
+{
+  "iso": "gb",
+  "name": "United Kingdom",
+  "full_name": "United Kingdom – United Kingdom of Great Britain and Northern Ireland",
+  "meta": {
+    "date": 1487255975840
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": " ",
+        "innovation_link": ""
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "UK Cabinet Office Contracts Finder",
+        "ocds_implementation": false,
+        "ocds_ongoing_data": true,
+        "publisher_link": "https://www.gov.uk/government/publications/open-contracting"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2013-2015",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/20131031_ogp_uknationalactionplan.pdf"
+      },
+      {
+        "ogp_commitment": "OGP NAP 2016-2017",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/UK%20Open%20Government%20National%20Action%20Plan%202016-18.pdf"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit country commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522749/United_Kingdom.pdf"
+      }
+    ],
+    "disclosure_oil_mining": "none",
+    "disclosure_oil_mining_description": ""
+  }
+}
