@@ -3,20 +3,16 @@
   "name": "Argentina",
   "full_name": "Argentina – Argentine Republic",
   "meta": {
-    "date": 1483560908782
+    "date": 1488487248068
   },
   "results": {
     "innovations": [],
-    "publishers": [
-      {
-        "publisher": "",
-        "publisher_link": "",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false
-      }
-    ],
+    "publishers": [],
     "ogp_commitments": [
+      {
+        "ogp_commitment": "Commitment UK Anti-Corruption Summit",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522967/Argentina.pdf"
+      },
       {
         "ogp_commitment": "Transparency and Institutional Innovation Agenda, City of Buenos Aires",
         "ogp_commitment_link": "http://www.buenosaires.gob.ar/agendadetransparencia/gobierno-abierto/compras-publicas"
