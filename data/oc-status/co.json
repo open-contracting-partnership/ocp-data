@@ -3,7 +3,7 @@
   "name": "Colombia",
   "full_name": "Colombia – Republic of Colombia",
   "meta": {
-    "date": 1472641373583
+    "date": 1488487444977
   },
   "results": {
     "innovations": [],
@@ -20,6 +20,10 @@
       {
         "ogp_commitment": "National Action Plan",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Open%20%20Government%20Partnership%20%28Inglés%29Documento%20enviado%20OGP.docx"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522717/Colombia__1_.pdf"
       }
     ]
   }
