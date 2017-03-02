@@ -3,13 +3,17 @@
   "name": "Ukraine",
   "full_name": "Ukraine",
   "meta": {
-    "date": 1470337149717
+    "date": 1488486062892
   },
   "results": {
     "innovations": [
       {
         "innovation_description": "Business Intelligence tool",
         "innovation_link": "bi.prozorro.org/en"
+      },
+      {
+        "innovation_description": "DoZorro: Contracting monitoring platform ",
+        "innovation_link": "https://dozorro.org"
       }
     ],
     "publishers": [
@@ -21,7 +25,12 @@
         "ocds_historic_data": true
       }
     ],
-    "ogp_commitments": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2017-2019",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Ukraine_National-Action-Plan-3_2016-18_EN.docx"
+      }
+    ],
     "citizen_monitoring": true
   }
 }
