@@ -3,7 +3,7 @@
   "name": "Ghana",
   "full_name": "Ghana – Republic of Ghana",
   "meta": {
-    "date": 1486153621138
+    "date": 1488487637439
   },
   "results": {
     "innovations": [],
@@ -12,6 +12,10 @@
       {
         "ogp_commitment": "OGP NAP 2015-2017",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Ghana%20Plan%203.pdf"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment ",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522707/Ghana.pdf"
       }
     ],
     "disclosure_oil_mining": "some",
