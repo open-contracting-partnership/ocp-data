@@ -3,13 +3,13 @@
   "name": "Nigeria",
   "full_name": "Nigeria – Federal Republic of Nigeria",
   "meta": {
-    "date": 1486153571847
+    "date": 1488487902462
   },
   "results": {
     "innovations": [
       {
-        "innovation_description": "Civil society monitoring program;Platform to collect & Publish Open Contracting Data",
-        "innovation_link": "http://library.procurementmonitor.org/index.php;http://budeshi.org/"
+        "innovation_description": "Civil society monitoring program",
+        "innovation_link": "http://library.procurementmonitor.org/index.php"
       }
     ],
     "publishers": [
@@ -23,6 +23,10 @@
       {
         "ogp_commitment": "OGP NAP 2017-2019",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Nigeria_NAP_2017-2019.doc"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523799/NIGERIA-_FINAL_COUNTRY_STATEMENT-UK_SUMMIT.pdf"
       }
     ]
   }
