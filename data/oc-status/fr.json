@@ -3,7 +3,7 @@
   "name": "France",
   "full_name": "France – French Republic",
   "meta": {
-    "date": 1457456564657
+    "date": 1488487502589
   },
   "results": {
     "innovations": [],
@@ -12,6 +12,10 @@
       {
         "ogp_commitment": "National Action Plan 2015-2017",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/2015%2007%2009_Plan%20gouvernement%20ouvert%20EN%20Version%20Finale.pdf"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522751/France.pdf"
       }
     ]
   }
