@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1473366662664
+    "date": 1488487837959
   },
   "results": {
     "innovations": [
@@ -40,8 +40,12 @@
     ],
     "ogp_commitments": [
       {
-        "ogp_commitment": "National Action Plan",
+        "ogp_commitment": "OGP NAP 2016-2018",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/pa_aga_2015%20%281%29.pdf"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522966/Mexico.pdf"
       }
     ],
     "citizen_monitoring": true
