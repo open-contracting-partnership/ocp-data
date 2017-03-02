@@ -1,1 +1,18 @@
-{"iso":"bg","name":"Bulgaria","full_name":"Bulgaria – Republic of Bulgaria","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "bg",
+  "name": "Bulgaria",
+  "full_name": "Bulgaria – Republic of Bulgaria",
+  "meta": {
+    "date": 1488487380633
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "UK Anti-corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522700/Bulgaria.pdf"
+      }
+    ]
+  }
+}
