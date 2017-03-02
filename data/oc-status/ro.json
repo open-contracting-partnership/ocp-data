@@ -3,7 +3,7 @@
   "name": "Romania",
   "full_name": "Romania",
   "meta": {
-    "date": 1471269078355
+    "date": 1488487952779
   },
   "results": {
     "innovations": [
@@ -25,6 +25,10 @@
       {
         "ogp_commitment": "National Action Plan 2016-2018",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Romania-NAP_2016-2018%20EN.pdf"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522726/Romania.pdf"
       }
     ]
   }
