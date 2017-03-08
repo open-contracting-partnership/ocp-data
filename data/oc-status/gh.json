@@ -3,7 +3,7 @@
   "name": "Ghana",
   "full_name": "Ghana – Republic of Ghana",
   "meta": {
-    "date": 1488487637439
+    "date": 1489005506894
   },
   "results": {
     "innovations": [],
@@ -18,7 +18,7 @@
         "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522707/Ghana.pdf"
       }
     ],
-    "disclosure_oil_mining": "some",
-    "ocds_description": "United States"
+    "disclosure_oil_mining": "none",
+    "ocds_description": ""
   }
 }
