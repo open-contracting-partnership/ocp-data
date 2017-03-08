@@ -3,7 +3,7 @@
   "name": "Mongolia",
   "full_name": "Mongolia",
   "meta": {
-    "date": 1471379281183
+    "date": 1489005676968
   },
   "results": {
     "innovations": [
@@ -20,6 +20,6 @@
       }
     ],
     "citizen_monitoring": true,
-    "disclosure_oil_mining": "some"
+    "disclosure_oil_mining": "none"
   }
 }
