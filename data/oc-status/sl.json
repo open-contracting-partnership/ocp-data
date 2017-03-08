@@ -3,7 +3,7 @@
   "name": "Sierra Leone",
   "full_name": "Sierra Leone – Republic of Sierra Leone",
   "meta": {
-    "date": 1471375365743
+    "date": 1489005752371
   },
   "results": {
     "innovations": [
@@ -22,6 +22,6 @@
     "commitment_oil_mining": "full",
     "commitment_oil_mining_description": "Oil and Gas",
     "commitment_oil_mining_link": "http://www.sierra-leone.org/Laws/2011-07.pdf",
-    "disclosure_oil_mining": "some"
+    "disclosure_oil_mining": "none"
   }
 }
