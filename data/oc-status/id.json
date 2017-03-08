@@ -1,1 +1,23 @@
-{"iso":"id","name":"Indonesia","full_name":"Indonesia – Republic of Indonesia","meta":{},"results":{"innovations":[{"innovation_description":"OpenTender portal","innovation_link":"http://www.opentender.net/"}],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "id",
+  "name": "Indonesia",
+  "full_name": "Indonesia – Republic of Indonesia",
+  "meta": {
+    "date": 1489005999609
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "OpenTender portal",
+        "innovation_link": "http://www.opentender.net/"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "Bojonegoro subnational OGP action plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Bojonegoro_Subnational_Action-Plan_2016-17_ENG.pdf"
+      }
+    ]
+  }
+}
