@@ -3,7 +3,7 @@
   "name": "United Kingdom",
   "full_name": "United Kingdom – United Kingdom of Great Britain and Northern Ireland",
   "meta": {
-    "date": 1487255975840
+    "date": 1489005919328
   },
   "results": {
     "innovations": [
@@ -32,6 +32,10 @@
       {
         "ogp_commitment": "UK Anti-Corruption Summit country commitment",
         "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522749/United_Kingdom.pdf"
+      },
+      {
+        "ogp_commitment": "Scotland subnational OGP action plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Scotland_Subational_Action-Plan_20161125.docx"
       }
     ],
     "disclosure_oil_mining": "none",
