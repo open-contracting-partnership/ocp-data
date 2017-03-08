@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1488487837959
+    "date": 1489006150615
   },
   "results": {
     "innovations": [
@@ -33,8 +33,8 @@
       {
         "publisher": " New International Airport of Mexico City",
         "publisher_link": "http://busca.datos.gob.mx/#!/instituciones/gacm/",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
         "ocds_implementation": false
       }
     ],
@@ -46,6 +46,10 @@
       {
         "ogp_commitment": "UK Anti-Corruption Summit Commitment",
         "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522966/Mexico.pdf"
+      },
+      {
+        "ogp_commitment": "Jalisco subnational OGP action plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Jalisco_Subnational_Action-Plan_2016-2018_EN.pdf"
       }
     ],
     "citizen_monitoring": true
