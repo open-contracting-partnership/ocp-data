@@ -10,9 +10,10 @@
        "publishers": [
       {
         "publisher": "New South Wales",
-        "publisher_link": "https://github.com/NSW-eTendering/NSW-eTendering-API",
-        "ocds_historic_data": true,
+        "ocds_implementation": true,
         "ocds_ongoing_data": true,
+        "ocds_historic_data": true,
+        "publisher_link": "https://github.com/NSW-eTendering/NSW-eTendering-API"
       },
     "ogp_commitments": [
       {
