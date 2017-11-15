@@ -7,19 +7,20 @@
   },
   "results": {
     "innovations": [],
-       "publishers": [
+    "publishers": [
       {
         "publisher": "New South Wales",
         "ocds_implementation": true,
         "ocds_ongoing_data": true,
         "ocds_historic_data": true,
         "publisher_link": "https://github.com/NSW-eTendering/NSW-eTendering-API"
-      },
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP National Action Plan 2016-18",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Australia_NAP_2016-2018_0.pdf"
-      },
+      }
     ]
   }
 }
