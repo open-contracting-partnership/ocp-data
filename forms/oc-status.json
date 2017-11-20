@@ -6,6 +6,24 @@
   "version": 1,
   "required": [],
   "properties": {
+    "tenders_awards": {
+      "title": "Transparency of Tenders & Awards",
+      "type": "string",
+      "default": "",
+      "description": ""
+    },
+    "contract_changes": {
+      "title": "Transparency of Contract Changes",
+      "type": "boolean",
+      "default": false,
+      "description": ""
+    },
+    "complaints_mechanism": {
+      "title": "Complaints mechanism",
+      "type": "boolean",
+      "default": false,
+      "description": ""
+    },
     "publishers": {
       "type": "array",
       "title": "Publishers",
@@ -87,6 +105,25 @@
         "required": ["ogp_commitment"]
       }
     },
+    "impacts_stories": {
+      "type": "array",
+      "title": "Impacts and stories",
+      "items": {
+        "title": "Story",
+        "type": "object",
+        "properties": {
+          "story_title": {
+            "title": "Name",
+            "type": "string"
+          },
+          "story_url": {
+            "title": "Link",
+            "type": "string"
+          }
+        },
+        "required": ["story_title", "story_url"]
+      }
+    },
     "citizen_monitoring": {
       "title": "Citizen Monitoring Legal Framework",
       "type": "boolean",
@@ -121,6 +158,12 @@
     },
     "disclosure_oil_mining_link": {
       "title": "Link to oil and mining disclosure",
+      "type": "string",
+      "default": "",
+      "description": ""
+    },
+    "read_more": {
+      "title": "Read more",
       "type": "string",
       "default": "",
       "description": ""
