@@ -3,7 +3,7 @@
   "name": "Paraguay",
   "full_name": "Paraguay – Republic of Paraguay",
   "meta": {
-    "date": 1468263825267
+    "date": 1511237715364
   },
   "results": {
     "innovations": [
@@ -29,6 +29,12 @@
       {
         "ogp_commitment": "National Action Plan 2016-2018",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Paraguay_NAP_3_0.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Paraguay's Transparency Alquimists",
+        "story_url": "https://medium.com/@opencontracting/paraguays-transparency-alchemists-623c8e3c538f"
       }
     ]
   }
