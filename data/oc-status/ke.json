@@ -3,7 +3,7 @@
   "name": "Kenya",
   "full_name": "Kenya – Republic of Kenya",
   "meta": {
-    "date": 1489006084296
+    "date": 1511546321942
   },
   "results": {
     "innovations": [
@@ -21,6 +21,16 @@
       {
         "ogp_commitment": "Elgeyo Marakwet County subnational OGP action plan",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Elgeyo-Marakwet_Subnational_Action-Plan20161201.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Pro-active disclosure can help curb flawed procurement processes in Kenya",
+        "story_url": "https://www.open-contracting.org/2017/04/13/pro-active-disclosure-can-help-curb-flawed-procurement-processes-kenya/"
+      },
+      {
+        "story_title": "New year, big plans for open contracting in Africa",
+        "story_url": "https://www.open-contracting.org/2017/01/18/new-year-big-plans-open-contracting-africa/"
       }
     ]
   }
