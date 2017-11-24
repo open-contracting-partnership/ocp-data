@@ -3,7 +3,7 @@
   "name": "France",
   "full_name": "France – French Republic",
   "meta": {
-    "date": 1488487502589
+    "date": 1511544701061
   },
   "results": {
     "innovations": [],
@@ -16,6 +16,16 @@
       {
         "ogp_commitment": "UK Anti-Corruption Summit Commitment",
         "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522751/France.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Open Contracting sans frontières : la version française est disponible",
+        "story_url": "https://www.open-contracting.org/2016/12/07/open-contracting-version-francaise/"
+      },
+      {
+        "story_title": "Open contracting at the OGP Summit in Paris",
+        "story_url": "https://www.open-contracting.org/2016/12/05/open-contracting-ogp-summit-paris/"
       }
     ]
   }
