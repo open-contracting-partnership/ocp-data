@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1511237934575
+    "date": 1511546597358
   },
   "results": {
     "innovations": [
@@ -59,6 +59,16 @@
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Jalisco_Subnational_Action-Plan_2016-2018_EN.pdf"
       }
     ],
-    "citizen_monitoring": true
+    "citizen_monitoring": true,
+    "impacts_stories": [
+      {
+        "story_title": "What's happening in Mexico",
+        "story_url": "https://www.open-contracting.org/why-open-contracting/worldwide/mexico/"
+      },
+      {
+        "story_title": "Your city, your data: Open Contracting Challenge CDMX 2017",
+        "story_url": "https://www.open-contracting.org/2017/07/10/city-data-open-contracting-challenge-cdmx-2017/"
+      }
+    ]
   }
 }
