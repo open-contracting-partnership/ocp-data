@@ -3,7 +3,7 @@
   "name": "Colombia",
   "full_name": "Colombia – Republic of Colombia",
   "meta": {
-    "date": 1488487444977
+    "date": 1511544089535
   },
   "results": {
     "innovations": [],
@@ -28,6 +28,20 @@
       {
         "ogp_commitment": "UK Anti-Corruption Summit Commitment",
         "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522717/Colombia__1_.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "$1 trillion in public contracting in five major economies to become open-by-default",
+        "story_url": "https://www.open-contracting.org/news/1-trillion-public-contracting-five-major-economies-become-open-default/"
+      },
+      {
+        "story_title": "A pragmatist’s reflections on data quality",
+        "story_url": "https://www.open-contracting.org/2016/11/23/reflections-on-data-quality/"
+      },
+      {
+        "story_title": "IODC15: Open Contracting Reflections from Canada, Colombia, Indonesia, Mexico, Nepal, Paraguay, Romania, and Ukraine",
+        "story_url": "https://www.open-contracting.org/2015/06/09/iodc15_open_contracting_reflections/"
       }
     ]
   }
