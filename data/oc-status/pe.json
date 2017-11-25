@@ -1,1 +1,25 @@
-{"iso":"pe","name":"Peru","full_name":"Peru – Republic of Peru","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[],"disclosure_oil_mining":"partial","disclosure_oil_mining_description":"Most or all"}}
+{
+  "iso": "pe",
+  "name": "Peru",
+  "full_name": "Peru – Republic of Peru",
+  "meta": {
+    "date": 1511574176993
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "disclosure_oil_mining": "partial",
+    "disclosure_oil_mining_description": "Most or all",
+    "impacts_stories": [
+      {
+        "story_title": "Contracts published, sky not falling. Lima learnings EITI 2016",
+        "story_url": "https://www.open-contracting.org/2016/03/10/takeaways-from-eiti-2016-contract-transparency-is-becoming-norm/"
+      },
+      {
+        "story_title": "El nexo entre contratos y élites: Poner las contrataciones abiertas en uso desde sociedad civil",
+        "story_url": "https://www.open-contracting.org/2017/05/22/el-nexo-entre-contratos-y-elites-poner-las-contrataciones-abiertas-en-uso-desde-sociedad-civil/"
+      }
+    ]
+  }
+}
