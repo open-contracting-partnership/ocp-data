@@ -3,7 +3,7 @@
   "name": "Poland",
   "full_name": "Poland – Republic of Poland",
   "meta": {
-    "date": 1469791210592
+    "date": 1511574539721
   },
   "results": {
     "innovations": [
@@ -19,6 +19,12 @@
     "publishers": [],
     "ogp_commitments": [],
     "citizen_monitoring": false,
-    "ocds_description": "Polska"
+    "ocds_description": "Polska",
+    "impacts_stories": [
+      {
+        "story_title": "Talking open contracting in the “City of Freedom”",
+        "story_url": "https://www.open-contracting.org/2017/03/30/talking-open-contracting-city-freedom/"
+      }
+    ]
   }
 }
