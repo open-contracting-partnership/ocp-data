@@ -1,1 +1,23 @@
-{"iso":"tn","name":"Tunisia","full_name":"Tunisia – Republic of Tunisia","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "tn",
+  "name": "Tunisia",
+  "full_name": "Tunisia – Republic of Tunisia",
+  "meta": {
+    "date": 1511574446652
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "From contract transparency to open contracting in natural resources",
+        "story_url": "https://www.open-contracting.org/2016/10/28/contract-transparency-open-contracting-natural-resources/"
+      },
+      {
+        "story_title": "Tunisia Says Yes to Resource Contract Transparency",
+        "story_url": "http://blogs.ei.columbia.edu/2016/10/11/tunisia-says-yes-to-resource-contract-transparency/"
+      }
+    ]
+  }
+}
