@@ -3,7 +3,7 @@
   "name": "United Kingdom",
   "full_name": "United Kingdom – United Kingdom of Great Britain and Northern Ireland",
   "meta": {
-    "date": 1489005919328
+    "date": 1511573446566
   },
   "results": {
     "innovations": [
@@ -39,6 +39,16 @@
       }
     ],
     "disclosure_oil_mining": "none",
-    "disclosure_oil_mining_description": ""
+    "disclosure_oil_mining_description": "",
+    "impacts_stories": [
+      {
+        "story_title": "Showcase and Learning",
+        "story_url": "https://www.open-contracting.org/why-open-contracting/showcase-projects/uk/"
+      },
+      {
+        "story_title": "International Conference of Information Commissioners highlights need for greater transparency in contracted-out public services",
+        "story_url": "https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2017/09/international-conference-of-information-commissioners-highlights-need-for-greater-transparency-in-contracted-out-public-services/"
+      }
+    ]
   }
 }
