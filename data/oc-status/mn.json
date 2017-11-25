@@ -3,7 +3,7 @@
   "name": "Mongolia",
   "full_name": "Mongolia",
   "meta": {
-    "date": 1489005676968
+    "date": 1511575103898
   },
   "results": {
     "innovations": [
@@ -20,6 +20,16 @@
       }
     ],
     "citizen_monitoring": true,
-    "disclosure_oil_mining": "none"
+    "disclosure_oil_mining": "none",
+    "impacts_stories": [
+      {
+        "story_title": "Getting to the Heart of the Community: Local procurement monitoring in Mongolia",
+        "story_url": "https://www.open-contracting.org/2013/08/06/getting_to_the_heart_of_the_community/"
+      },
+      {
+        "story_title": "In Mongolia National Advocacy Results in Changes to Law",
+        "story_url": "https://www.open-contracting.org/2013/05/22/in_mongolia_national_advocacy_results_in_changes_to_law/"
+      }
+    ]
   }
 }
