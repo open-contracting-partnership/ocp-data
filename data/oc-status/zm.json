@@ -1,1 +1,29 @@
-{"iso":"zm","name":"Zambia","full_name":"Zambia – Republic of Zambia","meta":{},"results":{"innovations":[],"publishers":[{"publisher":"Zambia Public Procurement Authority","ocds_implementation":true}],"ogp_commitments":[],"commitment_oil_mining":"full","commitment_oil_mining_description":"full (mining)","disclosure_oil_mining":"full","disclosure_oil_mining_description":"full (mining)","disclosure_oil_mining_link":"cadaster"}}
+{
+  "iso": "zm",
+  "name": "Zambia",
+  "full_name": "Zambia – Republic of Zambia",
+  "meta": {
+    "date": 1511572499475
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Zambia Public Procurement Authority",
+        "ocds_implementation": true
+      }
+    ],
+    "ogp_commitments": [],
+    "commitment_oil_mining": "full",
+    "commitment_oil_mining_description": "full (mining)",
+    "disclosure_oil_mining": "full",
+    "disclosure_oil_mining_description": "full (mining)",
+    "disclosure_oil_mining_link": "cadaster",
+    "impacts_stories": [
+      {
+        "story_title": "Helping to Navigate the Roads Sector In Zambia",
+        "story_url": "https://www.open-contracting.org/2013/08/30/helping_to_navigate_the_roads_sector_in_zambia/"
+      }
+    ]
+  }
+}
