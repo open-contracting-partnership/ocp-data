@@ -1,1 +1,19 @@
-{"iso":"ug","name":"Uganda","full_name":"Uganda – Republic of Uganda","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "ug",
+  "name": "Uganda",
+  "full_name": "Uganda – Republic of Uganda",
+  "meta": {
+    "date": 1511574628930
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Open contracting in Uganda as a model for Africa?",
+        "story_url": "https://www.open-contracting.org/2017/10/27/open-contracting-uganda-model-africa/"
+      }
+    ]
+  }
+}
