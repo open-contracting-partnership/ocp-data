@@ -3,7 +3,7 @@
   "name": "Nigeria",
   "full_name": "Nigeria – Federal Republic of Nigeria",
   "meta": {
-    "date": 1488487902462
+    "date": 1511574113205
   },
   "results": {
     "innovations": [
@@ -27,6 +27,16 @@
       {
         "ogp_commitment": "UK Anti-Corruption Summit Commitment",
         "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523799/NIGERIA-_FINAL_COUNTRY_STATEMENT-UK_SUMMIT.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "How Budeshi can help Nigeria track public services and tackle corruption using open data",
+        "story_url": "https://www.open-contracting.org/2016/02/29/how-budeshi-can-help-nigeria-track-public-services-and-tackle-corruption-using-open-data/"
+      },
+      {
+        "story_title": "No more islands of prosperity in a torn society",
+        "story_url": "https://www.open-contracting.org/2017/03/07/no-islands-prosperity-torn-society/"
       }
     ]
   }
