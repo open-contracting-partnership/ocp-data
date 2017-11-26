@@ -3,7 +3,7 @@
   "name": "Ukraine",
   "full_name": "Ukraine",
   "meta": {
-    "date": 1488486062892
+    "date": 1511573639575
   },
   "results": {
     "innovations": [
@@ -31,6 +31,16 @@
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Ukraine_National-Action-Plan-3_2016-18_EN.docx"
       }
     ],
-    "citizen_monitoring": true
+    "citizen_monitoring": true,
+    "impacts_stories": [
+      {
+        "story_title": "Learning Insights: Measuring results from open contracting in Ukraine",
+        "story_url": "https://www.open-contracting.org/2017/04/19/learning-insights-measuring-results-ukraine/"
+      },
+      {
+        "story_title": "Ukraine to become the first country to integrate with OpenOwnership",
+        "story_url": "https://openownership.org/news/ukraine-becomes-the-first-country-to-integrate-with-openownership/"
+      }
+    ]
   }
 }
