@@ -1,1 +1,23 @@
-{"iso":"cn","name":"China","full_name":"China – People's Republic of China","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "cn",
+  "name": "China",
+  "full_name": "China – People's Republic of China",
+  "meta": {
+    "date": 1511574500431
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Taiwan’s challenge: Making contracting smarter with data",
+        "story_url": "https://www.open-contracting.org/2016/11/11/taiwans-challenge-making-contracting-smarter-data/"
+      },
+      {
+        "story_title": "Open contracting in Taiwan: the journey so far",
+        "story_url": "https://www.open-contracting.org/2016/03/02/open-contracting-in-taiwan-the-journey-so-far/"
+      }
+    ]
+  }
+}
