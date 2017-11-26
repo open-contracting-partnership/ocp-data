@@ -3,7 +3,7 @@
   "name": "Indonesia",
   "full_name": "Indonesia – Republic of Indonesia",
   "meta": {
-    "date": 1489005999609
+    "date": 1511545474290
   },
   "results": {
     "innovations": [
@@ -17,6 +17,16 @@
       {
         "ogp_commitment": "Bojonegoro subnational OGP action plan",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Bojonegoro_Subnational_Action-Plan_2016-17_ENG.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "The ‘snakes and ladders’ of open contracting",
+        "story_url": "https://webfoundation.org/2017/09/the-snakes-and-ladders-of-open-contracting/"
+      },
+      {
+        "story_title": "IODC15: Open Contracting Reflections from Canada, Colombia, Indonesia, Mexico, Nepal, Paraguay, Romania, and Ukraine",
+        "story_url": "https://www.open-contracting.org/2015/06/09/iodc15_open_contracting_reflections/"
       }
     ]
   }
