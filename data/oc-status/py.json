@@ -3,7 +3,7 @@
   "name": "Paraguay",
   "full_name": "Paraguay – Republic of Paraguay",
   "meta": {
-    "date": 1511237715364
+    "date": 1511573817566
   },
   "results": {
     "innovations": [
@@ -35,6 +35,10 @@
       {
         "story_title": "Paraguay's Transparency Alquimists",
         "story_url": "https://medium.com/@opencontracting/paraguays-transparency-alchemists-623c8e3c538f"
+      },
+      {
+        "story_title": "IODC15: Open Contracting Reflections from Canada, Colombia, Indonesia, Mexico, Nepal, Paraguay, Romania, and Ukraine",
+        "story_url": "https://www.open-contracting.org/2015/06/09/iodc15_open_contracting_reflections/"
       }
     ]
   }
