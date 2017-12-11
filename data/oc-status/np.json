@@ -3,7 +3,7 @@
   "name": "Nepal",
   "full_name": "Nepal – Federal Democratic Republic of Nepal",
   "meta": {
-    "date": 1511572445922
+    "date": 1513027283470
   },
   "results": {
     "innovations": [
@@ -12,7 +12,15 @@
         "innovation_link": "http://opencontracting.opennepal.net/#/;http://www.developmentcheck.org/countries/np"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Public Procurement Monitoring Office",
+        "publisher_link": "http://ppip.gov.np",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false
+      }
+    ],
     "ogp_commitments": [],
     "impacts_stories": [
       {
