@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1511546597358
+    "date": 1513743099212
   },
   "results": {
     "innovations": [
@@ -48,7 +48,7 @@
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP NAP 2016-2018",
-        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/pa_aga_2015%20%281%29.pdf"
+        "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Mexico_Plan-de-Accion-2016-2018.pdf"
       },
       {
         "ogp_commitment": "UK Anti-Corruption Summit Commitment",
@@ -57,6 +57,10 @@
       {
         "ogp_commitment": "Jalisco subnational OGP action plan",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Jalisco_Subnational_Action-Plan_2016-2018_EN.pdf"
+      },
+      {
+        "ogp_commitment": "OGP NAP 2013-2015",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/pa_aga_2015%20%281%29.pdf"
       }
     ],
     "citizen_monitoring": true,
@@ -69,6 +73,8 @@
         "story_title": "Your city, your data: Open Contracting Challenge CDMX 2017",
         "story_url": "https://www.open-contracting.org/2017/07/10/city-data-open-contracting-challenge-cdmx-2017/"
       }
-    ]
+    ],
+    "commitment_oil_mining": "none",
+    "commitment_oil_mining_link": ""
   }
 }
