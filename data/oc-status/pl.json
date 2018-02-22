@@ -3,7 +3,7 @@
   "name": "Poland",
   "full_name": "Poland – Republic of Poland",
   "meta": {
-    "date": 1511574539721
+    "date": 1517868119200
   },
   "results": {
     "innovations": [
@@ -14,6 +14,10 @@
       {
         "innovation_description": "Searchable contracting data and analysis",
         "innovation_link": "https://mojepanstwo.pl/zamowienia_publiczne"
+      },
+      {
+        "innovation_description": "Public Procurements Reports",
+        "innovation_link": "https://www.zamowienia20.pl/pl2/raporty/przetargi"
       }
     ],
     "publishers": [],
@@ -25,6 +29,7 @@
         "story_title": "Talking open contracting in the “City of Freedom”",
         "story_url": "https://www.open-contracting.org/2017/03/30/talking-open-contracting-city-freedom/"
       }
-    ]
+    ],
+    "contract_changes": false
   }
 }
