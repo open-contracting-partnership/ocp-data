@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1513743099212
+    "date": 1521835596572
   },
   "results": {
     "innovations": [
@@ -40,6 +40,13 @@
       {
         "publisher": "Public Administration and Finance Ministry",
         "publisher_link": "https://www.gob.mx/contratacionesabiertas/home#!/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false
+      },
+      {
+        "publisher": "Secretary of Planning, Administration, and Finance - Government of Jalisco",
+        "publisher_link": "https://contratacionesabiertas.jalisco.gob.mx/contratosabiertos/",
         "ocds_historic_data": false,
         "ocds_ongoing_data": true,
         "ocds_implementation": false
