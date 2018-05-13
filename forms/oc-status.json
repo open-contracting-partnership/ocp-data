@@ -58,6 +58,11 @@
             "type": "boolean",
             "default": false,
             "description": ""
+          },
+          "year_first_implemented": {
+            "title": "Year first implemented",
+            "type": "string",
+            "description": "In YYYY format"
           }
         } 
       }
