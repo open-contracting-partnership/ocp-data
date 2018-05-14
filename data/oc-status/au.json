@@ -3,17 +3,18 @@
   "name": "Australia",
   "full_name": "Australia – Commonwealth of Australia",
   "meta": {
-    "date": 1483563625822
+    "date": 1526333063691
   },
   "results": {
     "innovations": [],
     "publishers": [
       {
         "publisher": "New South Wales",
-        "ocds_implementation": true,
+        "ocds_implementation": false,
         "ocds_ongoing_data": true,
         "ocds_historic_data": true,
-        "publisher_link": "https://github.com/NSW-eTendering/NSW-eTendering-API"
+        "publisher_link": "https://github.com/NSW-eTendering/NSW-eTendering-API",
+        "year_first_implemented": "2017"
       }
     ],
     "ogp_commitments": [
