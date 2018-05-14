@@ -3,7 +3,7 @@
   "name": "United Kingdom",
   "full_name": "United Kingdom – United Kingdom of Great Britain and Northern Ireland",
   "meta": {
-    "date": 1511573446566
+    "date": 1526334098957
   },
   "results": {
     "innovations": [
@@ -17,7 +17,8 @@
         "publisher": "UK Cabinet Office Contracts Finder",
         "ocds_implementation": false,
         "ocds_ongoing_data": true,
-        "publisher_link": "https://www.gov.uk/government/publications/open-contracting"
+        "publisher_link": "https://www.gov.uk/government/publications/open-contracting",
+        "year_first_implemented": "2016"
       }
     ],
     "ogp_commitments": [
