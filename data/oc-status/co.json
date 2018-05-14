@@ -3,7 +3,7 @@
   "name": "Colombia",
   "full_name": "Colombia – Republic of Colombia",
   "meta": {
-    "date": 1511544089535
+    "date": 1526329457553
   },
   "results": {
     "innovations": [],
@@ -13,7 +13,8 @@
         "ocds_implementation": true,
         "ocds_ongoing_data": true,
         "ocds_historic_data": true,
-        "publisher_link": "http://www.colombiacompra.gov.co/transparencia/gestion-documental/datos-abiertos"
+        "publisher_link": "http://www.colombiacompra.gov.co/transparencia/gestion-documental/datos-abiertos",
+        "year_first_implemented": "2016"
       }
     ],
     "ogp_commitments": [
@@ -40,8 +41,8 @@
         "story_url": "https://www.open-contracting.org/2016/11/23/reflections-on-data-quality/"
       },
       {
-        "story_title": "IODC15: Open Contracting Reflections from Canada, Colombia, Indonesia, Mexico, Nepal, Paraguay, Romania, and Ukraine",
-        "story_url": "https://www.open-contracting.org/2015/06/09/iodc15_open_contracting_reflections/"
+        "story_title": "The deals behind the meals",
+        "story_url": "https://medium.com/open-contracting-stories/the-deals-behind-the-meals-c4592e9466a2"
       }
     ]
   }
