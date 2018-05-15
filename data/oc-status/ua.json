@@ -3,7 +3,7 @@
   "name": "Ukraine",
   "full_name": "Ukraine",
   "meta": {
-    "date": 1511573639575
+    "date": 1526334145045
   },
   "results": {
     "innovations": [
@@ -22,7 +22,8 @@
         "ocds_implementation": false,
         "publisher_link": "http://www.prozorro.gov.ua",
         "ocds_ongoing_data": true,
-        "ocds_historic_data": true
+        "ocds_historic_data": true,
+        "year_first_implemented": "2015"
       }
     ],
     "ogp_commitments": [
