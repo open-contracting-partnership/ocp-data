@@ -3,7 +3,7 @@
   "name": "Zambia",
   "full_name": "Zambia – Republic of Zambia",
   "meta": {
-    "date": 1523642614258
+    "date": 1526334167911
   },
   "results": {
     "innovations": [],
@@ -12,7 +12,8 @@
         "publisher": "Zambia Public Procurement Authority",
         "ocds_implementation": false,
         "ocds_ongoing_data": true,
-        "publisher_link": "https://www.zppa.org.zm/ocds-data"
+        "publisher_link": "https://www.zppa.org.zm/ocds-data",
+        "year_first_implemented": "2017"
       }
     ],
     "ogp_commitments": [],
