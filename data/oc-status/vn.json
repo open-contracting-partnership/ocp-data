@@ -3,14 +3,14 @@
   "name": "Vietnam",
   "full_name": "Vietnam – Socialist Republic of Vietnam",
   "meta": {
-    "date": 1511572540727
+    "date": 1526912392883
   },
   "results": {
     "innovations": [],
     "publishers": [
       {
-        "publisher": "Public Procurement Agency",
-        "ocds_implementation": true
+        "publisher": "",
+        "ocds_implementation": false
       }
     ],
     "ogp_commitments": [],
