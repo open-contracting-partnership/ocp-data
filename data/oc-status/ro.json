@@ -3,7 +3,7 @@
   "name": "Romania",
   "full_name": "Romania",
   "meta": {
-    "date": 1511573942464
+    "date": 1526912239330
   },
   "results": {
     "innovations": [
@@ -14,7 +14,7 @@
     ],
     "publishers": [
       {
-        "ocds_implementation": true
+        "ocds_implementation": false
       }
     ],
     "ogp_commitments": [
