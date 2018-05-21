@@ -1,1 +1,24 @@
-{"iso":"tw","name":"Taiwan (Republic of China)","full_name":"Taiwan","meta":{},"results":{"innovations":[],"publishers":[{"publisher":"DSP Inc. in Cooperation with National Development Council","publisher_link":"http://data.dsp.im/dataset/taiwan-open-contracting","ocds_implementation":true}],"ogp_commitments":[]}}
+{
+  "iso": "tw",
+  "name": "Taiwan (Republic of China)",
+  "full_name": "Taiwan",
+  "meta": {
+    "date": 1526399644485
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "DSP Inc. in Cooperation with National Development Council",
+        "innovation_link": "http://data.dsp.im/dataset/taiwan-open-contracting"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "",
+        "publisher_link": "",
+        "ocds_implementation": false
+      }
+    ],
+    "ogp_commitments": []
+  }
+}
