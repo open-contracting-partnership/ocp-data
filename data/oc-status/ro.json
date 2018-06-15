@@ -3,7 +3,7 @@
   "name": "Romania",
   "full_name": "Romania",
   "meta": {
-    "date": 1526400650961
+    "date": 1529076327785
   },
   "results": {
     "innovations": [
@@ -12,11 +12,7 @@
         "innovation_link": "http://ro.tendertracking.eu/?sf_culture=en"
       }
     ],
-    "publishers": [
-      {
-        "ocds_implementation": false
-      }
-    ],
+    "publishers": [],
     "ogp_commitments": [
       {
         "ogp_commitment": "National Action Plan 2013-2015",
