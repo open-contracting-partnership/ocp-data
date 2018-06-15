@@ -3,7 +3,7 @@
   "name": "Taiwan (Republic of China)",
   "full_name": "Taiwan",
   "meta": {
-    "date": 1526399644485
+    "date": 1529088632306
   },
   "results": {
     "innovations": [
@@ -12,13 +12,7 @@
         "innovation_link": "http://data.dsp.im/dataset/taiwan-open-contracting"
       }
     ],
-    "publishers": [
-      {
-        "publisher": "",
-        "publisher_link": "",
-        "ocds_implementation": false
-      }
-    ],
+    "publishers": [],
     "ogp_commitments": []
   }
 }
