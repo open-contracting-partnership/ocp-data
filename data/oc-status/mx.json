@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1526996299081
+    "date": 1529596262735
   },
   "results": {
     "innovations": [
@@ -14,6 +14,10 @@
       {
         "innovation_description": "Compranet Business Intelligence Tool",
         "innovation_link": "https://compranetim.funcionpublica.gob.mx/CompranetIMindex.html"
+      },
+      {
+        "innovation_description": "Torre de Control: Monitoring the New International Airport of Mexico City",
+        "innovation_link": "https://torredecontrol.projectpoder.org"
       }
     ],
     "publishers": [
@@ -78,12 +82,16 @@
     "citizen_monitoring": true,
     "impacts_stories": [
       {
-        "story_title": "What's happening in Mexico",
+        "story_title": "Country overview: Mexico",
         "story_url": "https://www.open-contracting.org/why-open-contracting/worldwide/mexico/"
       },
       {
         "story_title": "Your city, your data: Open Contracting Challenge CDMX 2017",
         "story_url": "https://www.open-contracting.org/2017/07/10/city-data-open-contracting-challenge-cdmx-2017/"
+      },
+      {
+        "story_title": "El nexo entre contratos y élites: Poner las contrataciones abiertas en uso desde sociedad civil",
+        "story_url": "https://www.open-contracting.org/2017/05/22/el-nexo-entre-contratos-y-elites-poner-las-contrataciones-abiertas-en-uso-desde-sociedad-civil/"
       }
     ],
     "commitment_oil_mining": "none",
