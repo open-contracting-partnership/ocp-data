@@ -3,7 +3,7 @@
   "name": "Chile",
   "full_name": "Chile – Republic of Chile",
   "meta": {
-    "date": 1483563691772
+    "date": 1535377036128
   },
   "results": {
     "innovations": [
@@ -12,7 +12,16 @@
         "innovation_link": "http://www.comprastransparentes.cl"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Dirección de Compra y Contratación Pública (ChileCompra)",
+        "publisher_link": "http://www.chilecompra.cl/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2018"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP National Action Plan 2016-18",
