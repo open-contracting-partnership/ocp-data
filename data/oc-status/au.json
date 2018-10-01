@@ -3,7 +3,7 @@
   "name": "Australia",
   "full_name": "Australia – Commonwealth of Australia",
   "meta": {
-    "date": 1526333063691
+    "date": 1538418771737
   },
   "results": {
     "innovations": [],
@@ -21,6 +21,10 @@
       {
         "ogp_commitment": "OGP National Action Plan 2016-18",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Australia_NAP_2016-2018_0.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2018-20",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Australia_Action-Plan_2018-2020.pdf"
       }
     ]
   }
