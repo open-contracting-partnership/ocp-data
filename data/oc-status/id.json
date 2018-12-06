@@ -3,7 +3,7 @@
   "name": "Indonesia",
   "full_name": "Indonesia – Republic of Indonesia",
   "meta": {
-    "date": 1511545474290
+    "date": 1544133086260
   },
   "results": {
     "innovations": [
@@ -12,7 +12,16 @@
         "innovation_link": "http://www.opentender.net/"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Bandung: Integrated Resources Management System (BIRMS)",
+        "publisher_link": "https://birms.bandung.go.id/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "Bojonegoro subnational OGP action plan",
