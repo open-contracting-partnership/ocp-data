@@ -3,7 +3,7 @@
   "name": "Nigeria",
   "full_name": "Nigeria – Federal Republic of Nigeria",
   "meta": {
-    "date": 1511574113205
+    "date": 1544133180501
   },
   "results": {
     "innovations": [
@@ -16,7 +16,16 @@
       {
         "publisher": "Budeshi Civil Society Initative",
         "publisher_link": "budeshi.org",
-        "ocds_historic_data": true
+        "ocds_historic_data": true,
+        "year_first_implemented": "2016"
+      },
+      {
+        "publisher": "Bureau of Public Procurement (BPP)",
+        "publisher_link": "http://nocopo.bpp.gov.ng/OpenData.aspx",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
       }
     ],
     "ogp_commitments": [
