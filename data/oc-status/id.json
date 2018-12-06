@@ -3,16 +3,33 @@
   "name": "Indonesia",
   "full_name": "Indonesia – Republic of Indonesia",
   "meta": {
-    "date": 1511545474290
+    "date": 1543347997699
   },
   "results": {
     "innovations": [
       {
         "innovation_description": "OpenTender portal",
         "innovation_link": "http://www.opentender.net/"
+      },
+      {
+        "innovation_description": "BIRMS Tender Notification App (Android) - uses data from Bandung City's OCDS API",
+        "innovation_link": ""
+      },
+      {
+        "innovation_description": "BIRMS Public Transportation Procurement App (Android) - uses data from Bandung City's OCDS API",
+        "innovation_link": ""
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Bandung City",
+        "publisher_link": "https://birms.bandung.go.id/beta/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2018"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "Bojonegoro subnational OGP action plan",
@@ -27,7 +44,14 @@
       {
         "story_title": "IODC15: Open Contracting Reflections from Canada, Colombia, Indonesia, Mexico, Nepal, Paraguay, Romania, and Ukraine",
         "story_url": "https://www.open-contracting.org/2015/06/09/iodc15_open_contracting_reflections/"
+      },
+      {
+        "story_title": "Developer-to-Developer Mentoring in Bandung City, Indonesia: A Blueprint for Open Contracting Success",
+        "story_url": "https://www.developmentgateway.org/blog/developer-developer-mentorship-bandung-indonesia-blueprint-open-contracting-success"
       }
-    ]
+    ],
+    "tenders_awards": "Bandung City",
+    "complaints_mechanism": false,
+    "ocds_description": "OCDS implemented in Bandung City (planning, tender, award, contract) on open and direct procurement"
   }
 }
