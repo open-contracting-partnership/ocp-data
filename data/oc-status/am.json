@@ -1,1 +1,22 @@
-{"iso":"am","name":"Armenia","full_name":"Armenia – Republic of Armenia","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "am",
+  "name": "Armenia",
+  "full_name": "Armenia – Republic of Armenia",
+  "meta": {
+    "date": 1544132947615
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Armenian e-Procurement System (ARMEPS)",
+        "publisher_link": "https://armeps.am/epps/home.do",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      }
+    ],
+    "ogp_commitments": []
+  }
+}
