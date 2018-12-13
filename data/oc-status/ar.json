@@ -3,10 +3,15 @@
   "name": "Argentina",
   "full_name": "Argentina – Argentine Republic",
   "meta": {
-    "date": 1488487248068
+    "date": 1544732780482
   },
   "results": {
-    "innovations": [],
+    "innovations": [
+      {
+        "innovation_description": "A Qué Precio: an observatory of public contracts in the health sector",
+        "innovation_link": "https://aqueprecio.lanacion.com.ar"
+      }
+    ],
     "publishers": [],
     "ogp_commitments": [
       {
