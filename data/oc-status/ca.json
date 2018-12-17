@@ -3,7 +3,7 @@
   "name": "Canada",
   "full_name": "Canada",
   "meta": {
-    "date": 1526333033750
+    "date": 1545076286209
   },
   "results": {
     "innovations": [
@@ -38,6 +38,10 @@
       {
         "ogp_commitment": "OGP National Action Plan 2016-18",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Canada_AP3.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2018-20",
+        "ogp_commitment_link": "https://open.canada.ca/en/content/canadas-2018-2020-national-action-plan-open-government#toc5"
       }
     ],
     "impacts_stories": [
