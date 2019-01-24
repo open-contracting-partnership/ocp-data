@@ -1,1 +1,18 @@
-{"iso":"pt","name":"Portugal","full_name":"Portugal – Portuguese Republic","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "pt",
+  "name": "Portugal",
+  "full_name": "Portugal – Portuguese Republic",
+  "meta": {
+    "date": 1548273097639
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Portugal_Action-Plan_2018-2020_EN.docx"
+      }
+    ]
+  }
+}
