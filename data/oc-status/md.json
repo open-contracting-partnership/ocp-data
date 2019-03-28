@@ -3,7 +3,7 @@
   "name": "Moldova",
   "full_name": "Moldova – Republic of Moldova",
   "meta": {
-    "date": 1526333772071
+    "date": 1545427501728
   },
   "results": {
     "innovations": [],
@@ -17,7 +17,12 @@
         "year_first_implemented": "2016"
       }
     ],
-    "ogp_commitments": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2018-20",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Moldova_Action-Plan_2018-2020_EN.docx"
+      }
+    ],
     "impacts_stories": [
       {
         "story_title": "Digging into Moldova’s never-ending road with open data",
