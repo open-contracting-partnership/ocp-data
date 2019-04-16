@@ -3,13 +3,17 @@
   "name": "Chile",
   "full_name": "Chile – Republic of Chile",
   "meta": {
-    "date": 1535377036128
+    "date": 1553804497918
   },
   "results": {
     "innovations": [
       {
-        "innovation_description": "Compras Transparentes",
-        "innovation_link": "http://www.comprastransparentes.cl"
+        "innovation_description": "Observatorio de Compras",
+        "innovation_link": "https://compras.observatoriofiscal.cl"
+      },
+      {
+        "innovation_description": "Lobbyscaliza",
+        "innovation_link": "http://lobbyscaliza.org"
       }
     ],
     "publishers": [
