@@ -3,7 +3,7 @@
   "name": "France",
   "full_name": "France – French Republic",
   "meta": {
-    "date": 1511544701061
+    "date": 1558104669002
   },
   "results": {
     "innovations": [],
@@ -27,6 +27,7 @@
         "story_title": "Open contracting at the OGP Summit in Paris",
         "story_url": "https://www.open-contracting.org/2016/12/05/open-contracting-ogp-summit-paris/"
       }
-    ]
+    ],
+    "contract_changes": true
   }
 }
