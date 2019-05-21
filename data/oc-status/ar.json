@@ -3,7 +3,7 @@
   "name": "Argentina",
   "full_name": "Argentina – Argentine Republic",
   "meta": {
-    "date": 1544732780482
+    "date": 1558465485437
   },
   "results": {
     "innovations": [
@@ -12,7 +12,16 @@
         "innovation_link": "https://aqueprecio.lanacion.com.ar"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Buenos Aires Compras",
+        "publisher_link": "https://data.buenosaires.gob.ar/dataset/buenos-aires-compras",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "3rd National OGP Action Plan",
