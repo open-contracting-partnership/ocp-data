@@ -3,7 +3,7 @@
   "name": "Colombia",
   "full_name": "Colombia – Republic of Colombia",
   "meta": {
-    "date": 1526329457553
+    "date": 1560438791109
   },
   "results": {
     "innovations": [],
@@ -13,7 +13,7 @@
         "ocds_implementation": true,
         "ocds_ongoing_data": true,
         "ocds_historic_data": true,
-        "publisher_link": "http://www.colombiacompra.gov.co/transparencia/gestion-documental/datos-abiertos",
+        "publisher_link": "https://www.colombiacompra.gov.co/transparencia/gestion-documental/datos-abiertos",
         "year_first_implemented": "2016"
       }
     ],
