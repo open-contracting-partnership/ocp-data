@@ -3,7 +3,7 @@
   "name": "Chile",
   "full_name": "Chile – Republic of Chile",
   "meta": {
-    "date": 1553804497918
+    "date": 1562181221770
   },
   "results": {
     "innovations": [
@@ -30,6 +30,10 @@
       {
         "ogp_commitment": "OGP National Action Plan 2016-18",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Chile_Plan-de-Accion_2016-2018.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2018-20",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2019/01/Chile_Action-Plan_2018-2020.pdf"
       }
     ]
   }
