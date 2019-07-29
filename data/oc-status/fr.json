@@ -3,11 +3,20 @@
   "name": "France",
   "full_name": "France – French Republic",
   "meta": {
-    "date": 1558104669002
+    "date": 1564425556705
   },
   "results": {
     "innovations": [],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "",
+        "publisher_link": "",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": ""
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "National Action Plan 2015-2017",
@@ -16,6 +25,10 @@
       {
         "ogp_commitment": "UK Anti-Corruption Summit Commitment",
         "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522751/France.pdf"
+      },
+      {
+        "ogp_commitment": "Paris OGP National Action Plan ",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/members/paris-france/commitments/PAR0008/"
       }
     ],
     "impacts_stories": [
