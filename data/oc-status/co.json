@@ -3,7 +3,7 @@
   "name": "Colombia",
   "full_name": "Colombia – Republic of Colombia",
   "meta": {
-    "date": 1560438791109
+    "date": 1564780785349
   },
   "results": {
     "innovations": [],
@@ -44,6 +44,7 @@
         "story_title": "The deals behind the meals",
         "story_url": "https://medium.com/open-contracting-stories/the-deals-behind-the-meals-c4592e9466a2"
       }
-    ]
+    ],
+    "contract_changes": true
   }
 }
