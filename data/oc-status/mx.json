@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1529596262735
+    "date": 1567704007450
   },
   "results": {
     "innovations": [
@@ -25,38 +25,23 @@
         "publisher": "Mexico City",
         "publisher_link": "http://www.contratosabiertos.cdmx.gob.mx/",
         "ocds_implementation": false,
-        "ocds_ongoing_data": true,
-        "year_first_implemented": "2016"
-      },
-      {
-        "publisher": "Ministry of Communications Telecom PPP",
-        "publisher_link": "http://datos.gob.mx/redcompartida/",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2016"
-      },
-      {
-        "publisher": " New International Airport of Mexico City",
-        "publisher_link": "https://datos.gob.mx/nuevoaeropuerto/",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2016"
+        "ocds_ongoing_data": false,
+        "year_first_implemented": "2016",
+        "ocds_historic_data": true
       },
       {
         "publisher": "Public Administration and Finance Ministry",
-        "publisher_link": "https://www.gob.mx/contratacionesabiertas/home#!/",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
+        "publisher_link": "https://datos.gob.mx/busca/organization/contrataciones-abiertas",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": false,
         "year_first_implemented": "2017"
       },
       {
         "publisher": "Secretary of Planning, Administration, and Finance - Government of Jalisco",
-        "publisher_link": "https://contratacionesabiertas.jalisco.gob.mx/contratosabiertos/",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
+        "publisher_link": "https://datos.jalisco.gob.mx/dataset/contrataciones-abiertas-api-de-contratos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": false,
         "year_first_implemented": "2018"
       }
