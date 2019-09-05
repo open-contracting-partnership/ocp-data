@@ -3,7 +3,7 @@
   "name": "Paraguay",
   "full_name": "Paraguay – Republic of Paraguay",
   "meta": {
-    "date": 1526334008433
+    "date": 1567704455703
   },
   "results": {
     "innovations": [
@@ -18,7 +18,7 @@
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "publisher": "DNCP",
-        "publisher_link": "contrataciones.gov.py/datos/",
+        "publisher_link": "http://contrataciones.gov.py/datos/",
         "year_first_implemented": "2015"
       }
     ],
