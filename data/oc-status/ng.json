@@ -3,7 +3,7 @@
   "name": "Nigeria",
   "full_name": "Nigeria – Federal Republic of Nigeria",
   "meta": {
-    "date": 1544133180501
+    "date": 1567705563748
   },
   "results": {
     "innovations": [
@@ -15,7 +15,7 @@
     "publishers": [
       {
         "publisher": "Budeshi Civil Society Initative",
-        "publisher_link": "budeshi.org",
+        "publisher_link": "http://www.budeshi.ng",
         "ocds_historic_data": true,
         "year_first_implemented": "2016"
       },
