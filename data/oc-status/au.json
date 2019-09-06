@@ -3,7 +3,7 @@
   "name": "Australia",
   "full_name": "Australia – Commonwealth of Australia",
   "meta": {
-    "date": 1538418771737
+    "date": 1567793165301
   },
   "results": {
     "innovations": [],
@@ -15,6 +15,14 @@
         "ocds_historic_data": true,
         "publisher_link": "https://github.com/NSW-eTendering/NSW-eTendering-API",
         "year_first_implemented": "2017"
+      },
+      {
+        "publisher": "Department of Finance",
+        "publisher_link": "https://github.com/austender/austender-ocds-api",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
       }
     ],
     "ogp_commitments": [
