@@ -3,20 +3,11 @@
   "name": "France",
   "full_name": "France – French Republic",
   "meta": {
-    "date": 1564425556705
+    "date": 1567773980417
   },
   "results": {
     "innovations": [],
-    "publishers": [
-      {
-        "publisher": "",
-        "publisher_link": "",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": ""
-      }
-    ],
+    "publishers": [],
     "ogp_commitments": [
       {
         "ogp_commitment": "National Action Plan 2015-2017",
