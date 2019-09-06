@@ -3,7 +3,7 @@
   "name": "Uganda",
   "full_name": "Uganda – Republic of Uganda",
   "meta": {
-    "date": 1526334071934
+    "date": 1567795405678
   },
   "results": {
     "innovations": [],
@@ -15,6 +15,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2017"
+      },
+      {
+        "publisher": "Budeshi Uganda",
+        "publisher_link": "http://www.budeshi.ug",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
       }
     ],
     "ogp_commitments": [],
