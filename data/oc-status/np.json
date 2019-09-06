@@ -3,7 +3,7 @@
   "name": "Nepal",
   "full_name": "Nepal – Federal Democratic Republic of Nepal",
   "meta": {
-    "date": 1526333981938
+    "date": 1567795362871
   },
   "results": {
     "innovations": [
@@ -20,6 +20,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2017"
+      },
+      {
+        "publisher": "Dhangadhi Sub-Metropolitan City",
+        "publisher_link": "https://ims.susasan.org/dhangadhi#downloads",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
       }
     ],
     "ogp_commitments": [],
