@@ -3,7 +3,7 @@
   "name": "Chile",
   "full_name": "Chile – Republic of Chile",
   "meta": {
-    "date": 1562181221770
+    "date": 1567793254108
   },
   "results": {
     "innovations": [
@@ -19,7 +19,7 @@
     "publishers": [
       {
         "publisher": "Dirección de Compra y Contratación Pública (ChileCompra)",
-        "publisher_link": "http://www.chilecompra.cl/",
+        "publisher_link": "https://desarrolladores.mercadopublico.cl/OCDS",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
