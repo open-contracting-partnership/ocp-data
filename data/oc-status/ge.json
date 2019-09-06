@@ -3,7 +3,7 @@
   "name": "Georgia",
   "full_name": "Georgia",
   "meta": {
-    "date": 1511545241989
+    "date": 1567793527466
   },
   "results": {
     "innovations": [
@@ -12,7 +12,16 @@
         "innovation_link": "tendermonitor.ge/en"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "State Procurement Agency",
+        "publisher_link": "https://odapi.spa.ge",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "UK Anti-Corruption Summit Commitment",
