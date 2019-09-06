@@ -3,7 +3,7 @@
   "name": "Moldova",
   "full_name": "Moldova – Republic of Moldova",
   "meta": {
-    "date": 1545427501728
+    "date": 1567794434729
   },
   "results": {
     "innovations": [],
@@ -12,9 +12,17 @@
         "publisher": "Public Procurement Agency of the Government of Moldova ",
         "publisher_link": "http://opencontracting.date.gov.md",
         "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": false,
         "year_first_implemented": "2016"
+      },
+      {
+        "publisher": "Ministry of Finance",
+        "publisher_link": "https://mtender.gov.md/en",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2017"
       }
     ],
     "ogp_commitments": [
