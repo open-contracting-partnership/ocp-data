@@ -3,14 +3,14 @@
   "name": "Uruguay",
   "full_name": "Uruguay – Oriental Republic of Uruguay",
   "meta": {
-    "date": 1527454537607
+    "date": 1567793823354
   },
   "results": {
     "innovations": [],
     "publishers": [
       {
         "publisher": "Agencia de Compras y Contrataciones del Estado",
-        "publisher_link": "https://www.comprasestatales.gub.uy/inicio/datos-abiertos/",
+        "publisher_link": "https://www.gub.uy/agencia-compras-contrataciones-estado/",
         "ocds_historic_data": false,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
