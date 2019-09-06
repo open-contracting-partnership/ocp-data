@@ -3,7 +3,7 @@
   "name": "Indonesia",
   "full_name": "Indonesia – Republic of Indonesia",
   "meta": {
-    "date": 1548273055658
+    "date": 1567793679236
   },
   "results": {
     "innovations": [
@@ -23,10 +23,10 @@
     "publishers": [
       {
         "publisher": "Bandung City",
-        "publisher_link": "https://birms.bandung.go.id/beta/",
+        "publisher_link": "https://birms.bandung.go.id/",
         "ocds_historic_data": false,
         "ocds_ongoing_data": true,
-        "ocds_implementation": true,
+        "ocds_implementation": false,
         "year_first_implemented": "2018"
       }
     ],
@@ -44,10 +44,6 @@
       {
         "story_title": "The ‘snakes and ladders’ of open contracting",
         "story_url": "https://webfoundation.org/2017/09/the-snakes-and-ladders-of-open-contracting/"
-      },
-      {
-        "story_title": "IODC15: Open Contracting Reflections from Canada, Colombia, Indonesia, Mexico, Nepal, Paraguay, Romania, and Ukraine",
-        "story_url": "https://www.open-contracting.org/2015/06/09/iodc15_open_contracting_reflections/"
       },
       {
         "story_title": "Developer-to-Developer Mentoring in Bandung City, Indonesia: A Blueprint for Open Contracting Success",
