@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1567704007450
+    "date": 1567794164361
   },
   "results": {
     "innovations": [
@@ -40,6 +40,14 @@
       {
         "publisher": "Secretary of Planning, Administration, and Finance - Government of Jalisco",
         "publisher_link": "https://datos.jalisco.gob.mx/dataset/contrataciones-abiertas-api-de-contratos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      },
+      {
+        "publisher": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI)",
+        "publisher_link": "https://datos.gob.mx/busca/dataset/contrataciones-abiertas-del-inai",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
         "ocds_implementation": false,
