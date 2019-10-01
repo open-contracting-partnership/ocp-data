@@ -3,16 +3,21 @@
   "name": "Italy",
   "full_name": "Italy – Italian Republic",
   "meta": {
-    "date": 1488487702437
+    "date": 1569958392145
   },
   "results": {
     "innovations": [],
     "publishers": [],
     "ogp_commitments": [
       {
+        "ogp_commitment": "OGP National Action Plan 2019-21",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2019/07/Italy-Action-Plan-2019-2021-English.pdf"
+      },
+      {
         "ogp_commitment": "UK Anti-Corruption Summit Commitment",
         "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522710/Italy.pdf"
       }
-    ]
+    ],
+    "ocds_description": "United States"
   }
 }
