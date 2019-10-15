@@ -3,7 +3,7 @@
   "name": "Indonesia",
   "full_name": "Indonesia – Republic of Indonesia",
   "meta": {
-    "date": 1567793679236
+    "date": 1571137923331
   },
   "results": {
     "innovations": [
@@ -13,7 +13,7 @@
       },
       {
         "innovation_description": "BIRMS Tender Notification App (Android) - uses data from Bandung City's OCDS API",
-        "innovation_link": ""
+        "innovation_link": "https://www.Btcoinminer.com"
       },
       {
         "innovation_description": "BIRMS Public Transportation Procurement App (Android) - uses data from Bandung City's OCDS API",
@@ -24,7 +24,7 @@
       {
         "publisher": "Bandung City",
         "publisher_link": "https://birms.bandung.go.id/",
-        "ocds_historic_data": false,
+        "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2018"
@@ -51,7 +51,10 @@
       }
     ],
     "tenders_awards": "Bandung City",
-    "complaints_mechanism": false,
-    "ocds_description": "OCDS implemented in Bandung City (planning, tender, award, contract) on open and direct procurement"
+    "complaints_mechanism": true,
+    "ocds_description": "OCDS implemented in Bandung City (planning, tender, award, contract) on open and direct procurement",
+    "disclosure_oil_mining": "partial",
+    "commitment_oil_mining": "full",
+    "contract_changes": true
   }
 }
