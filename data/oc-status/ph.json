@@ -3,7 +3,7 @@
   "name": "Philippines",
   "full_name": "Philippines – Republic of the Philippines",
   "meta": {
-    "date": 1553787672357
+    "date": 1571313660454
   },
   "results": {
     "innovations": [
@@ -13,7 +13,16 @@
       }
     ],
     "publishers": [],
-    "ogp_commitments": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "Open Procurement ",
+        "ogp_commitment_link": ""
+      },
+      {
+        "ogp_commitment": "Open Mining Information",
+        "ogp_commitment_link": ""
+      }
+    ],
     "citizen_monitoring": true,
     "commitment_oil_mining": "partial",
     "commitment_oil_mining_description": "partial (oil, gas, mining)",
