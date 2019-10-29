@@ -20,7 +20,7 @@
   },
   "homepage": "http://open-contracting.org/",
   "devDependencies": {
-    "eslint": "^1.0.0",
+    "eslint": "^6.6.0",
     "eslint-config-semistandard": "^5.0.0",
     "eslint-config-standard": "^4.0.0",
     "eslint-plugin-promise": "^1.0.8",
