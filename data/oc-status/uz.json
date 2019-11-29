@@ -1,1 +1,24 @@
-{"iso":"uz","name":"Uzbekistan","full_name":"Uzbekistan – Republic of Uzbekistan","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "uz",
+  "name": "Uzbekistan",
+  "full_name": "Uzbekistan – Republic of Uzbekistan",
+  "meta": {
+    "date": 1575025950237
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "The Government official organizations",
+        "publisher_link": "https://data.gov.uz/en",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": true,
+        "year_first_implemented": "2015"
+      }
+    ],
+    "ogp_commitments": [],
+    "tenders_awards": "Open Data certificate ( silver level) of ODI",
+    "contract_changes": false
+  }
+}
