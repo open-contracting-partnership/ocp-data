@@ -1,1 +1,44 @@
-{"iso":"uz","name":"Uzbekistan","full_name":"Uzbekistan – Republic of Uzbekistan","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "uz",
+  "name": "Uzbekistan",
+  "full_name": "Uzbekistan – Republic of Uzbekistan",
+  "meta": {
+    "date": 1575027394408
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "The Government official organisations",
+        "publisher_link": "www.data.gov.uz",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": true,
+        "year_first_implemented": "2015"
+      }
+    ],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "\"Open Data Tashkent – 2019\"",
+        "story_url": "https://data.gov.uz/en/news/view/79"
+      },
+      {
+        "story_title": "Resolution of The President of the Republic of Uzbekistan “On additional measures to ensure openness and transparency of public administration, as well as to improve the statistical capacity of the country” dated April 9, 2019 №PP-4273.",
+        "story_url": "http://lex.uz/docs/4277342"
+      },
+      {
+        "story_title": "Open data portal of the Republic of Uzbekistan data.gov.uz has achieved the silver level according to the Open Data Institute (ODI)",
+        "story_url": "https://certificates.theodi.org/en/datasets/221213/certificate"
+      }
+    ],
+    "tenders_awards": "Open data certificate (silver level) of ODI",
+    "citizen_monitoring": true,
+    "commitment_oil_mining": "full",
+    "commitment_oil_mining_description": "Production of certain types of oil products",
+    "commitment_oil_mining_link": "https://data.gov.uz/en/datasets/8714",
+    "disclosure_oil_mining": "full",
+    "disclosure_oil_mining_link": "https://data.gov.uz/en/datasets/8713",
+    "disclosure_oil_mining_description": "Mining of oil and gas condensate ( thousand t.)"
+  }
+}
