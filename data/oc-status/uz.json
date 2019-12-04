@@ -1,1 +1,21 @@
-{"iso":"uz","name":"Uzbekistan","full_name":"Uzbekistan – Republic of Uzbekistan","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "uz",
+  "name": "Uzbekistan",
+  "full_name": "Uzbekistan – Republic of Uzbekistan",
+  "meta": {
+    "date": 1575460394137
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Civil Society Construction Monitoring (2014-15)",
+        "innovation_link": "http://www.oecd.org/corruption/acn/istanbulactionplan/"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [],
+    "tenders_awards": "",
+    "commitment_oil_mining": "full",
+    "commitment_oil_mining_link": "https://data.gov.uz/en/datasets/8713"
+  }
+}
