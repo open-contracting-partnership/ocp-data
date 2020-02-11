@@ -3,7 +3,7 @@
   "name": "Moldova",
   "full_name": "Moldova – Republic of Moldova",
   "meta": {
-    "date": 1567797252078
+    "date": 1581449176186
   },
   "results": {
     "innovations": [],
@@ -32,6 +32,10 @@
       }
     ],
     "impacts_stories": [
+      {
+        "story_title": "Opening up Moldova’s contracts. Progress and challenges",
+        "story_url": "https://www.open-contracting.org/2019/12/11/opening-up-moldovas-contracts-progress-and-challenges/"
+      },
       {
         "story_title": "Digging into Moldova’s never-ending road with open data",
         "story_url": "https://www.open-contracting.org/2017/08/08/digging-moldovas-never-ending-road-open-data/"
