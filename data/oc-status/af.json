@@ -3,7 +3,7 @@
   "name": "Afghanistan",
   "full_name": "Afghanistan – Islamic Republic of Afghanistan",
   "meta": {
-    "date": 1544133121686
+    "date": 1581449209704
   },
   "results": {
     "innovations": [
@@ -30,6 +30,12 @@
       {
         "ogp_commitment": "OGP National Action Plan 2018-19",
         "ogp_commitment_link": "https://www.opengovpartnership.org/documents/afghanistan-action-plan-2017-2019"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Taming crocodiles in Afghanistan: Can open contracting give corruption fighters the upper hand?",
+        "story_url": "https://www.open-contracting.org/2020/01/31/taming-crocodiles-in-afghanistan-can-open-contracting-give-corruption-fighters-the-upper-hand/"
       }
     ]
   }
