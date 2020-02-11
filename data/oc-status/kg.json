@@ -3,7 +3,7 @@
   "name": "Kyrgyzstan",
   "full_name": "Kyrgyzstan – Kyrgyz Republic",
   "meta": {
-    "date": 1545427462245
+    "date": 1581449120157
   },
   "results": {
     "innovations": [
@@ -17,6 +17,16 @@
       {
         "ogp_commitment": "OGP National Action Plan 2018-20",
         "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Kyrgyz-Republic_Action-Plan_2018-2020.docx"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Kyrgyz Republic: How open contracting can support small business",
+        "story_url": "https://www.open-contracting.org/2019/09/23/kyrgyz-republic-how-open-contracting-can-support-small-business/"
+      },
+      {
+        "story_title": "How data-savvy journalists in Kyrgyzstan are using open contracting to investigate corruption in public procurement",
+        "story_url": "https://www.open-contracting.org/2019/12/16/how-data-savvy-journalists-in-kyrgyzstan-are-using-open-contracting/"
       }
     ]
   }
