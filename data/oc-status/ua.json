@@ -3,7 +3,7 @@
   "name": "Ukraine",
   "full_name": "Ukraine",
   "meta": {
-    "date": 1526334145045
+    "date": 1581449628827
   },
   "results": {
     "innovations": [
@@ -35,12 +35,16 @@
     "citizen_monitoring": true,
     "impacts_stories": [
       {
-        "story_title": "Learning Insights: Measuring results from open contracting in Ukraine",
-        "story_url": "https://www.open-contracting.org/2017/04/19/learning-insights-measuring-results-ukraine/"
+        "story_title": "Government’s first online store driven by open data: How Ukraine’s ProZorro.Sale is turning bankrupt assets into gold",
+        "story_url": "https://medium.com/@opencontracting/governments-first-online-store-driven-by-open-data-574ba06a23ce"
       },
       {
-        "story_title": "Ukraine to become the first country to integrate with OpenOwnership",
-        "story_url": "https://openownership.org/news/ukraine-becomes-the-first-country-to-integrate-with-openownership/"
+        "story_title": "‘Everyone sees everything’: Overhauling Ukraine’s corrupt contracting sector",
+        "story_url": "https://medium.com/open-contracting-stories/everyone-sees-everything-fa6df0d00335"
+      },
+      {
+        "story_title": "Learning Insights: Measuring results from open contracting in Ukraine",
+        "story_url": "https://www.open-contracting.org/2017/04/19/learning-insights-measuring-results-ukraine/"
       }
     ]
   }
