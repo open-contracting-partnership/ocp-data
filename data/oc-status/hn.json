@@ -3,7 +3,7 @@
   "name": "Honduras",
   "full_name": "Honduras – Republic of Honduras",
   "meta": {
-    "date": 1560438705891
+    "date": 1581450793572
   },
   "results": {
     "innovations": [],
@@ -29,6 +29,12 @@
       {
         "ogp_commitment": "OGP National Action Plan 2018-20",
         "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Honduras_Action-Plan_2018-2020_EN_1.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Bedrock for better public infrastructure in Honduras",
+        "story_url": "https://medium.com/open-contracting-stories/bedrock-for-better-public-infrastructure-in-honduras-1e39526100a5"
       }
     ]
   }
