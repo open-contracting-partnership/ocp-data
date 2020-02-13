@@ -3,10 +3,15 @@
   "name": "Colombia",
   "full_name": "Colombia – Republic of Colombia",
   "meta": {
-    "date": 1564780785349
+    "date": 1581450053596
   },
   "results": {
-    "innovations": [],
+    "innovations": [
+      {
+        "innovation_description": "Elecciones y Contratos: Monitoring the link between campaign financing and contracts ",
+        "innovation_link": "http://elecciones-contratos.monitorciudadano.co/"
+      }
+    ],
     "publishers": [
       {
         "publisher": "Colombia Compra",
@@ -33,12 +38,8 @@
     ],
     "impacts_stories": [
       {
-        "story_title": "$1 trillion in public contracting in five major economies to become open-by-default",
-        "story_url": "https://www.open-contracting.org/news/1-trillion-public-contracting-five-major-economies-become-open-default/"
-      },
-      {
-        "story_title": "A pragmatist’s reflections on data quality",
-        "story_url": "https://www.open-contracting.org/2016/11/23/reflections-on-data-quality/"
+        "story_title": "A little data goes a long way: How bidder analysis could boost competition in Colombia’s infrastructure contracts",
+        "story_url": "https://www.open-contracting.org/2019/05/03/a-little-data-goes-a-long-way-how-bidder-analysis-could-boost-competition-in-colombias-infrastructure-contracts/"
       },
       {
         "story_title": "The deals behind the meals",
