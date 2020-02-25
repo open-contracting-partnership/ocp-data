@@ -3,11 +3,43 @@
   "name": "Moldova",
   "full_name": "Moldova – Republic of Moldova",
   "meta": {
-    "date": 1581449176186
+    "date": 1582657773593
   },
   "results": {
     "innovations": [],
     "publishers": [
+      {
+        "publisher": "Ministry of Finance",
+        "publisher_link": "https://mtender.gov.md/about",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2017"
+      },
+      {
+        "publisher": "MTender Budgets",
+        "publisher_link": "https://public.mtender.gov.md/budgets",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "MTender Plan",
+        "publisher_link": "https://public.mtender.gov.md/tenders/plan",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "MTender Tenders",
+        "publisher_link": "https://public.mtender.gov.md/tenders",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      },
       {
         "publisher": "Public Procurement Agency of the Government of Moldova ",
         "publisher_link": "http://opencontracting.date.gov.md",
@@ -15,14 +47,6 @@
         "ocds_ongoing_data": false,
         "ocds_implementation": false,
         "year_first_implemented": "2016"
-      },
-      {
-        "publisher": "Ministry of Finance",
-        "publisher_link": "http://ocds.mepps.openprocurement.io/api/releases.json",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2017"
       }
     ],
     "ogp_commitments": [
