@@ -3,7 +3,7 @@
   "name": "Moldova",
   "full_name": "Moldova – Republic of Moldova",
   "meta": {
-    "date": 1582657773593
+    "date": 1582727557140
   },
   "results": {
     "innovations": [],
@@ -42,7 +42,7 @@
       },
       {
         "publisher": "Public Procurement Agency of the Government of Moldova ",
-        "publisher_link": "http://opencontracting.date.gov.md",
+        "publisher_link": "https://opencontracting.eprocurement.systems/",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
         "ocds_implementation": false,
@@ -51,8 +51,12 @@
     ],
     "ogp_commitments": [
       {
+        "ogp_commitment": "OGP National Action Plan 2016-18",
+        "ogp_commitment_link": " https://www.opengovpartnership.org/members/moldova/commitments/MD0061/"
+      },
+      {
         "ogp_commitment": "OGP National Action Plan 2018-20",
-        "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Moldova_Action-Plan_2018-2020_EN.docx"
+        "ogp_commitment_link": "https://www.opengovpartnership.org/members/moldova/commitments/MD0070/"
       }
     ],
     "impacts_stories": [
