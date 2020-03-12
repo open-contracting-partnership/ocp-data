@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1567794164361
+    "date": 1584043589237
   },
   "results": {
     "innovations": [
@@ -47,9 +47,9 @@
       },
       {
         "publisher": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI)",
-        "publisher_link": "https://datos.gob.mx/busca/dataset/contrataciones-abiertas-del-inai",
+        "publisher_link": "http://contratacionesabiertas.inai.org.mx/contratacionesabiertas/contratos/",
         "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
+        "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2018"
       }
