@@ -3,11 +3,20 @@
   "name": "Dominican Republic",
   "full_name": "Dominican Republic",
   "meta": {
-    "date": 1486153865113
+    "date": 1585235034905
   },
   "results": {
     "innovations": [],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Dirección General de Contrataciones Públicas",
+        "publisher_link": "https://www.dgcp.gob.do/estandar-mundial-ocds/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP NAP 2016-2018",
