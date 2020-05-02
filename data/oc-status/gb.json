@@ -3,7 +3,7 @@
   "name": "United Kingdom",
   "full_name": "United Kingdom – United Kingdom of Great Britain and Northern Ireland",
   "meta": {
-    "date": 1544133249997
+    "date": 1588392586669
   },
   "results": {
     "innovations": [
@@ -15,10 +15,11 @@
     "publishers": [
       {
         "publisher": "UK Cabinet Office Contracts Finder",
-        "ocds_implementation": false,
+        "ocds_implementation": true,
         "ocds_ongoing_data": true,
-        "publisher_link": "https://www.gov.uk/government/publications/open-contracting",
-        "year_first_implemented": "2016"
+        "publisher_link": "c",
+        "year_first_implemented": "2016",
+        "ocds_historic_data": true
       },
       {
         "publisher": "Scotland: Scottish Procurement and Commercial Directorate (SPCD)",
