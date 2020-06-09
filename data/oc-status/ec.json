@@ -1,1 +1,20 @@
-{"iso":"ec","name":"Ecuador","full_name":"Ecuador – Republic of Ecuador","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[],"disclosure_oil_mining":"some"}}
+{
+  "iso": "ec",
+  "name": "Ecuador",
+  "full_name": "Ecuador – Republic of Ecuador",
+  "meta": {
+    "date": 1591670377896
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP Ecuador Action Plan 2019-2021",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/members/ecuador/commitments/EC0003/"
+      }
+    ],
+    "disclosure_oil_mining": "some",
+    "ocds_description": "United States"
+  }
+}
