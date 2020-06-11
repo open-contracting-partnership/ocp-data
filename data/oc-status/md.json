@@ -3,10 +3,15 @@
   "name": "Moldova",
   "full_name": "Moldova – Republic of Moldova",
   "meta": {
-    "date": 1582727557140
+    "date": 1591883703678
   },
   "results": {
-    "innovations": [],
+    "innovations": [
+      {
+        "innovation_description": "Tracking of COVID-19 health contracts",
+        "innovation_link": "http://tender.health"
+      }
+    ],
     "publishers": [
       {
         "publisher": "Ministry of Finance",
