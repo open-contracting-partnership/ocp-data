@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1584043589237
+    "date": 1598974714287
   },
   "results": {
     "innovations": [
@@ -52,6 +52,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2018"
+      },
+      {
+        "publisher": "Secretaría de Infraestructura del Gobierno del Estado de Nuevo",
+        "publisher_link": "http://si.nl.gob.mx/transparencia/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2020"
       }
     ],
     "ogp_commitments": [
