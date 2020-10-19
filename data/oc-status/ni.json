@@ -1,1 +1,19 @@
-{"iso":"ni","name":"Nicaragua","full_name":"Nicaragua – Republic of Nicaragua","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "ni",
+  "name": "Nicaragua",
+  "full_name": "Nicaragua – Republic of Nicaragua",
+  "meta": {
+    "date": 1603110991972
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Nicaragua Solid waste harvest public contracting publication and monitoring",
+        "innovation_link": "http://swmp.gekoware.com/app3.xhtml"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [],
+    "ocds_description": "Paraguay"
+  }
+}
