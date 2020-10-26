@@ -3,7 +3,7 @@
   "name": "Nicaragua",
   "full_name": "Nicaragua – Republic of Nicaragua",
   "meta": {
-    "date": 1603110991972
+    "date": 1603712583781
   },
   "results": {
     "innovations": [
@@ -12,7 +12,16 @@
         "innovation_link": "http://swmp.gekoware.com/app3.xhtml"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Nicaragua Solid Waste Harvest",
+        "publisher_link": "http://swmp.gekoware.com/index.xhtml",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": ""
+      }
+    ],
     "ogp_commitments": [],
     "ocds_description": "Paraguay"
   }
