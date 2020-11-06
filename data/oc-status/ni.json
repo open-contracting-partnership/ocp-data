@@ -3,7 +3,7 @@
   "name": "Nicaragua",
   "full_name": "Nicaragua – Republic of Nicaragua",
   "meta": {
-    "date": 1603712583781
+    "date": 1604672101398
   },
   "results": {
     "innovations": [
@@ -19,10 +19,10 @@
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
         "ocds_implementation": false,
-        "year_first_implemented": ""
+        "year_first_implemented": "2020"
       }
     ],
     "ogp_commitments": [],
-    "ocds_description": "Paraguay"
+    "ocds_description": ""
   }
 }
