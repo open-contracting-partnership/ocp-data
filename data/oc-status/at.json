@@ -3,7 +3,7 @@
   "name": "Austria",
   "full_name": "Austria – Republic of Austria",
   "meta": {
-    "date": 1591461482425
+    "date": 1607781405985
   },
   "results": {
     "innovations": [
@@ -12,7 +12,16 @@
         "innovation_link": "https://offenevergaben.at/"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/at/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2009"
+      }
+    ],
     "ogp_commitments": [],
     "ocds_description": "United States"
   }
