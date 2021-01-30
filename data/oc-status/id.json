@@ -3,7 +3,7 @@
   "name": "Indonesia",
   "full_name": "Indonesia – Republic of Indonesia",
   "meta": {
-    "date": 1567793679236
+    "date": 1611903503602
   },
   "results": {
     "innovations": [
@@ -37,7 +37,11 @@
       },
       {
         "ogp_commitment": "National Action Plan 2018-20",
-        "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Indonesia_Action-Plan_2018-2020.pdf"
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2019/01/Indonesia_Action-Plan_2018-2020.pdf"
+      },
+      {
+        "ogp_commitment": "National Action Plan 2020-2022",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/01/Indonesia_Action-Plan_2020-2022_EN.pdf"
       }
     ],
     "impacts_stories": [
@@ -48,6 +52,18 @@
       {
         "story_title": "Developer-to-Developer Mentoring in Bandung City, Indonesia: A Blueprint for Open Contracting Success",
         "story_url": "https://www.developmentgateway.org/blog/developer-developer-mentorship-bandung-indonesia-blueprint-open-contracting-success"
+      },
+      {
+        "story_title": "Water Governance and Open Contracting in Bantul Regency",
+        "story_url": "https://sea.hivos.org/story/small-steps-towards-a-better-water-governance/"
+      },
+      {
+        "story_title": "When CSOs and Journalists Join Forces: Story from Yogyakarta",
+        "story_url": "https://antikorupsi.org/en/article/when-yogyakartas-journalists-and-civil-society-organizations-join-forces"
+      },
+      {
+        "story_title": "E-Procurement and Women-Led SMEs",
+        "story_url": "https://sea.hivos.org/story/growing-a-catering-business-with-gulo-asem/"
       }
     ],
     "tenders_awards": "Bandung City",
