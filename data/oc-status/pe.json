@@ -1,1 +1,24 @@
-{"iso":"pe","name":"Peru","full_name":"Peru – Republic of Peru","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[],"disclosure_oil_mining":"partial","disclosure_oil_mining_description":"Most or all"}}
+{
+  "iso": "pe",
+  "name": "Peru",
+  "full_name": "Peru – Republic of Peru",
+  "meta": {
+    "date": 1610648693959
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Peru Compras",
+        "publisher_link": "https://www.catalogos.perucompras.gob.pe/ConsultaOrdenesPub",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": [],
+    "disclosure_oil_mining": "partial",
+    "disclosure_oil_mining_description": "Most or all"
+  }
+}
