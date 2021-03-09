@@ -3,7 +3,7 @@
   "name": "Chile",
   "full_name": "Chile – Republic of Chile",
   "meta": {
-    "date": 1581449839757
+    "date": 1615309923279
   },
   "results": {
     "innovations": [
@@ -44,6 +44,10 @@
       {
         "story_title": "Who wins the contracts: How Chile’s Observatorio de Compras is using open data to scrutinize competition in procurement",
         "story_url": "https://www.open-contracting.org/2019/03/02/who-wins-the-contracts-how-chiles-observatorio-de-compras-is-using-open-data-to-scrutinize-competition-in-procurement/"
+      },
+      {
+        "story_title": "Diagnosis open: how open contracting is bringing down the cost of medicines in Chile",
+        "story_url": "https://www.open-contracting.org/2021/01/29/diagnosis-open-how-open-contracting-is-bringing-down-the-cost-of-medicines-in-chile/"
       }
     ]
   }
