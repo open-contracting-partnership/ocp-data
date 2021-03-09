@@ -1,0 +1,28 @@
+{
+  "iso": "at",
+  "name": "Austria",
+  "full_name": "Austria – Republic of Austria",
+  "meta": {
+    "date": 1607781405985
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Offene Vergaben is a civil society-platform that provides daily updates of Austria's contracts. ",
+        "innovation_link": "https://offenevergaben.at/"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/at/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2009"
+      }
+    ],
+    "ogp_commitments": [],
+    "ocds_description": "United States"
+  }
+}

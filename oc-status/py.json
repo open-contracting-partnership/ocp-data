@@ -1,0 +1,58 @@
+{
+  "iso": "py",
+  "name": "Paraguay",
+  "full_name": "Paraguay – Republic of Paraguay",
+  "meta": {
+    "date": 1567793969989
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Public Visualization Portal",
+        "innovation_link": "https://www.contrataciones.gov.py/datos/visualizaciones"
+      }
+    ],
+    "publishers": [
+      {
+        "ocds_implementation": false,
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "publisher": "DNCP",
+        "publisher_link": "http://contrataciones.gov.py/datos/",
+        "year_first_implemented": "2015"
+      },
+      {
+        "publisher": "Ministry of Finance",
+        "publisher_link": "https://datos.hacienda.gov.py/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan 2014-2015",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/PLAN%20DE%20ACCIÓN%20GOBIERNO%20ABIERTO%20inglés.pdf"
+      },
+      {
+        "ogp_commitment": "National Action Plan 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Paraguay_NAP_3_0.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Paraguay's Transparency Alquimists",
+        "story_url": "https://medium.com/@opencontracting/paraguays-transparency-alchemists-623c8e3c538f"
+      },
+      {
+        "story_title": "Open data and collective action: How student activists help neglected schools in Paraguay",
+        "story_url": "https://medium.com/open-contracting-stories/open-data-and-collective-action-how-student-activists-help-neglected-schools-in-paraguay-6c6596655cf2"
+      },
+      {
+        "story_title": "A case study on how Paraguay could save millions by reducing late payments in public procurement",
+        "story_url": "https://www.open-contracting.org/2019/02/22/a-case-study-on-how-paraguay-could-save-millions-by-reducing-late-payments-in-public-procurement/"
+      }
+    ]
+  }
+}

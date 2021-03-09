@@ -1,0 +1,24 @@
+{
+  "iso": "bg",
+  "name": "Bulgaria",
+  "full_name": "Bulgaria – Republic of Bulgaria",
+  "meta": {
+    "date": 1581450829483
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "UK Anti-corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522700/Bulgaria.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "How journalists in Bulgaria are using data to investigate abuse of EU funds in procurement",
+        "story_url": "https://www.open-contracting.org/2018/10/21/how-journalists-in-bulgaria-are-using-data-to-investigate-abuse-of-eu-funds-in-procurement/"
+      }
+    ]
+  }
+}

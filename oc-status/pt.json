@@ -1,0 +1,27 @@
+{
+  "iso": "pt",
+  "name": "Portugal",
+  "full_name": "Portugal – Portuguese Republic",
+  "meta": {
+    "date": 1580160861126
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Instituto dos Mercados Públicos, do Imobiliário e da Construção",
+        "publisher_link": "https://dados.gov.pt/en/organizations/impic-i-p-instituto-dos-mercados-publicos-do/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Portugal_Action-Plan_2018-2020_EN.docx"
+      }
+    ]
+  }
+}

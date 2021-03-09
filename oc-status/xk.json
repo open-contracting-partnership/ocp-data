@@ -1,0 +1,19 @@
+{
+  "iso": "xk",
+  "name": "Kosovo",
+  "full_name": "Kosovo",
+  "meta": {
+    "date": 1511546377847
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Kosovo raises the flag on corruption using open data",
+        "story_url": "https://www.open-contracting.org/2016/09/23/kosovo-raises-flag-corruption-using-open-data/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "iso": "ng",
+  "name": "Nigeria",
+  "full_name": "Nigeria – Federal Republic of Nigeria",
+  "meta": {
+    "date": 1567705563748
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Civil society monitoring program",
+        "innovation_link": "http://library.procurementmonitor.org/index.php"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Budeshi Civil Society Initative",
+        "publisher_link": "http://www.budeshi.ng",
+        "ocds_historic_data": true,
+        "year_first_implemented": "2016"
+      },
+      {
+        "publisher": "Bureau of Public Procurement (BPP)",
+        "publisher_link": "http://nocopo.bpp.gov.ng/OpenData.aspx",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2017-2019",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Nigeria_NAP_2017-2019.doc"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523799/NIGERIA-_FINAL_COUNTRY_STATEMENT-UK_SUMMIT.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "How Budeshi can help Nigeria track public services and tackle corruption using open data",
+        "story_url": "https://www.open-contracting.org/2016/02/29/how-budeshi-can-help-nigeria-track-public-services-and-tackle-corruption-using-open-data/"
+      },
+      {
+        "story_title": "No more islands of prosperity in a torn society",
+        "story_url": "https://www.open-contracting.org/2017/03/07/no-islands-prosperity-torn-society/"
+      }
+    ]
+  }
+}

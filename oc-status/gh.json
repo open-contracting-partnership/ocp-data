@@ -1,0 +1,34 @@
+{
+  "iso": "gh",
+  "name": "Ghana",
+  "full_name": "Ghana – Republic of Ghana",
+  "meta": {
+    "date": 1511545307024
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2015-2017",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Ghana%20Plan%203.pdf"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment ",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522707/Ghana.pdf"
+      }
+    ],
+    "disclosure_oil_mining": "none",
+    "ocds_description": "",
+    "impacts_stories": [
+      {
+        "story_title": "What needs to happen to do procurement right in West Africa",
+        "story_url": "https://www.open-contracting.org/2017/05/18/procurement-west-africa/"
+      },
+      {
+        "story_title": "On the Road to Open Contracting in Ghana",
+        "story_url": "https://www.open-contracting.org/2013/08/08/on_the_road_to_open_contracting_in_ghana/"
+      }
+    ]
+  }
+}

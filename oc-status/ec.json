@@ -1,0 +1,29 @@
+{
+  "iso": "ec",
+  "name": "Ecuador",
+  "full_name": "Ecuador – Republic of Ecuador",
+  "meta": {
+    "date": 1603712371726
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Servicio Nacional de Contratación Pública",
+        "publisher_link": "https://portal.compraspublicas.gob.ec/sercop/data-estandar-ocds/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP Ecuador Action Plan 2019-2021",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/members/ecuador/commitments/EC0003/"
+      }
+    ],
+    "disclosure_oil_mining": "some",
+    "ocds_description": "United States"
+  }
+}

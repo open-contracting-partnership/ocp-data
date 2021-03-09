@@ -1,0 +1,62 @@
+{
+  "iso": "ca",
+  "name": "Canada",
+  "full_name": "Canada",
+  "meta": {
+    "date": 1545076286209
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Montreal City Contract Award Portal",
+        "innovation_link": "http://ville.montreal.qc.ca/vuesurlescontrats"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Public Works and Government Services Canada",
+        "publisher_link": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/about-the-ocds-pilot",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "year_first_implemented": "2015"
+      },
+      {
+        "publisher": "City of Montreal",
+        "publisher_link": "http://ville.montreal.qc.ca/vuesurlescontrats",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2015"
+      }
+    ],
+    "ocds_description": "Public Works and Government Services Canada are involved in a shared project to publish historic data using the OCDS. The City of Montreal publishes ongoing data in OCDS.",
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2014-15",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Canada%20Action%20Plan%20on%20Open%20Government%202014-16%20%28EN%29_1.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2016-18",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Canada_AP3.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2018-20",
+        "ogp_commitment_link": "https://open.canada.ca/en/content/canadas-2018-2020-national-action-plan-open-government#toc5"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Linking Aid Contracts",
+        "story_url": "https://www.open-contracting.org/2017/03/29/linking-aid-contracts/"
+      },
+      {
+        "story_title": "Montreal Gazette: Transparency revolution? Montreal contracts database weak compared to Chicago, New York",
+        "story_url": "http://montrealgazette.com/news/local-news/transparency-revolution-montreal-contracts-database-weak-compared-to-chicago-new-york"
+      },
+      {
+        "story_title": "Landscape of Open Contracting Tools",
+        "story_url": "https://www.open-contracting.org/2017/02/09/landscape-open-contracting-tools/"
+      }
+    ]
+  }
+}

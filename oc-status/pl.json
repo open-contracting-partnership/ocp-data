@@ -1,0 +1,35 @@
+{
+  "iso": "pl",
+  "name": "Poland",
+  "full_name": "Poland – Republic of Poland",
+  "meta": {
+    "date": 1517868119200
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Tender Tracking Project",
+        "innovation_link": "http://pl.tendertracking.eu/?sf_culture=en"
+      },
+      {
+        "innovation_description": "Searchable contracting data and analysis",
+        "innovation_link": "https://mojepanstwo.pl/zamowienia_publiczne"
+      },
+      {
+        "innovation_description": "Public Procurements Reports",
+        "innovation_link": "https://www.zamowienia20.pl/pl2/raporty/przetargi"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [],
+    "citizen_monitoring": false,
+    "ocds_description": "Polska",
+    "impacts_stories": [
+      {
+        "story_title": "Talking open contracting in the “City of Freedom”",
+        "story_url": "https://www.open-contracting.org/2017/03/30/talking-open-contracting-city-freedom/"
+      }
+    ],
+    "contract_changes": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "iso": "us",
+  "name": "United States",
+  "full_name": "United States – United States of America",
+  "meta": {
+    "date": 1511572636380
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit country commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522738/United_States_of_America.pdf"
+      },
+      {
+        "ogp_commitment": "National Action Plan 3.1 ",
+        "ogp_commitment_link": "https://www.whitehouse.gov/sites/default/files/docs/new_nap_commitments_final.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Open contracting in the U.S.",
+        "story_url": "https://www.open-contracting.org/why-open-contracting/worldwide/usa/"
+      },
+      {
+        "story_title": "How Puerto Rico can avoid another white elephant like the Whitefish contract",
+        "story_url": "https://www.open-contracting.org/2017/11/08/puerto-rico-can-avoid-another-white-elephant-like-whitefish-contract/"
+      }
+    ]
+  }
+}

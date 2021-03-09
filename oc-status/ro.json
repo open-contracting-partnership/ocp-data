@@ -1,0 +1,41 @@
+{
+  "iso": "ro",
+  "name": "Romania",
+  "full_name": "Romania",
+  "meta": {
+    "date": 1529076327785
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Tender Tracking Project",
+        "innovation_link": "http://ro.tendertracking.eu/?sf_culture=en"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan 2013-2015",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Romania%202nd%20Action%20Plan%202014-2016.pdf"
+      },
+      {
+        "ogp_commitment": "National Action Plan 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Romania-NAP_2016-2018%20EN.pdf"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522726/Romania.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Romania’s journey to implement the Open Contracting Data Standard",
+        "story_url": "https://www.open-contracting.org/2015/06/02/romania_s_journey_to_implement_the_open_contracting_data_standard/"
+      },
+      {
+        "story_title": "IODC15: Open Contracting Reflections from Canada, Colombia, Indonesia, Mexico, Nepal, Paraguay, Romania, and Ukraine",
+        "story_url": "https://www.open-contracting.org/2015/06/09/iodc15_open_contracting_reflections/"
+      }
+    ]
+  }
+}

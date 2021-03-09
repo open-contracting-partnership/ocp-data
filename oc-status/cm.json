@@ -1,0 +1,19 @@
+{
+  "iso": "cm",
+  "name": "Cameroon",
+  "full_name": "Cameroon – Republic of Cameroon",
+  "meta": {
+    "date": 1511574991378
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Waiting for Manna: Extractive Industries in Cameroon",
+        "story_url": "https://www.open-contracting.org/2013/09/04/waiting_for_manna_extractive_industries_in_cameroon/"
+      }
+    ]
+  }
+}

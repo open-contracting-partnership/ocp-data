@@ -1,0 +1,18 @@
+{
+  "iso": "es",
+  "name": "Spain",
+  "full_name": "Spain – Kingdom of Spain",
+  "meta": {
+    "date": 1459452438870
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Monitoring public construction: Who is paid for the job? (¿Quién cobra la obra?)",
+        "innovation_link": "http://quiencobralaobra.es/"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": []
+  }
+}

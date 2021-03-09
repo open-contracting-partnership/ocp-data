@@ -1,0 +1,28 @@
+{
+  "iso": "cz",
+  "name": "Czech Republic",
+  "full_name": "Czech Republic",
+  "meta": {
+    "date": 1511545138015
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Public Procurement Benchmarking Tool",
+        "innovation_link": "http://www.zindex.cz"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "The anatomy of “small scale” purchases  –  the Czech case",
+        "story_url": "https://www.open-contracting.org/2017/09/18/anatomy-small-scale-purchases%E2%80%8A-%E2%80%8Athe-czech-case/"
+      },
+      {
+        "story_title": "How to make sure open contracting data gets used: A guide to defining the use case",
+        "story_url": "https://www.open-contracting.org/2016/08/18/use-case-guide/"
+      }
+    ]
+  }
+}

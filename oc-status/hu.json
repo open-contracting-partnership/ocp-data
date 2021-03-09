@@ -1,0 +1,22 @@
+{
+  "iso": "hu",
+  "name": "Hungary",
+  "full_name": "Hungary",
+  "meta": {
+    "date": 1459540063993
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Detecting red flags in public procurement",
+        "innovation_link": "http://www.redflags.eu/"
+      },
+      {
+        "innovation_description": "Tender Tracking Project",
+        "innovation_link": "http://tendertracking.eu/?sf_culture=hu&sf_culture=en"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": []
+  }
+}

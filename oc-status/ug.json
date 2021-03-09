@@ -1,0 +1,36 @@
+{
+  "iso": "ug",
+  "name": "Uganda",
+  "full_name": "Uganda – Republic of Uganda",
+  "meta": {
+    "date": 1581449692414
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Public Procurement and Disposal of Public Assets Authority (PPDA)",
+        "publisher_link": "http://gpp.ppda.go.ug/page/home",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2017"
+      },
+      {
+        "publisher": "Budeshi Uganda",
+        "publisher_link": "http://www.budeshi.ug",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      }
+    ],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Better together: How Ugandans are improving procurement with data and dialogue",
+        "story_url": "https://medium.com/@opencontracting/better-together-how-ugandans-are-improving-procurement-with-data-and-dialogue-3090ecaed857"
+      }
+    ]
+  }
+}

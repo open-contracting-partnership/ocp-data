@@ -1,0 +1,31 @@
+{
+  "iso": "cr",
+  "name": "Costa Rica",
+  "full_name": "Costa Rica – Republic of Costa Rica",
+  "meta": {
+    "date": 1603109092786
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Poder Judicial de Costa Rica",
+        "publisher_link": "http://datosabiertospj.eastus.cloudapp.azure.com/ca/dataset/estandar-de-datos-de-contrataciones-abiertas-ocds",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2015-2017",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Versión%20INGLES%20FINAL.%20rev%20docx%20%282%29.docx"
+      },
+      {
+        "ogp_commitment": "OGP NAP 2017-2019",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/current-commitments/06-implementaci-n-de-los-est-ndares-de-contrataciones-abiertas-al-sistema"
+      }
+    ]
+  }
+}

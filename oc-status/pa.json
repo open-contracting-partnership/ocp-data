@@ -1,0 +1,19 @@
+{
+  "iso": "pa",
+  "name": "Panama",
+  "full_name": "Panama – Republic of Panama",
+  "meta": {
+    "date": 1511575179876
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Red flags for integrity: Giving the green light to open data solutions",
+        "story_url": "https://www.open-contracting.org/2016/11/30/red-flags-integrity-giving-green-light-open-data-solutions/"
+      }
+    ]
+  }
+}

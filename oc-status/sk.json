@@ -1,0 +1,28 @@
+{
+  "iso": "sk",
+  "name": "Slovakia",
+  "full_name": "Slovakia – Slovak Republic",
+  "meta": {
+    "date": 1512403753664
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Monitoring Tool",
+        "innovation_link": "http://www.otvorenezmluvy.sk/"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Government procurement is opening up, but progress is slow",
+        "story_url": "https://www.open-contracting.org/2017/05/03/government-procurement-opening-progress-slow/"
+      },
+      {
+        "story_title": "What the radical transparency regime of public contracts achieved in Slovakia",
+        "story_url": "http://www.transparency.sk/wp-content/uploads/2015/05/Open-Contracts.pdf"
+      }
+    ]
+  }
+}

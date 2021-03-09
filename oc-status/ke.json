@@ -1,0 +1,50 @@
+{
+  "iso": "ke",
+  "name": "Kenya",
+  "full_name": "Kenya – Republic of Kenya",
+  "meta": {
+    "date": 1614695722839
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Civil Society Public Projects Monitoring (2014-15)",
+        "innovation_link": "http://www.developmentcheck.org/countries/ke"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Makuene County",
+        "publisher_link": "https://opencontracting.makueni.go.ke/ui/index.html#!/m-and-e",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Kenya_AP2_2016_0.pdf"
+      },
+      {
+        "ogp_commitment": "Elgeyo Marakwet County subnational OGP action plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Elgeyo-Marakwet_Subnational_Action-Plan20161201.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2020-2022",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/03/Kenya_Action-Plan_2020-2022.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Pro-active disclosure can help curb flawed procurement processes in Kenya",
+        "story_url": "https://www.open-contracting.org/2017/04/13/pro-active-disclosure-can-help-curb-flawed-procurement-processes-kenya/"
+      },
+      {
+        "story_title": "New year, big plans for open contracting in Africa",
+        "story_url": "https://www.open-contracting.org/2017/01/18/new-year-big-plans-open-contracting-africa/"
+      }
+    ]
+  }
+}

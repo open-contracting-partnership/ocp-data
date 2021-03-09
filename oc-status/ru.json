@@ -1,0 +1,24 @@
+{
+  "iso": "ru",
+  "name": "Russia",
+  "full_name": "Russia – Russian Federation",
+  "meta": {
+    "date": 1511574024416
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "ClearSpending",
+        "innovation_link": "http://clearspending.ru"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "From transparency to using the data: analyzing contracts in Russia",
+        "story_url": "https://www.open-contracting.org/2015/10/15/analyzing_contracts_in_russia/"
+      }
+    ]
+  }
+}

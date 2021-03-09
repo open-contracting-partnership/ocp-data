@@ -1,0 +1,45 @@
+{
+  "iso": "au",
+  "name": "Australia",
+  "full_name": "Australia – Commonwealth of Australia",
+  "meta": {
+    "date": 1611903614020
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "New South Wales Department of Finance",
+        "ocds_implementation": false,
+        "ocds_ongoing_data": true,
+        "ocds_historic_data": true,
+        "publisher_link": "https://github.com/NSW-eTendering/NSW-eTendering-API",
+        "year_first_implemented": "2017"
+      },
+      {
+        "publisher": "Commonwealth Department of Finance",
+        "publisher_link": "https://github.com/austender/austender-ocds-api",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2016-18",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Australia_NAP_2016-2018_0.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2018-20",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2018/09/Australia_Action-Plan_2018-2020.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "What does Australia’s open contracting data look like?",
+        "story_url": "https://www.open-contracting.org/2020/02/11/what-does-australias-open-contracting-data-look-like/"
+      }
+    ]
+  }
+}

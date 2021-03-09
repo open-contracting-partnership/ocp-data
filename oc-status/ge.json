@@ -1,0 +1,42 @@
+{
+  "iso": "ge",
+  "name": "Georgia",
+  "full_name": "Georgia",
+  "meta": {
+    "date": 1567793527466
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Tender Monitor Tool",
+        "innovation_link": "tendermonitor.ge/en"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "State Procurement Agency",
+        "publisher_link": "https://odapi.spa.ge",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522706/Georgia.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "A revolution’s in the air",
+        "story_url": "https://www.open-contracting.org/2017/04/26/a-revolutions-in-the-air/"
+      },
+      {
+        "story_title": "How Georgia is handling procurement transparency",
+        "story_url": "https://www.open-contracting.org/2014/02/03/how_georgia_is_handling_procurement_transparency/"
+      }
+    ]
+  }
+}

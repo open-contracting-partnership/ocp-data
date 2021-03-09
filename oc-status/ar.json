@@ -1,0 +1,48 @@
+{
+  "iso": "ar",
+  "name": "Argentina",
+  "full_name": "Argentina – Argentine Republic",
+  "meta": {
+    "date": 1574167502259
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "A Qué Precio: an observatory of public contracts in the health sector",
+        "innovation_link": "https://aqueprecio.lanacion.com.ar"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Buenos Aires Compras",
+        "publisher_link": "https://data.buenosaires.gob.ar/dataset/buenos-aires-compras",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "Dirección Nacional de Vialidad",
+        "publisher_link": "https://datosabiertos.vialidad.gob.ar/ui/index.html",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "3rd National OGP Action Plan",
+        "ogp_commitment_link": "https://drive.google.com/file/d/0B6plaXO3RncLbFQtZDIzRHdlMDg/view"
+      },
+      {
+        "ogp_commitment": "Commitment UK Anti-Corruption Summit",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522967/Argentina.pdf"
+      },
+      {
+        "ogp_commitment": "Transparency and Institutional Innovation Agenda, City of Buenos Aires",
+        "ogp_commitment_link": "http://www.buenosaires.gob.ar/agendadetransparencia/gobierno-abierto/compras-publicas"
+      }
+    ]
+  }
+}

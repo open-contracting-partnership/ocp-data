@@ -1,0 +1,46 @@
+{
+  "iso": "fr",
+  "name": "France",
+  "full_name": "France – French Republic",
+  "meta": {
+    "date": 1574188198317
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Secrétariat Général du Gouvernement",
+        "publisher_link": "https://www.data.gouv.fr/en/datasets/fichiers-consolides-des-donnees-essentielles-de-la-commande-publique/#resource-68bd2001-3420-4d94-bc49-c90878df322c",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan 2015-2017",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/2015%2007%2009_Plan%20gouvernement%20ouvert%20EN%20Version%20Finale.pdf"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522751/France.pdf"
+      },
+      {
+        "ogp_commitment": "Paris OGP National Action Plan ",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/members/paris-france/commitments/PAR0008/"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Open Contracting sans frontières : la version française est disponible",
+        "story_url": "https://www.open-contracting.org/2016/12/07/open-contracting-version-francaise/"
+      },
+      {
+        "story_title": "Open contracting at the OGP Summit in Paris",
+        "story_url": "https://www.open-contracting.org/2016/12/05/open-contracting-ogp-summit-paris/"
+      }
+    ],
+    "contract_changes": true
+  }
+}

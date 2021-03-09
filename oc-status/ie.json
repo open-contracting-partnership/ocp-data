@@ -1,0 +1,19 @@
+{
+  "iso": "ie",
+  "name": "Ireland",
+  "full_name": "Ireland",
+  "meta": {
+    "date": 1487969021518
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Ireland_NAP_2016-2018.pdf"
+      }
+    ],
+    "ocds_description": "United States"
+  }
+}

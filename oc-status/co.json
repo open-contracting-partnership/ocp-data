@@ -1,0 +1,51 @@
+{
+  "iso": "co",
+  "name": "Colombia",
+  "full_name": "Colombia – Republic of Colombia",
+  "meta": {
+    "date": 1581450053596
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Elecciones y Contratos: Monitoring the link between campaign financing and contracts ",
+        "innovation_link": "http://elecciones-contratos.monitorciudadano.co/"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Colombia Compra",
+        "ocds_implementation": true,
+        "ocds_ongoing_data": true,
+        "ocds_historic_data": true,
+        "publisher_link": "https://www.colombiacompra.gov.co/transparencia/gestion-documental/datos-abiertos",
+        "year_first_implemented": "2016"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2017-2019",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Colombia_NAP_2017-2019.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2015-2017",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Open%20%20Government%20Partnership%20%28Inglés%29Documento%20enviado%20OGP.docx"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522717/Colombia__1_.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "A little data goes a long way: How bidder analysis could boost competition in Colombia’s infrastructure contracts",
+        "story_url": "https://www.open-contracting.org/2019/05/03/a-little-data-goes-a-long-way-how-bidder-analysis-could-boost-competition-in-colombias-infrastructure-contracts/"
+      },
+      {
+        "story_title": "The deals behind the meals",
+        "story_url": "https://medium.com/open-contracting-stories/the-deals-behind-the-meals-c4592e9466a2"
+      }
+    ],
+    "contract_changes": true
+  }
+}
