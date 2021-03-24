@@ -3,7 +3,7 @@
   "name": "Chile",
   "full_name": "Chile – Republic of Chile",
   "meta": {
-    "date": 1615309923279
+    "date": 1616598896666
   },
   "results": {
     "innovations": [
@@ -12,8 +12,8 @@
         "innovation_link": "https://compras.observatoriofiscal.cl"
       },
       {
-        "innovation_description": "Lobbyscaliza",
-        "innovation_link": "http://lobbyscaliza.org"
+        "innovation_description": "Red Flags monitoring platform",
+        "innovation_link": "https://redflags.observatoriofiscal.cl/"
       }
     ],
     "publishers": [
@@ -34,6 +34,10 @@
       {
         "ogp_commitment": "OGP National Action Plan 2018-20",
         "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2019/01/Chile_Action-Plan_2018-2020.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2020-22",
+        "ogp_commitment_link": "https://www.ogp.gob.cl/wp-content/uploads/2021/03/CHILE-5to-plan-de-accion.pdf"
       }
     ],
     "impacts_stories": [
@@ -49,6 +53,7 @@
         "story_title": "Diagnosis open: how open contracting is bringing down the cost of medicines in Chile",
         "story_url": "https://www.open-contracting.org/2021/01/29/diagnosis-open-how-open-contracting-is-bringing-down-the-cost-of-medicines-in-chile/"
       }
-    ]
+    ],
+    "citizen_monitoring": true
   }
 }
