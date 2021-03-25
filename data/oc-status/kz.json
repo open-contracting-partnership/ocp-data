@@ -1,1 +1,19 @@
-{"iso":"kz","name":"Kazakhstan","full_name":"Kazakhstan – Republic of Kazakhstan","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "kz",
+  "name": "Kazakhstan",
+  "full_name": "Kazakhstan – Republic of Kazakhstan",
+  "meta": {
+    "date": 1616673893798
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Tracking COVID-19 procurement in Kazakhstan: from red flags to cancellations",
+        "story_url": "https://www.open-contracting.org/2021/03/11/tracking-covid-19-procurement-in-kazakhstan-from-red-flags-to-cancellations/"
+      }
+    ]
+  }
+}
