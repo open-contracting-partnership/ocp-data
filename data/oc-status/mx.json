@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1598974714287
+    "date": 1617111525279
   },
   "results": {
     "innovations": [
@@ -60,6 +60,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
         "year_first_implemented": "2020"
+      },
+      {
+        "publisher": "Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de Yucatán (INAIP)",
+        "publisher_link": "https://contratacionesabiertas.inaipyucatan.org.mx/contratacionesabiertas/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
       }
     ],
     "ogp_commitments": [
