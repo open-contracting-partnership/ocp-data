@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1617111525279
+    "date": 1617645030379
   },
   "results": {
     "innovations": [
@@ -33,7 +33,7 @@
         "publisher": "Public Administration and Finance Ministry",
         "publisher_link": "https://datos.gob.mx/busca/organization/contrataciones-abiertas",
         "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
+        "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2017"
       },
