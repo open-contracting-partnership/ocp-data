@@ -3,7 +3,7 @@
   "name": "Ukraine",
   "full_name": "Ukraine",
   "meta": {
-    "date": 1581449628827
+    "date": 1619649629085
   },
   "results": {
     "innovations": [
@@ -30,6 +30,10 @@
       {
         "ogp_commitment": "OGP NAP 2017-2019",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Ukraine_National-Action-Plan-3_2016-18_EN.docx"
+      },
+      {
+        "ogp_commitment": "OGP NAP 2020-22",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/03/Ukraine_Action-Plan_2020-2022_EN.pdf"
       }
     ],
     "citizen_monitoring": true,
