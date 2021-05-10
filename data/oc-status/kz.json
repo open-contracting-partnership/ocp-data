@@ -3,10 +3,15 @@
   "name": "Kazakhstan",
   "full_name": "Kazakhstan – Republic of Kazakhstan",
   "meta": {
-    "date": 1616673893798
+    "date": 1620269207455
   },
   "results": {
-    "innovations": [],
+    "innovations": [
+      {
+        "innovation_description": "OpenTender.kz by NGO Progress provides insights into Kazakhstan public procurement ",
+        "innovation_link": "https://opentender.kz/"
+      }
+    ],
     "publishers": [],
     "ogp_commitments": [],
     "impacts_stories": [
