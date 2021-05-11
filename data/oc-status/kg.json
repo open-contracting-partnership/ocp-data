@@ -3,7 +3,7 @@
   "name": "Kyrgyzstan",
   "full_name": "Kyrgyzstan – Kyrgyz Republic",
   "meta": {
-    "date": 1591883561866
+    "date": 1620734837148
   },
   "results": {
     "innovations": [
@@ -16,7 +16,16 @@
         "innovation_link": "http://www.developmentcheck.org/countries/kg"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Ministry of Finance of the Kyrgyz Republic",
+        "publisher_link": "https://analytics.zakupki.gov.kg/api-export",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP National Action Plan 2018-20",
