@@ -3,10 +3,19 @@
   "name": "Italy",
   "full_name": "Italy – Italian Republic",
   "meta": {
-    "date": 1569958392145
+    "date": 1621609845760
   },
   "results": {
-    "innovations": [],
+    "innovations": [
+      {
+        "innovation_description": "AppaltiPOP by OnData collects data on public contracts by Italian public administrations to the anti-corruption authority, and republishes them in the Open Contracting Data Standard format",
+        "innovation_link": "https://www.appaltipop.it"
+      },
+      {
+        "innovation_description": "ContrattiPubblici.org is a search engine and bi tool developed by Synapta, based on a knowledge graph of more than 50 million public contracts.",
+        "innovation_link": "https://contrattipubblici.org/"
+      }
+    ],
     "publishers": [],
     "ogp_commitments": [
       {
