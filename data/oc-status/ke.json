@@ -3,7 +3,7 @@
   "name": "Kenya",
   "full_name": "Kenya – Republic of Kenya",
   "meta": {
-    "date": 1614695722839
+    "date": 1624895096879
   },
   "results": {
     "innovations": [
@@ -14,7 +14,7 @@
     ],
     "publishers": [
       {
-        "publisher": "Makuene County",
+        "publisher": "Makueni County",
         "publisher_link": "https://opencontracting.makueni.go.ke/ui/index.html#!/m-and-e",
         "ocds_historic_data": false,
         "ocds_ongoing_data": true,
@@ -34,6 +34,10 @@
       {
         "ogp_commitment": "OGP National Action Plan 2020-2022",
         "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/03/Kenya_Action-Plan_2020-2022.pdf"
+      },
+      {
+        "ogp_commitment": "Nandi County subnational OGP action plan ",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/04/Nandi_LoS_20201020.pdf"
       }
     ],
     "impacts_stories": [
