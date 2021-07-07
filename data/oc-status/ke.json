@@ -3,13 +3,17 @@
   "name": "Kenya",
   "full_name": "Kenya – Republic of Kenya",
   "meta": {
-    "date": 1624895096879
+    "date": 1625629883935
   },
   "results": {
     "innovations": [
       {
         "innovation_description": "Civil Society Public Projects Monitoring (2014-15)",
         "innovation_link": "http://www.developmentcheck.org/countries/ke"
+      },
+      {
+        "innovation_description": "Dev check link doesn’t work, you now need to go to dev check via integrity action, then click dev check, then advanced filters, then select a country. Mb there is a way to automate.",
+        "innovation_link": ""
       }
     ],
     "publishers": [
