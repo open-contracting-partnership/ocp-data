@@ -1,1 +1,18 @@
-{"iso":"de","name":"Germany","full_name":"Germany – Federal Republic of Germany","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "de",
+  "name": "Germany",
+  "full_name": "Germany – Federal Republic of Germany",
+  "meta": {
+    "date": 1629827622245
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2021-23",
+        "ogp_commitment_link": "https://www.open-government-deutschland.de/resource/blob/1567548/1936828/fc054666ac752f70f0dc88846c0834e6/dritter-nap-data.pdf?download=1"
+      }
+    ]
+  }
+}
