@@ -143,7 +143,7 @@
       },
       {
         "publisher": "Instituto Zacatecano de Transparencia y Acceso a la Información (IZAI)",
-        "publisher_link": "https://contratacionesabiertas.izai.org.mx/contratacionesabiertas/datosabierto",
+        "publisher_link": "https://contratacionesabiertas.izai.org.mx/contratacionesabiertas/datosabiertos",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
