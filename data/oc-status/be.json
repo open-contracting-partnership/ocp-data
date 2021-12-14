@@ -1,1 +1,20 @@
-{"iso":"be","name":"Belgium","full_name":"Belgium – Kingdom of Belgium","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+    "iso": "be",
+    "name": "Belgium",
+    "full_name": "Belgium – Kingdom of Belgium",
+    "meta": {},
+    "results": {
+        "innovations": [],
+        "publishers": [
+            {
+                "publisher": "https://opentender.eu",
+                "publisher_link": "https://opentender.eu/be/",
+                "ocds_historic_data": true,
+                "ocds_ongoing_data": true,
+                "ocds_implementation": false,
+                "year_first_implemented": "2009"
+            }
+        ],
+        "ogp_commitments": []
+    }
+}

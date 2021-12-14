@@ -15,6 +15,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/pt/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2009"
       }
     ],
     "ogp_commitments": [

@@ -20,7 +20,16 @@
         "innovation_link": "https://www.zamowienia20.pl/pl2/raporty/przetargi"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/pl/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2009"
+      }
+    ],
     "ogp_commitments": [],
     "citizen_monitoring": false,
     "ocds_description": "Polska",

@@ -7,7 +7,16 @@
   },
   "results": {
     "innovations": [],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/nl/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2009"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP National Action Plan 2018-20",

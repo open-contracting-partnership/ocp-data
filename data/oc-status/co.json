@@ -20,6 +20,14 @@
         "ocds_historic_data": true,
         "publisher_link": "https://www.colombiacompra.gov.co/transparencia/gestion-documental/datos-abiertos",
         "year_first_implemented": "2016"
+      },
+      {
+        "publisher": "Agencia Nacional de Infraestructura (ANI)",
+        "ocds_implementation": true,
+        "ocds_ongoing_data": true,
+        "ocds_historic_data": true,
+        "publisher_link": "https://aniscopio.ani.gov.co/datos-abiertos",
+        "year_first_implemented": "2021"
       }
     ],
     "ogp_commitments": [
