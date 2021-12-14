@@ -12,7 +12,24 @@
         "innovation_link": "http://quiencobralaobra.es/"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Ayuntamiento de Zaragoza",
+        "publisher_link": "https://www.zaragoza.es/docs-api_sede/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      },
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/es/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+    }
+    ],
     "ogp_commitments": []
   }
 }

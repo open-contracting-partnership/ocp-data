@@ -26,6 +26,54 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2018"
+      },
+      {
+        "publisher": "Cross River State",
+        "publisher_link": "http://ocdsapi.dppib-crsgov.org/Help",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Ebonyi E-PROCUREMENT",
+        "publisher_link": "https://ebonyieprocure.eb.gov.ng/ocds_report.php",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Edo State Open Contracting Data Standards Portal",
+        "publisher_link": "http://edpms.edostate.gov.ng/ocds/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Ekiti State Open Contracting Portal",
+        "publisher_link": "https://ocds.bpp.ekitistate.gov.ng/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Gombe State Open Contracting Portal",
+        "publisher_link": "http://gombe.stateopencontracting.com/Other-Basic/Report/Json-Report",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Oyo State Open Contracting Portal",
+        "publisher_link": "https://ocdsoyo.oyostate.gov.ng/projects.php",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
       }
     ],
     "ogp_commitments": [

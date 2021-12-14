@@ -1,1 +1,28 @@
-{"iso":"hr","name":"Croatia","full_name":"Croatia – Republic of Croatia","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+    "iso": "hr",
+    "name": "Croatia",
+    "full_name": "Croatia – Republic of Croatia",
+    "meta": {},
+    "results": {
+        "innovations": [],
+        "publishers": [
+            {
+                "publisher": "Elektronički oglasnik javne nabave (Electronic public procurement notices)",
+                "publisher_link": "https://eojn.nn.hr/SPIN/application/ipn/Oglasnik/PreuzimanjeUgovoraOCD.aspx",
+                "ocds_historic_data": true,
+                "ocds_ongoing_data": true,
+                "ocds_implementation": false,
+                "year_first_implemented": "2021"
+            },
+            {
+                "publisher": "https://opentender.eu",
+                "publisher_link": "https://opentender.eu/hr/",
+                "ocds_historic_data": true,
+                "ocds_ongoing_data": true,
+                "ocds_implementation": false,
+                "year_first_implemented": "2020"
+            }
+        ],
+        "ogp_commitments": []
+    }
+}

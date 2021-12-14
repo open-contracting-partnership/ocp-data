@@ -27,6 +27,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2015"
+      },
+      {
+        "publisher": "Secrétariat du Conseil du trésor - Gouvernement du Québec",
+        "publisher_link": "https://www.donneesquebec.ca/recherche/dataset/systeme-electronique-dappel-doffres-seao",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
       }
     ],
     "ocds_description": "Public Works and Government Services Canada are involved in a shared project to publish historic data using the OCDS. The City of Montreal publishes ongoing data in OCDS.",

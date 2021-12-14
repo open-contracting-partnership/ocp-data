@@ -31,7 +31,7 @@
       },
       {
         "publisher": "Public Administration and Finance Ministry",
-        "publisher_link": "https://datos.gob.mx/busca/organization/contrataciones-abiertas",
+        "publisher_link": "https://datos.gob.mx/busca/dataset/concentrado-de-contrataciones-abiertas-de-la-apf",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
@@ -64,6 +64,86 @@
       {
         "publisher": "Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de Yucatán (INAIP)",
         "publisher_link": "https://contratacionesabiertas.inaipyucatan.org.mx/contratacionesabiertas/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Instituto Duranguense de Acceso a la Información y de Protección de Datos Personales (IDAIP)",
+        "publisher_link": "http://contratacionesabiertas.idaip.org.mx/contratacionesabiertas/datosabiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Instituto de Acceso a la Información Pública para el Estado de Guanajuato (IACIP)",
+        "publisher_link": "http://contratacionesabiertas.iacipgto.mx:4000/contratacionesabiertas/datosabiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México (INFOCDMX)",
+        "publisher_link": "https://dashboard.infocdmx.org.mx/contratacionesabiertas/datosabiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios (INFOEM)",
+        "publisher_link": "http://www.infoem.org.mx:4000/contratacionesabiertas/datosabiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León (COTAI)",
+        "publisher_link": "http://201.149.38.218:4000/contratacionesabiertas/datosabiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Instituto de Acceso a la Información Publica y Protección de Datos Personales del Estado de Oaxaca (IAIPOXACA)",
+        "publisher_link": "http://contratacionesabiertas-iaipoaxaca-org.mx:4000/contratacionesabiertas/datosabiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "QuiénEsQuién.Wiki",
+        "publisher_link": "https://qqwapi-elastic.readthedocs.io/es/latest/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo (IDAIPQROO)",
+        "publisher_link": "http://conab.idaipqroo.org.mx:4000/contratacionesabiertas/datosabiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales",
+        "publisher_link": "http://www.ivai.org.mx/contrataciones-abiertas/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Instituto Zacatecano de Transparencia y Acceso a la Información (IZAI)",
+        "publisher_link": "https://contratacionesabiertas.izai.org.mx/contratacionesabiertas/datosabiertos",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": true,

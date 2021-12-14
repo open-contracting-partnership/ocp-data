@@ -11,18 +11,26 @@
       {
         "publisher": "Superintendencia de Alianza Público-Privada",
         "publisher_link": " http://app.sisocs.org",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": false,
         "year_first_implemented": "2018"
       },
       {
         "publisher": "Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE)",
         "publisher_link": "http://www.oncae.gob.hn/datosabiertos",
-        "ocds_historic_data": false,
+        "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE) / Secretaria de Finanzas de Honduras (SEFIN)",
+        "publisher_link": "http://www.contratacionesabiertas.gob.hn/descargas/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
       },
       {
         "publisher": "Instituto de Acceso a la Información Publica (IAIP)",

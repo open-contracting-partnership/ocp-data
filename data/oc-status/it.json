@@ -16,7 +16,32 @@
         "innovation_link": "https://contrattipubblici.org/"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "AppaltiPOP",
+        "publisher_link": "https://www.appaltipop.it/it/download",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      },
+      {
+        "publisher": "Autorità Nazionale Anticorruzione (ANAC)",
+        "publisher_link": "https://dati.anticorruzione.it/opendata/organization/anticorruzione",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/it/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP National Action Plan 2019-21",

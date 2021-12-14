@@ -16,18 +16,10 @@
       {
         "publisher": "Peru Compras",
         "publisher_link": "https://www.catalogos.perucompras.gob.pe/ConsultaOrdenesPub",
-        "ocds_historic_data": false,
+        "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2020"
-      },
-      {
-        "publisher": "",
-        "publisher_link": "",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": ""
       }
     ],
     "ogp_commitments": [
