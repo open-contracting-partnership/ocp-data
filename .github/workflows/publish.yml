@@ -33,7 +33,7 @@ jobs:
       with:
         commit_message: Deploy to publish
         branch: publish-test
-        repository: ./dist
+        # repository: ./dist
         commit_user_name: ocp-bot
         commit_user_email: ocp-bot@open-contracting.org
         push_options: '--force'
