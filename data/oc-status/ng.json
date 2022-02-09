@@ -14,9 +14,15 @@
     ],
     "publishers": [
       {
+        "publisher": "Abia State",
+        "publisher_link": "https://www.abiaeprocurement.ab.gov.ng/report/ocds.php",
+        "ocds_ongoing_data": true,
+        "year_first_implemented": "2021"
+      },
+      {
         "publisher": "Budeshi Civil Society Initative",
         "publisher_link": "http://www.budeshi.ng",
-        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
         "year_first_implemented": "2016"
       },
       {
@@ -57,6 +63,12 @@
         "ocds_historic_data": false,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Enugu State",
+        "publisher_link": "https://dueprocess.en.gov.ng/ocds_report.php",
+        "ocds_ongoing_data": true,
         "year_first_implemented": "2021"
       },
       {
