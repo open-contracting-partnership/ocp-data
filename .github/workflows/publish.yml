@@ -36,12 +36,13 @@ jobs:
         run: npm run build --if-present
 
       - name: Commit changed to publish branch
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          commit_message: Deploy to publish
-          branch: publish-test
-          # repository: ./dist
-          skip_dirty_check: true 
-          commit_user_name: ocp-bot
-          commit_user_email: ocp-bot@open-contracting.org
-          push_options: '--force'
+          source-directory: 'dist'
+          destination-github-username: 'open-contacting'
+          destination-repository-name: 'ocp-data'
+          user-email: ocp-bot@open-contracting.org
+          target-branch: publish-test
+          commit-message: Deploy to publish
