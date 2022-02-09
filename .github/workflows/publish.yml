@@ -44,5 +44,5 @@ jobs:
           destination-github-username: 'open-contracting-partnership'
           destination-repository-name: 'ocp-data'
           user-email: ocp-bot@open-contracting.org
-          target-branch: publish-test
+          target-branch: publish
           commit-message: Deploy to publish
