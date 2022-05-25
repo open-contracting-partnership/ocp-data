@@ -1,1 +1,18 @@
-{"iso":"mg","name":"Madagascar","full_name":"Madagascar – Republic of Madagascar","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "mg",
+  "name": "Madagascar",
+  "full_name": "Madagascar – Republic of Madagascar",
+  "meta": {
+    "date": 1653520542566
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Yearly data on Madagascar's public procurement, OpenStat Madagascar, l'association MAIDI",
+        "innovation_link": "https://openstat-madagascar.com/bdd/finance-publique"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": []
+  }
+}
