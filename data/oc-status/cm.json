@@ -3,10 +3,15 @@
   "name": "Cameroon",
   "full_name": "Cameroon – Republic of Cameroon",
   "meta": {
-    "date": 1511574991378
+    "date": 1653520646063
   },
   "results": {
-    "innovations": [],
+    "innovations": [
+      {
+        "innovation_description": "Open data and visualizations of local public procurement data, Cameroon Open Local Contracting",
+        "innovation_link": "https://openthecontracts.info/appel-doffre.php"
+      }
+    ],
     "publishers": [],
     "ogp_commitments": [],
     "impacts_stories": [
