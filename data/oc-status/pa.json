@@ -3,17 +3,21 @@
   "name": "Panama",
   "full_name": "Panama – Republic of Panama",
   "meta": {
-    "date": 1511575179876
+    "date": 1658754411951
   },
   "results": {
     "innovations": [],
-    "publishers": [],
-    "ogp_commitments": [],
-    "impacts_stories": [
+    "publishers": [
       {
-        "story_title": "Red flags for integrity: Giving the green light to open data solutions",
-        "story_url": "https://www.open-contracting.org/2016/11/30/red-flags-integrity-giving-green-light-open-data-solutions/"
+        "publisher": "Dirección General de Contrataciones Públicas, Panama",
+        "publisher_link": "https://www.panamacompraencifras.gob.pa/#/estandarOCDS",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2022"
       }
-    ]
+    ],
+    "ogp_commitments": [],
+    "impacts_stories": []
   }
 }
