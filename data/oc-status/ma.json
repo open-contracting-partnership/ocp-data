@@ -1,1 +1,18 @@
-{"iso":"ma","name":"Morocco","full_name":"Morocco – Kingdom of Morocco","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "ma",
+  "name": "Morocco",
+  "full_name": "Morocco – Kingdom of Morocco",
+  "meta": {
+    "date": 1644435414399
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "Tangier OGP Local Action Plan",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/documents/action-plan-tangier-tetouan-al-hoceima-morocco-2021-2026/"
+      }
+    ]
+  }
+}

@@ -3,7 +3,7 @@
   "name": "Colombia",
   "full_name": "Colombia – Republic of Colombia",
   "meta": {
-    "date": 1644375715003
+    "date": 1662130352918
   },
   "results": {
     "innovations": [
@@ -49,6 +49,10 @@
       }
     ],
     "impacts_stories": [
+      {
+        "story_title": "Open for business: Colombia’s data-driven procurement reforms increase competition",
+        "story_url": "https://www.open-contracting.org/2020/07/16/open-for-business-colombias-data-driven-procurement-reforms-increase-competition/"
+      },
       {
         "story_title": "A little data goes a long way: How bidder analysis could boost competition in Colombia’s infrastructure contracts",
         "story_url": "https://www.open-contracting.org/2019/05/03/a-little-data-goes-a-long-way-how-bidder-analysis-could-boost-competition-in-colombias-infrastructure-contracts/"

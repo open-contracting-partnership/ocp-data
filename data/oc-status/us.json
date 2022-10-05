@@ -3,10 +3,15 @@
   "name": "United States",
   "full_name": "United States – United States of America",
   "meta": {
-    "date": 1644377098841
+    "date": 1644444738016
   },
   "results": {
-    "innovations": [],
+    "innovations": [
+      {
+        "innovation_description": "U.S. municipal procurement in the era of COVID-19",
+        "innovation_link": "https://www.open-contracting.org/2020/05/01/u-s-municipal-procurement-in-the-era-of-covid-19/"
+      }
+    ],
     "publishers": [],
     "ogp_commitments": [
       {
@@ -20,12 +25,20 @@
     ],
     "impacts_stories": [
       {
-        "story_title": "Open contracting in the U.S.",
-        "story_url": "https://www.open-contracting.org/why-open-contracting/worldwide/usa/"
+        "story_title": "Making procurement change at the localized level",
+        "story_url": "https://www.open-contracting.org/2021/12/13/making-procurement-change-at-the-localized-level/"
       },
       {
-        "story_title": "How Puerto Rico can avoid another white elephant like the Whitefish contract",
-        "story_url": "https://www.open-contracting.org/2017/11/08/puerto-rico-can-avoid-another-white-elephant-like-whitefish-contract/"
+        "story_title": "Piloting reforms in Los Angeles and Philadelphia",
+        "story_url": "https://sunlightfoundation.com/our-work/open-cities/open-contracting/"
+      },
+      {
+        "story_title": "Building a vibrant supplier base for a vibrant city",
+        "story_url": "https://www.open-contracting.org/implement/lift-projects/"
+      },
+      {
+        "story_title": "Action research: Contracting in recovery using CDBG-DR funds in Puerto Rico",
+        "story_url": "https://www.open-contracting.org/news/twelve-research-teams-will-analyze-equity-and-effectiveness-in-public-procurement/"
       }
     ]
   }

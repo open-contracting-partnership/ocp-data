@@ -3,10 +3,15 @@
   "name": "Costa Rica",
   "full_name": "Costa Rica – Republic of Costa Rica",
   "meta": {
-    "date": 1603109092786
+    "date": 1649421699626
   },
   "results": {
-    "innovations": [],
+    "innovations": [
+      {
+        "innovation_description": "Todos los contratos Costa Rica, InnovaAP, University of Costa Rica",
+        "innovation_link": "https://todosloscontratos.ucr.ac.cr/"
+      }
+    ],
     "publishers": [
       {
         "publisher": "Poder Judicial de Costa Rica",

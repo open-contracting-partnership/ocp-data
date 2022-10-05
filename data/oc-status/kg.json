@@ -3,7 +3,7 @@
   "name": "Kyrgyzstan",
   "full_name": "Kyrgyzstan – Kyrgyz Republic",
   "meta": {
-    "date": 1620734837148
+    "date": 1658756357467
   },
   "results": {
     "innovations": [
@@ -33,6 +33,10 @@
       }
     ],
     "impacts_stories": [
+      {
+        "story_title": "Procurement: the missing puzzle piece to follow the money in Kyrgyz Republic",
+        "story_url": "https://www.open-contracting.org/2022/06/29/procurement-the-missing-puzzle-piece-to-follow-the-money-in-kyrgyz-republic/"
+      },
       {
         "story_title": "Kyrgyz Republic: How open contracting can support small business",
         "story_url": "https://www.open-contracting.org/2019/09/23/kyrgyz-republic-how-open-contracting-can-support-small-business/"
