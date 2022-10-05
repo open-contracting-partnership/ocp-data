@@ -1,3 +1,5 @@
 tool/export*
 *node_modules*
 dist/*
+/npm-debug.log
+.DS_Store
