@@ -92,8 +92,8 @@ async.waterfall([
         output.map.data.objects.ne_50m_admin_0_countries.geometries = _
             .map(output.map.data.objects.ne_50m_admin_0_countries.geometries, geo => {
                 geo.properties = {
-                    iso_a2: geo.properties.ISO_A2,
-                    name: geo.properties.NAME,
+                    iso_a2: geo.properties.iso_a2,
+                    name: geo.properties.name,
                 }
 
                 return geo;
