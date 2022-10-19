@@ -3,7 +3,7 @@
   "name": "Italy",
   "full_name": "Italy – Italian Republic",
   "meta": {
-    "date": 1621609845760
+    "date": 1666211512731
   },
   "results": {
     "innovations": [
@@ -52,6 +52,12 @@
         "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522710/Italy.pdf"
       }
     ],
-    "ocds_description": "United States"
+    "ocds_description": "United States",
+    "impacts_stories": [
+      {
+        "story_title": "Behind Italy’s ‘small revolution’ in the fight for corruption-free contracts",
+        "story_url": "https://www.open-contracting.org/2022/09/21/behind-italys-small-revolution-in-the-fight-for-corruption-free-contracts/"
+      }
+    ]
   }
 }
