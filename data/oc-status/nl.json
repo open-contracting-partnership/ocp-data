@@ -9,6 +9,14 @@
     "innovations": [],
     "publishers": [
       {
+        "publisher": "TenderNed",
+        "publisher_link": "https://www.tenderned.nl/cms/nl/aanbesteden-in-cijfers/datasets-aanbestedingen",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2022"
+      },
+        {
         "publisher": "https://opentender.eu",
         "publisher_link": "https://opentender.eu/nl/",
         "ocds_historic_data": true,
