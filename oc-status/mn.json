@@ -1,0 +1,35 @@
+{
+  "iso": "mn",
+  "name": "Mongolia",
+  "full_name": "Mongolia",
+  "meta": {
+    "date": 1511575103898
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Mongolia Monitoring Network - Need to find name",
+        "innovation_link": "http://pro-act.org/profiles/blogs/open-contracting-building-better-roads-in-mongolia"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Mongolia_NAP2_Eng.pdf"
+      }
+    ],
+    "citizen_monitoring": true,
+    "disclosure_oil_mining": "none",
+    "impacts_stories": [
+      {
+        "story_title": "Getting to the Heart of the Community: Local procurement monitoring in Mongolia",
+        "story_url": "https://www.open-contracting.org/2013/08/06/getting_to_the_heart_of_the_community/"
+      },
+      {
+        "story_title": "In Mongolia National Advocacy Results in Changes to Law",
+        "story_url": "https://www.open-contracting.org/2013/05/22/in_mongolia_national_advocacy_results_in_changes_to_law/"
+      }
+    ]
+  }
+}

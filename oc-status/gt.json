@@ -1,0 +1,27 @@
+{
+  "iso": "gt",
+  "name": "Guatemala",
+  "full_name": "Guatemala – Republic of Guatemala",
+  "meta": {
+    "date": 1553189799031
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Vivir con VIH",
+        "innovation_link": "http://vivirconvih.org"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan 2016-18",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/PAN%20_2016-2018_GUA.pdf"
+      },
+      {
+        "ogp_commitment": "National Action Plan 2018-20",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Guatemala_Action-Plan_2018-2020.pdf"
+      }
+    ]
+  }
+}

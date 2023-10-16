@@ -1,0 +1,24 @@
+{
+  "iso": "kz",
+  "name": "Kazakhstan",
+  "full_name": "Kazakhstan – Republic of Kazakhstan",
+  "meta": {
+    "date": 1620269207455
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "OpenTender.kz by NGO Progress provides insights into Kazakhstan public procurement ",
+        "innovation_link": "https://opentender.kz/"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Tracking COVID-19 procurement in Kazakhstan: from red flags to cancellations",
+        "story_url": "https://www.open-contracting.org/2021/03/11/tracking-covid-19-procurement-in-kazakhstan-from-red-flags-to-cancellations/"
+      }
+    ]
+  }
+}

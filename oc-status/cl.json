@@ -1,0 +1,59 @@
+{
+  "iso": "cl",
+  "name": "Chile",
+  "full_name": "Chile – Republic of Chile",
+  "meta": {
+    "date": 1616598896666
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Observatorio de Compras",
+        "innovation_link": "https://compras.observatoriofiscal.cl"
+      },
+      {
+        "innovation_description": "Red Flags monitoring platform",
+        "innovation_link": "https://redflags.observatoriofiscal.cl/"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Dirección de Compra y Contratación Pública (ChileCompra)",
+        "publisher_link": "https://desarrolladores.mercadopublico.cl/OCDS",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2018"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2016-18",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Chile_Plan-de-Accion_2016-2018.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2018-20",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2019/01/Chile_Action-Plan_2018-2020.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2020-22",
+        "ogp_commitment_link": "https://www.ogp.gob.cl/wp-content/uploads/2021/03/CHILE-5to-plan-de-accion.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Red flags in Chile: building a data tool to identify risks in public tenders",
+        "story_url": "https://www.open-contracting.org/2019/06/06/red-flags-in-chile/"
+      },
+      {
+        "story_title": "Who wins the contracts: How Chile’s Observatorio de Compras is using open data to scrutinize competition in procurement",
+        "story_url": "https://www.open-contracting.org/2019/03/02/who-wins-the-contracts-how-chiles-observatorio-de-compras-is-using-open-data-to-scrutinize-competition-in-procurement/"
+      },
+      {
+        "story_title": "Diagnosis open: how open contracting is bringing down the cost of medicines in Chile",
+        "story_url": "https://www.open-contracting.org/2021/01/29/diagnosis-open-how-open-contracting-is-bringing-down-the-cost-of-medicines-in-chile/"
+      }
+    ],
+    "citizen_monitoring": true
+  }
+}

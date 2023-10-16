@@ -1,0 +1,23 @@
+{
+  "iso": "al",
+  "name": "Albania",
+  "full_name": "Albania – Republic of Albania",
+  "meta": {
+    "date": 1471379771595
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Open Procurement Albania: Monitoring of tenders and contracts in local government",
+        "innovation_link": "http://www.openprocurement.al/en"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/NAP3_ALB.pdf"
+      }
+    ]
+  }
+}
