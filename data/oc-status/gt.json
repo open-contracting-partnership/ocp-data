@@ -16,7 +16,16 @@
         "innovation_link": "https://www.ojoconmipisto.com/open-contracting"
       }
     ],
-    "publishers": [],
+    "publishers": [
+    {
+        "publisher": "Ministerio de Finanzas Públicas",
+        "publisher_link": "https://ocds.guatecompras.gt",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2024"
+      },
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "National Action Plan 2016-18",
