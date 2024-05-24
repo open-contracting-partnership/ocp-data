@@ -6,16 +6,6 @@
     "date": 1553189799031
   },
   "results": {
-    "innovations": [
-      {
-        "innovation_description": "Vivir con VIH",
-        "innovation_link": "http://vivirconvih.org"
-      },
-              {
-        "innovation_description": "Obras bajo la Lupa",
-        "innovation_link": "https://www.ojoconmipisto.com/open-contracting"
-      }
-    ],
     "publishers": [
     {
         "publisher": "Ministerio de Finanzas Públicas",
@@ -24,7 +14,17 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
         "year_first_implemented": "2024"
+      }
+    ],
+      "innovations": [
+      {
+        "innovation_description": "Vivir con VIH",
+        "innovation_link": "http://vivirconvih.org"
       },
+              {
+        "innovation_description": "Obras bajo la Lupa",
+        "innovation_link": "https://www.ojoconmipisto.com/open-contracting"
+      }
     ],
     "ogp_commitments": [
       {
