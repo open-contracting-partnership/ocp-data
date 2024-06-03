@@ -9,7 +9,7 @@
     "innovations": [
       {
         "innovation_description": "Philippine National Textbook Delivery Programme; NGO and Private Sector Participation in Procurement",
-        "innovation_link": "Dead link: http://www.opengovguide.com/country-examples/the-philippine-national-textbook-delivery-programme-uses-citizen-participation-to-improve-accountability-in-public-procurement/;http://www.opengovguide.com/country-examples/in-the-philippines-citizens-participate-in-all-stages-of-the-procurement-process-and-may-also-observe-implementation/"
+        "innovation_link": "https://www.g-watch.org/news-release/textbook-count-philippines"
       }
     ],
     "publishers": [],
@@ -22,12 +22,12 @@
     "disclosure_oil_mining_link": "government website",
     "impacts_stories": [
       {
-        "story_title": "How data revealedmore than just nepotismin the Philippines",
-        "story_url": "https://www.hivos.org/story/how-data-revealed-more-than-just-nepotism-in-the-philippines/"
+        "story_title": "Better bike lanes in the Philippines: Civic groups won a budget for bike lanes, then followed the money",
+        "story_url": "https://www.open-contracting.org/2024/04/02/better-bike-lanes-in-the-philippines-civic-groups-won-a-budget-for-bike-lanes-then-followed-the-money/"
       },
-      {
-        "story_title": "Hivos briefing on Open Contracting in the Philippines",
-        "story_url": "https://hivos.org/sites/default/files/philippines_0.pdf"
+        {
+        "story_title": "How data revealed more than just nepotismin the Philippines",
+        "story_url": "https://www.hivos.org/story/how-data-revealed-more-than-just-nepotism-in-the-philippines/"
       }
     ]
   }
