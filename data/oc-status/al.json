@@ -18,7 +18,7 @@
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
-          "publisher_link": "https://kpp.al/en/Historiku?nrVendimi=&OperatoriEkonmik=&idOperatori=&autoritetiKotraktues=&id=",
+        "publisher_link": "https://kpp.al/en/Historiku?nrVendimi=&OperatoriEkonmik=&idOperatori=&autoritetiKotraktues=&id=",
         "year_first_implemented": "2023"
       }
     ],
@@ -33,6 +33,6 @@
         "story_title": "How Albania’s e-complaints system reduces red tape for government suppliers",
         "story_url": "https://www.open-contracting.org/2022/11/22/how-albanias-e-complaints-system-reduces-red-tape-for-government-suppliers/"
       }
-    ],
+    ]
   }
 }

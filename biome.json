@@ -6,6 +6,9 @@
     "useIgnoreFile": true,
     "defaultBranch": "main"
   },
+  "organizeImports": {
+    "enabled": false
+  },
   "formatter": {
     "indentStyle": "space",
     "indentWidth": 2,
