@@ -1,1 +1,12 @@
-{"iso":"az","name":"Azerbaijan","full_name":"Azerbaijan – Republic of Azerbaijan","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[],"disclosure_oil_mining":"some"}}
+{
+  "iso": "az",
+  "name": "Azerbaijan",
+  "full_name": "Azerbaijan – Republic of Azerbaijan",
+  "meta": {},
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "disclosure_oil_mining": "some"
+  }
+}

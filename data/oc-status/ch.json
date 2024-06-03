@@ -1,20 +1,20 @@
 {
-    "iso": "ch",
-    "name": "Switzerland",
-    "full_name": "Switzerland – Swiss Confederation",
-    "meta": {},
-    "results": {
-        "innovations": [],
-        "publishers": [
-            {
-                "publisher": "https://opentender.eu",
-                "publisher_link": "https://opentender.eu/ch/",
-                "ocds_historic_data": true,
-                "ocds_ongoing_data": true,
-                "ocds_implementation": false,
-                "year_first_implemented": "2020"
-            }
-        ],
-        "ogp_commitments": []
-    }
+  "iso": "ch",
+  "name": "Switzerland",
+  "full_name": "Switzerland – Swiss Confederation",
+  "meta": {},
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/ch/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": []
+  }
 }

@@ -1,1 +1,7 @@
-{"iso":"cn","name":"China","full_name":"China – People's Republic of China","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "cn",
+  "name": "China",
+  "full_name": "China – People's Republic of China",
+  "meta": {},
+  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+}

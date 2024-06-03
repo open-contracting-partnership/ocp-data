@@ -16,7 +16,7 @@
         "ocds_implementation": true,
         "year_first_implemented": "2022"
       },
-        {
+      {
         "publisher": "https://opentender.eu",
         "publisher_link": "https://opentender.eu/nl/",
         "ocds_historic_data": true,

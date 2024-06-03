@@ -7,7 +7,7 @@
   },
   "results": {
     "publishers": [
-    {
+      {
         "publisher": "Ministerio de Finanzas Públicas",
         "publisher_link": "https://ocds.guatecompras.gt",
         "ocds_historic_data": true,
@@ -16,12 +16,12 @@
         "year_first_implemented": "2024"
       }
     ],
-      "innovations": [
+    "innovations": [
       {
         "innovation_description": "Vivir con VIH",
         "innovation_link": "http://vivirconvih.org"
       },
-              {
+      {
         "innovation_description": "Obras bajo la Lupa",
         "innovation_link": "https://www.ojoconmipisto.com/open-contracting"
       }

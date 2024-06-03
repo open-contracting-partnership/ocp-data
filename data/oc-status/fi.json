@@ -1,20 +1,20 @@
 {
-    "iso": "fi",
-    "name": "Finland",
-    "full_name": "Finland – Republic of Finland",
-    "meta": {},
-    "results": {
-        "innovations": [],
-        "publishers": [
-            {
-                "publisher": "https://opentender.eu",
-                "publisher_link": "https://opentender.eu/fi/",
-                "ocds_historic_data": true,
-                "ocds_ongoing_data": true,
-                "ocds_implementation": false,
-                "year_first_implemented": "2020"
-            }
-        ],
-        "ogp_commitments": []
-    }
+  "iso": "fi",
+  "name": "Finland",
+  "full_name": "Finland – Republic of Finland",
+  "meta": {},
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/fi/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": []
+  }
 }

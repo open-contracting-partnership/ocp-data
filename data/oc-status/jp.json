@@ -1,1 +1,7 @@
-{"iso":"jp","name":"Japan","full_name":"Japan","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "jp",
+  "name": "Japan",
+  "full_name": "Japan",
+  "meta": {},
+  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+}

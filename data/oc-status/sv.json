@@ -1,1 +1,7 @@
-{"iso":"sv","name":"El Salvador","full_name":"El Salvador – Republic of El Salvador","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "sv",
+  "name": "El Salvador",
+  "full_name": "El Salvador – Republic of El Salvador",
+  "meta": {},
+  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+}

@@ -1,1 +1,7 @@
-{"iso":"sm","name":"San Marino","full_name":"San Marino – Republic of San Marino","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "sm",
+  "name": "San Marino",
+  "full_name": "San Marino – Republic of San Marino",
+  "meta": {},
+  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+}

@@ -1,1 +1,7 @@
-{"iso":"nr","name":"Nauru","full_name":"Nauru – Republic of Nauru","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "nr",
+  "name": "Nauru",
+  "full_name": "Nauru – Republic of Nauru",
+  "meta": {},
+  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+}

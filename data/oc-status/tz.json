@@ -1,1 +1,7 @@
-{"iso":"tz","name":"Tanzania","full_name":"Tanzania – United Republic of Tanzania","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "tz",
+  "name": "Tanzania",
+  "full_name": "Tanzania – United Republic of Tanzania",
+  "meta": {},
+  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+}

@@ -1,1 +1,7 @@
-{"iso":"ls","name":"Lesotho","full_name":"Lesotho – Kingdom of Lesotho","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "ls",
+  "name": "Lesotho",
+  "full_name": "Lesotho – Kingdom of Lesotho",
+  "meta": {},
+  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+}

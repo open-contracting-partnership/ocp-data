@@ -1,1 +1,7 @@
-{"iso":"tr","name":"Turkey","full_name":"Turkey – Republic of Turkey","meta":{},"results":{"innovations":[],"publishers":[],"ogp_commitments":[]}}
+{
+  "iso": "tr",
+  "name": "Turkey",
+  "full_name": "Turkey – Republic of Turkey",
+  "meta": {},
+  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+}
