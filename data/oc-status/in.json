@@ -9,6 +9,14 @@
     "innovations": [],
     "publishers": [
       {
+        "publisher": "Assam State Government Finance Department",
+        "publisher_link": "https://data.gov.in/catalog/assam-public-procurement-data",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2023"
+      },
+        {
         "publisher": "CivicDataLab",
         "publisher_link": "https://github.com/CivicDataLab/himachal-pradesh-health-procurement-OCDS/",
         "ocds_historic_data": true,
@@ -18,5 +26,10 @@
       }
     ],
     "ogp_commitments": []
+    "impacts_stories": [
+      {
+        "story_title": "Improving climate resilience in flood-prone Assam, India",
+        "story_url": "https://www.open-contracting.org/2023/09/28/improving-climate-resilience-in-flood-prone-assam-india/"
+      }
   }
 }
