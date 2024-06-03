@@ -35,6 +35,10 @@
         "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/01/Netherlands_Action-Plan_2020-2022.pdf"
       }
     ],
-    "ocds_description": "United States"
+   "impacts_stories": [
+      {
+        "story_title": "Striving for data excellence: How the Netherlands’ TenderNed is enabling procurement insights for government and public users",
+        "story_url": "https://www.open-contracting.org/2023/07/05/striving-for-data-excellence-how-the-netherlands-tenderned-is-enabling-procurement-insights-for-government-and-public-users/"
+      }
   }
 }
