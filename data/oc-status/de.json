@@ -16,6 +16,7 @@
         "ocds_implementation": true,
         "year_first_implemented": "2023"
       }
+    ]
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP National Action Plan 2021-23",
@@ -23,7 +24,7 @@
       },
         {
         "ogp_commitment": "OGP National Action Plan 2023-25",
-        "ogp_commitment_link": "https://www.opengovpartnership.org/documents/germany-action-plan-2023-2025/"
+        "ogp_commitment_link": "https://www.opengovpartnership.org/documents/germany-action-plan-2023-2025"
       }
     ]
   }
