@@ -23,6 +23,11 @@
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/RepDom_NAP3.pdf"
       }
     ],
-    "ocds_description": "United States"
+  "impacts_stories": [
+      {
+        "story_title": "A red light for corruption: How the Dominican Republic is using open data, better processes & collaboration to fight corruption",
+        "story_url": "https://www.open-contracting.org/2023/12/09/a-red-light-for-corruption-how-the-dominican-republic-is-using-open-data-better-processes-collaboration-to-fight-corruption/"
+      }
+    ]
   }
 }
