@@ -9,11 +9,11 @@
     "innovations": [],
     "publishers": [
       {
-        "publisher": "Public Procurement and Disposal of Public Assets Authority (PPDA)",
+        "publisher": "Public Procurement and Disposal of Public Assets Authority",
         "publisher_link": "http://gpp.ppda.go.ug/page/home",
         "ocds_historic_data": false,
         "ocds_ongoing_data": true,
-        "ocds_implementation": false,
+        "ocds_implementation": true,
         "year_first_implemented": "2017"
       }
     ],
