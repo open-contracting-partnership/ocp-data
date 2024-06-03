@@ -14,11 +14,11 @@
     ],
     "publishers": [
       {
-        "publisher": "Public Procurement Commission, PPC",
-        "publisher_link": "https://kpp.al/en/Historiku?nrVendimi=&OperatoriEkonmik=&idOperatori=&autoritetiKotraktues=&id=",
+        "publisher": "Public Procurement Commission",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
+          "publisher_link": "https://kpp.al/en/Historiku?nrVendimi=&OperatoriEkonmik=&idOperatori=&autoritetiKotraktues=&id=",
         "year_first_implemented": "2023"
       }
     ],
