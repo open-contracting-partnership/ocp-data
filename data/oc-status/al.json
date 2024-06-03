@@ -12,12 +12,27 @@
         "innovation_link": "http://www.openprocurement.al/en"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Public Procurement Commission, PPC",
+        "publisher_link": "https://kpp.al/en/Historiku?nrVendimi=&OperatoriEkonmik=&idOperatori=&autoritetiKotraktues=&id=",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2023"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "National Action Plan 2016-2018",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/NAP3_ALB.pdf"
       }
-    ]
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "How Albania’s e-complaints system reduces red tape for government suppliers",
+        "story_url": "https://www.open-contracting.org/2022/11/22/how-albanias-e-complaints-system-reduces-red-tape-for-government-suppliers/"
+      }
+    ],
   }
 }
