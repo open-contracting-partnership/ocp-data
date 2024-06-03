@@ -6,18 +6,13 @@
     "date": 1624895096879
   },
   "results": {
-    "innovations": [
-      {
-        "innovation_description": "Civil Society Public Projects Monitoring (2014-15)",
-        "innovation_link": "http://www.developmentcheck.org/countries/ke"
-      }
-    ],
+    "innovations": [],
     "publishers": [
       {
         "publisher": "Makueni County",
-        "publisher_link": "https://opencontracting.makueni.go.ke/ui/index.html#!/m-and-e",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
+        "publisher_link": "https://opencontracting.makueni.go.ke/portal/tender",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": false,
         "year_first_implemented": "2019"
       }
