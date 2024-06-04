@@ -16,7 +16,7 @@
         "ocds_implementation": true,
         "year_first_implemented": "2023"
       },
-        {
+      {
         "publisher": "CivicDataLab",
         "publisher_link": "https://github.com/CivicDataLab/himachal-pradesh-health-procurement-OCDS/",
         "ocds_historic_data": true,
@@ -25,11 +25,12 @@
         "year_first_implemented": "2020"
       }
     ],
-    "ogp_commitments": []
+    "ogp_commitments": [],
     "impacts_stories": [
       {
         "story_title": "Improving climate resilience in flood-prone Assam, India",
         "story_url": "https://www.open-contracting.org/2023/09/28/improving-climate-resilience-in-flood-prone-assam-india/"
       }
+    ]
   }
 }
