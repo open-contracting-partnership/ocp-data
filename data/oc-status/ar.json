@@ -43,6 +43,16 @@
         "ogp_commitment": "Transparency and Institutional Innovation Agenda, City of Buenos Aires",
         "ogp_commitment_link": "http://www.buenosaires.gob.ar/agendadetransparencia/gobierno-abierto/compras-publicas"
       }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Inclusive infrastructure: how open procurement is putting informal settlements on the map in Argentina",
+        "story_url": "https://www.open-contracting.org/2022/08/02/inclusive-infrastructure-how-open-procurement-is-putting-informal-settlements-on-the-map-in-argentina/"
+      },
+      {
+        "story_title": "From open data to joined-up government: driving efficiency with BA Obras",
+        "story_url": "https://www.open-contracting.org/2021/07/12/from-open-data-to-joined-up-government-driving-efficiency-with-ba-obras/"
+      }
     ]
   }
 }
