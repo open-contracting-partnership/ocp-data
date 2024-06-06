@@ -28,6 +28,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2019"
+      },
+           {
+        "publisher": "Dirección General de Contrataciones y Gestión de Bienes, Provincia de Mendoza",
+        "publisher_link": "https://datosabiertos-compras.mendoza.gov.ar/datasets/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2023"
       }
     ],
     "ogp_commitments": [
