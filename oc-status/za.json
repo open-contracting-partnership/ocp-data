@@ -1,0 +1,19 @@
+{
+  "iso": "za",
+  "name": "South Africa",
+  "full_name": "South Africa – Republic of South Africa",
+  "meta": {
+    "date": 1612447923065
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2020-2022",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/01/South-Africa_Action-Plan_2020-2022.pdf"
+      }
+    ],
+    "ocds_description": "United States"
+  }
+}
