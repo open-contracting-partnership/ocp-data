@@ -3,5 +3,13 @@
   "name": "Brazil",
   "full_name": "Brazil – Federative Republic of Brazil",
   "meta": {},
-  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+  "results": { "innovations": [], "publishers": [], "ogp_commitments": [
+{
+        "ogp_commitment": "Law of public procurement  Nº 14.133/ 2021",
+        "ogp_commitment_link": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      }  
+  ] 
+  }
 }
+      
+
