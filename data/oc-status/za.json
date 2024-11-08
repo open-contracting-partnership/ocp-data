@@ -7,7 +7,14 @@
   },
   "results": {
     "innovations": [],
-    "publishers": [],
+    "publishers": [
+        "publisher": "National Treasury",
+        "publisher_link": "https://ocds-api.etenders.gov.za/swagger/index.html",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2024"
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP National Action Plan 2020-2022",
