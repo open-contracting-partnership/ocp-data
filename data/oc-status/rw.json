@@ -3,5 +3,14 @@
   "name": "Rwanda",
   "full_name": "Rwanda – Republic of Rwanda",
   "meta": {},
-  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+  "results": { "innovations": [], "publishers": [
+      {
+        "publisher": "Umucyo, Rwanda Public Procurement Authority",
+        "publisher_link": "https://ocds.umucyo.gov.rw/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2024"
+          }
+  ], "ogp_commitments": [] }
 }
