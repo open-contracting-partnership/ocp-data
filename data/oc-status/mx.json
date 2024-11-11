@@ -148,8 +148,8 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
         "year_first_implemented": "2021"
-      }
-              {
+      },
+    {
         "publisher": "Gobierno de Guadalajara",
         "publisher_link": "https://contratacionesabiertas.guadalajara.gob.mx:4000/contratacionesabiertas/datosabiertos",
         "ocds_historic_data": true,
