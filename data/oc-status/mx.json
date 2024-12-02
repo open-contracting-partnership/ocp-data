@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1617645030379
+    "date": 1733151552069
   },
   "results": {
     "innovations": [
@@ -149,13 +149,21 @@
         "ocds_implementation": true,
         "year_first_implemented": "2021"
       },
-    {
+      {
         "publisher": "Gobierno de Guadalajara",
         "publisher_link": "https://contratacionesabiertas.guadalajara.gob.mx:4000/contratacionesabiertas/datosabiertos",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
         "year_first_implemented": "2022"
+      },
+      {
+        "publisher": "Nuevo León: Secretaría de Administración",
+        "publisher_link": "https://catalogodatos.nl.gob.mx/dataset/contrataciones-abiertas-direccion-general-de-adquisiciones-y-servicios",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2024"
       }
     ],
     "ogp_commitments": [
