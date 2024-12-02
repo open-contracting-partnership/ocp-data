@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1733151552069
+    "date": 1733162617319
   },
   "results": {
     "innovations": [
@@ -164,6 +164,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
         "year_first_implemented": "2024"
+      },
+      {
+        "publisher": "Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes",
+        "publisher_link": "https://www.plataformadigitalnacional.org/contrataciones",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2022"
       }
     ],
     "ogp_commitments": [
