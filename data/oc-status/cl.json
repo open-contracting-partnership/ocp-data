@@ -3,7 +3,7 @@
   "name": "Chile",
   "full_name": "Chile – Republic of Chile",
   "meta": {
-    "date": 1616598896666
+    "date": 1733232050879
   },
   "results": {
     "innovations": [
@@ -24,6 +24,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
         "year_first_implemented": "2018"
+      },
+      {
+        "publisher": "Observatorio del Gasto Fiscal (OGF)",
+        "publisher_link": "https://obrapublica.cl/download/ocds_descargamasiva.zip",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2024"
       }
     ],
     "ogp_commitments": [
