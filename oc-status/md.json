@@ -1,0 +1,78 @@
+{
+  "iso": "md",
+  "name": "Moldova",
+  "full_name": "Moldova – Republic of Moldova",
+  "meta": {
+    "date": 1591883703678
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Tracking of COVID-19 health contracts",
+        "innovation_link": "http://tender.health"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Ministry of Finance",
+        "publisher_link": "https://mtender.gov.md/about",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2017"
+      },
+      {
+        "publisher": "MTender Budgets",
+        "publisher_link": "https://public.mtender.gov.md/budgets",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "MTender Plan",
+        "publisher_link": "https://public.mtender.gov.md/tenders/plan",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "MTender Tenders",
+        "publisher_link": "https://public.mtender.gov.md/tenders",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "Public Procurement Agency of the Government of Moldova ",
+        "publisher_link": "https://opencontracting.eprocurement.systems/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2016"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2016-18",
+        "ogp_commitment_link": " https://www.opengovpartnership.org/members/moldova/commitments/MD0061/"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2018-20",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/members/moldova/commitments/MD0070/"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Opening up Moldova’s contracts. Progress and challenges",
+        "story_url": "https://www.open-contracting.org/2019/12/11/opening-up-moldovas-contracts-progress-and-challenges/"
+      },
+      {
+        "story_title": "Digging into Moldova’s never-ending road with open data",
+        "story_url": "https://www.open-contracting.org/2017/08/08/digging-moldovas-never-ending-road-open-data/"
+      }
+    ]
+  }
+}
