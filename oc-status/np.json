@@ -1,0 +1,49 @@
+{
+  "iso": "np",
+  "name": "Nepal",
+  "full_name": "Nepal – Federal Democratic Republic of Nepal",
+  "meta": {
+    "date": 1567795362871
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Open Contracting Portal Prototype (2014);Civil Society Construction and Projects monitoring (2010-2015)",
+        "innovation_link": "http://opencontracting.opennepal.net/#/;http://www.developmentcheck.org/countries/np"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Public Procurement Monitoring Office",
+        "publisher_link": "http://ppip.gov.np",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2017"
+      },
+      {
+        "publisher": "Dhangadhi Sub-Metropolitan City",
+        "publisher_link": "https://ims.susasan.org/dhangadhi#downloads",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      }
+    ],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Showcase& Learning",
+        "story_url": "https://www.open-contracting.org/why-open-contracting/showcase-projects/nepal/"
+      },
+      {
+        "story_title": "Citizen monitoring matters to open data on procurement: A perspective from Nepal",
+        "story_url": "https://www.open-contracting.org/2017/10/10/citizen-monitoring-nepal/"
+      },
+      {
+        "story_title": "Learning Insights: Open contracting – a helping hand in Nepal",
+        "story_url": "https://www.open-contracting.org/2017/05/31/learning-insights-nepal/"
+      }
+    ]
+  }
+}
