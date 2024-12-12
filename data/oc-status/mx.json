@@ -2,8 +2,8 @@
   "iso": "mx",
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
-  "meta": {    
-  "date": 1733162761835
+  "meta": {
+    "date": 1734015347799
   },
   "results": {
     "innovations": [
@@ -180,6 +180,22 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
         "year_first_implemented": "2023"
+      },
+      {
+        "publisher": "Instituto De Transparencia, Acceso A La Información Pública Y Protección De Datos Personales Del Estado De Puebla (ITAIPUE)",
+        "publisher_link": "http://contrataciones.itaipue.org.mx:4000/contratacionesabiertas/datosabiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales (IVAI)",
+        "publisher_link": "http://www.ivai.org.mx/contrataciones-abiertas/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
       }
     ],
     "ogp_commitments": [
