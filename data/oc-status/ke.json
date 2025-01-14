@@ -8,6 +8,14 @@
   "results": {
     "publishers": [
       {
+        "publisher": "Public Procurement Regulatory Authority (PPRA)",
+        "publisher_link": "https://ppra.go.ke/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2024"
+      },
+      {
         "publisher": "Makueni County",
         "publisher_link": "https://opencontracting.makueni.go.ke/portal/tender",
         "ocds_historic_data": true,
