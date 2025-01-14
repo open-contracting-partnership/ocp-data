@@ -40,6 +40,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2020"
+      },
+      {
+        "publisher": "Ministry of Infrastructure and Transport",
+        "publisher_link": "https://www.serviziocontrattipubblici.it/SPInApp/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2024"
       }
     ],
     "ogp_commitments": [
