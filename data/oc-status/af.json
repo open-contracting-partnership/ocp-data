@@ -3,7 +3,7 @@
   "name": "Afghanistan",
   "full_name": "Afghanistan – Islamic Republic of Afghanistan",
   "meta": {
-    "date": 1581449209704
+    "date": 1738504138100
   },
   "results": {
     "innovations": [
@@ -15,7 +15,7 @@
     "publishers": [
       {
         "publisher": "National Procurement Authority (NPA)",
-        "publisher_link": "https://ocds.ageops.net/",
+        "publisher_link": "https://npa.gov.af/",
         "ocds_historic_data": false,
         "ocds_ongoing_data": false,
         "ocds_implementation": false,
