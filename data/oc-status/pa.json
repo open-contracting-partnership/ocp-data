@@ -3,20 +3,11 @@
   "name": "Panama",
   "full_name": "Panama – Republic of Panama",
   "meta": {
-    "date": 1658754411951
+    "date": 1744657841101
   },
   "results": {
     "innovations": [],
-    "publishers": [
-      {
-        "publisher": "Dirección General de Contrataciones Públicas, Panama",
-        "publisher_link": "https://www.panamacompraencifras.gob.pa/#/estandarOCDS",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": "2022"
-      }
-    ],
+    "publishers": [],
     "ogp_commitments": [],
     "impacts_stories": []
   }
