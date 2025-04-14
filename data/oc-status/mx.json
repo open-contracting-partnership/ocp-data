@@ -3,7 +3,7 @@
   "name": "Mexico",
   "full_name": "Mexico – United Mexican States",
   "meta": {
-    "date": 1734015347799
+    "date": 1744655563712
   },
   "results": {
     "innovations": [
@@ -70,14 +70,6 @@
         "year_first_implemented": "2021"
       },
       {
-        "publisher": "Instituto Duranguense de Acceso a la Información y de Protección de Datos Personales (IDAIP)",
-        "publisher_link": "http://contratacionesabiertas.idaip.org.mx/contratacionesabiertas/datosabiertos",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2021"
-      },
-      {
         "publisher": "Instituto de Acceso a la Información Pública para el Estado de Guanajuato (IACIP)",
         "publisher_link": "http://contratacionesabiertas.iacipgto.mx:4000/contratacionesabiertas/datosabiertos",
         "ocds_historic_data": true,
@@ -88,22 +80,6 @@
       {
         "publisher": "Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México (INFOCDMX)",
         "publisher_link": "https://dashboard.infocdmx.org.mx/contratacionesabiertas/datosabiertos",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios (INFOEM)",
-        "publisher_link": "http://www.infoem.org.mx:4000/contratacionesabiertas/datosabiertos",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León (COTAI)",
-        "publisher_link": "http://201.149.38.218:4000/contratacionesabiertas/datosabiertos",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
