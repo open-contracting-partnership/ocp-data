@@ -3,7 +3,7 @@
   "name": "Argentina",
   "full_name": "Argentina – Argentine Republic",
   "meta": {
-    "date": 1574167502259
+    "date": 1744747294247
   },
   "results": {
     "innovations": [
@@ -16,7 +16,7 @@
       {
         "publisher": "Buenos Aires Compras",
         "publisher_link": "https://data.buenosaires.gob.ar/dataset/buenos-aires-compras",
-        "ocds_historic_data": false,
+        "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2019"
@@ -24,16 +24,16 @@
       {
         "publisher": "Dirección Nacional de Vialidad",
         "publisher_link": "https://datosabiertos.vialidad.gob.ar/ui/index.html",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": false,
         "year_first_implemented": "2019"
       },
-           {
+      {
         "publisher": "Dirección General de Contrataciones y Gestión de Bienes, Provincia de Mendoza",
         "publisher_link": "https://datosabiertos-compras.mendoza.gov.ar/datasets/",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": false,
         "year_first_implemented": "2023"
       }
