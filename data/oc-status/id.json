@@ -3,7 +3,7 @@
   "name": "Indonesia",
   "full_name": "Indonesia – Republic of Indonesia",
   "meta": {
-    "date": 1655302013262
+    "date": 1744747781138
   },
   "results": {
     "innovations": [
@@ -21,14 +21,6 @@
       }
     ],
     "publishers": [
-      {
-        "publisher": "Bandung City",
-        "publisher_link": "https://birms.bandung.go.id/",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": "2018"
-      },
       {
         "publisher": "Indonesia Corruption Watch",
         "publisher_link": "https://v3.opentender.net/#/ocds",
