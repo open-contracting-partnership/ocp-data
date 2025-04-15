@@ -3,7 +3,7 @@
   "name": "United Kingdom",
   "full_name": "United Kingdom – United Kingdom of Great Britain and Northern Ireland",
   "meta": {
-    "date": 1544133249997
+    "date": 1744658044657
   },
   "results": {
     "innovations": [
@@ -44,6 +44,14 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2020"
+      },
+      {
+        "publisher": "Wales: Sell2Wales",
+        "publisher_link": "https://api.sell2wales.gov.wales/v1",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
       }
     ],
     "ogp_commitments": [
