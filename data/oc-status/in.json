@@ -3,7 +3,7 @@
   "name": "India",
   "full_name": "India – Republic of India",
   "meta": {
-    "date": 1662387822550
+    "date": 1744747731163
   },
   "results": {
     "innovations": [],
@@ -12,7 +12,7 @@
         "publisher": "Assam State Government Finance Department",
         "publisher_link": "https://data.gov.in/catalog/assam-public-procurement-data",
         "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": true,
         "year_first_implemented": "2023"
       },
