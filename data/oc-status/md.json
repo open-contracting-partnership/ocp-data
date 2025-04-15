@@ -3,7 +3,7 @@
   "name": "Moldova",
   "full_name": "Moldova – Republic of Moldova",
   "meta": {
-    "date": 1591883703678
+    "date": 1744657809388
   },
   "results": {
     "innovations": [
@@ -12,48 +12,7 @@
         "innovation_link": "http://tender.health"
       }
     ],
-    "publishers": [
-      {
-        "publisher": "Ministry of Finance",
-        "publisher_link": "https://mtender.gov.md/about",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2017"
-      },
-      {
-        "publisher": "MTender Budgets",
-        "publisher_link": "https://public.mtender.gov.md/budgets",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2019"
-      },
-      {
-        "publisher": "MTender Plan",
-        "publisher_link": "https://public.mtender.gov.md/tenders/plan",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2019"
-      },
-      {
-        "publisher": "MTender Tenders",
-        "publisher_link": "https://public.mtender.gov.md/tenders",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2019"
-      },
-      {
-        "publisher": "Public Procurement Agency of the Government of Moldova ",
-        "publisher_link": "https://opencontracting.eprocurement.systems/",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": "2016"
-      }
-    ],
+    "publishers": [],
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP National Action Plan 2016-18",
