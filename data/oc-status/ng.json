@@ -3,7 +3,7 @@
   "name": "Nigeria",
   "full_name": "Nigeria – Federal Republic of Nigeria",
   "meta": {
-    "date": 1567705563748
+    "date": 1744657726781
   },
   "results": {
     "innovations": [
@@ -13,18 +13,6 @@
       }
     ],
     "publishers": [
-      {
-        "publisher": "Abia State",
-        "publisher_link": "https://www.abiaeprocurement.ab.gov.ng/report/ocds.php",
-        "ocds_ongoing_data": true,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Budeshi Civil Society Initative",
-        "publisher_link": "http://www.budeshi.ng",
-        "ocds_ongoing_data": true,
-        "year_first_implemented": "2016"
-      },
       {
         "publisher": "Bureau of Public Procurement (BPP)",
         "publisher_link": "http://nocopo.bpp.gov.ng/OpenData.aspx",
@@ -50,30 +38,8 @@
         "year_first_implemented": "2021"
       },
       {
-        "publisher": "Edo State Open Contracting Data Standards Portal",
-        "publisher_link": "http://edpms.edostate.gov.ng/ocds/",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2021"
-      },
-      {
         "publisher": "Ekiti State Open Contracting Portal",
         "publisher_link": "https://ocds.bpp.ekitistate.gov.ng/",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Enugu State",
-        "publisher_link": "https://dueprocess.en.gov.ng/ocds_report.php",
-        "ocds_ongoing_data": true,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Gombe State Open Contracting Portal",
-        "publisher_link": "http://gombe.stateopencontracting.com/Other-Basic/Report/Json-Report",
         "ocds_historic_data": false,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
