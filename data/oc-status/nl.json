@@ -3,19 +3,11 @@
   "name": "Netherlands",
   "full_name": "Netherlands – Kingdom of the Netherlands",
   "meta": {
-    "date": 1619649472601
+    "date": 1744747970051
   },
   "results": {
     "innovations": [],
     "publishers": [
-      {
-        "publisher": "TenderNed",
-        "publisher_link": "https://www.tenderned.nl/cms/nl/aanbesteden-in-cijfers/datasets-aanbestedingen",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2022"
-      },
       {
         "publisher": "https://opentender.eu",
         "publisher_link": "https://opentender.eu/nl/",
@@ -35,7 +27,7 @@
         "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/01/Netherlands_Action-Plan_2020-2022.pdf"
       }
     ],
-   "impacts_stories": [
+    "impacts_stories": [
       {
         "story_title": "Striving for data excellence: How the Netherlands’ TenderNed is enabling procurement insights for government and public users",
         "story_url": "https://www.open-contracting.org/2023/07/05/striving-for-data-excellence-how-the-netherlands-tenderned-is-enabling-procurement-insights-for-government-and-public-users/"
