@@ -3,7 +3,7 @@
   "name": "Ecuador",
   "full_name": "Ecuador – Republic of Ecuador",
   "meta": {
-    "date": 1603712371726
+    "date": 1744747570928
   },
   "results": {
     "innovations": [],
@@ -11,7 +11,7 @@
       {
         "publisher": "Servicio Nacional de Contratación Pública",
         "publisher_link": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA",
-        "ocds_historic_data": false,
+        "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2020"
