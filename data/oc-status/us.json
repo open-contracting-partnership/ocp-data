@@ -3,7 +3,7 @@
   "name": "United States",
   "full_name": "United States – United States of America",
   "meta": {
-    "date": 1644444738016
+    "date": 1747141306864
   },
   "results": {
     "innovations": [
@@ -12,7 +12,16 @@
         "innovation_link": "https://www.open-contracting.org/2020/05/01/u-s-municipal-procurement-in-the-era-of-covid-19/"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "City of Portland (OR)",
+        "publisher_link": "https://www.portland.gov/business-opportunities/ocds",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2025"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "UK Anti-Corruption Summit country commitment",
@@ -28,7 +37,7 @@
         "story_title": "Buying local, inclusive and green: How Iowa’s capital, Des Moines, is living its values through better procurement",
         "story_url": "https://www.open-contracting.org/2023/07/31/buying-local-inclusive-and-green-how-iowas-capital-des-moines-is-living-its-values-through-better-procurement/"
       },
-        {
+      {
         "story_title": "Making procurement change at the localized level",
         "story_url": "https://www.open-contracting.org/2021/12/13/making-procurement-change-at-the-localized-level/"
       },
