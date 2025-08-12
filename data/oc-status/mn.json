@@ -22,11 +22,11 @@
     "citizen_monitoring": true,
     "disclosure_oil_mining": "none",
     "impacts_stories": [
-       {
+      {
         "story_title": "Digging out data to shine a light on public buying in Mongolia",
         "story_url": "https://www.open-contracting.org/2023/10/11/digging-out-data-to-shine-a-light-on-public-buying-in-mongolia/"
       },
-        {
+      {
         "story_title": "Getting to the heart of the community: Local procurement monitoring in Mongolia",
         "story_url": "https://www.open-contracting.org/2013/08/06/getting_to_the_heart_of_the_community/"
       }
