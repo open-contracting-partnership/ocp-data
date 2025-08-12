@@ -1,4 +1,4 @@
-[![Publish Map Data](https://github.com/open-contracting-partnership/ocp-data/actions/workflows/publish.yml/badge.svg?branch=master)](https://github.com/open-contracting-partnership/ocp-data/actions/workflows/publish.yml)
+[![Publish Map Data](https://github.com/open-contracting-partnership/ocp-data/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/open-contracting-partnership/ocp-data/actions/workflows/deploy.yml)
 
 # OCP Data
 This repository contains the data that is managed through [OCP forms](http://survey.open-contracting.org). The general public can suggest edits to the data, but only collaborators with access to this repo can decide to accept these suggestions.
