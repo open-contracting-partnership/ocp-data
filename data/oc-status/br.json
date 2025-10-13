@@ -3,14 +3,27 @@
   "name": "Brazil",
   "full_name": "Brazil – Federative Republic of Brazil",
   "meta": {
-    "date": 1753123552305
+    "date": 1760377772607
   },
   "results": {
-    "innovations": [],
+    "innovations": [
+      {
+        "innovation_description": "Transparência Brasil (TB) structures medicines procurement processes from the Portal Nacional de Contratações Públicas (PNCP) and republishes them as OCDS in the Medicamentos Transparentes portal, with the aim of promoting greater transparency, efficiency in public procurement, and savings for the healthcare system.",
+        "innovation_link": "https://medicamentos.transparencia.org.br"
+      }
+    ],
     "publishers": [
       {
         "publisher": "Medicamentos Transparentes",
         "publisher_link": "https://medicamentos.transparencia.org.br/dados-abertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2025"
+      },
+      {
+        "publisher": "Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos - Compras Públicas do Governo Federal",
+        "publisher_link": "https://dadosabertos.compras.gov.br/swagger-ui/index.html#/11%20-%20OCDS/releases",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
