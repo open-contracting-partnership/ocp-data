@@ -3,5 +3,14 @@
   "name": "Tanzania",
   "full_name": "Tanzania – United Republic of Tanzania",
   "meta": {},
-  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+  "results": { "innovations": [], "publishers": [
+      {
+        "publisher": "NeST Data Portal, Tanzania Public Procurement Regulatory Authority",
+        "publisher_link": "https://data.nest.go.tz/ocds",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": true,
+        "year_first_implemented": "2025"
+          }
+  ], "ogp_commitments": [] }
 }
