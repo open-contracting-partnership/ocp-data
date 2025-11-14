@@ -12,10 +12,6 @@
         "innovation_link": "http://www.opengovguide.com/country-examples/in-mexico-social-witnesses-oversee-public-procurement/"
       },
       {
-        "innovation_description": "Compranet Business Intelligence Tool",
-        "innovation_link": "https://compranetim.funcionpublica.gob.mx/CompranetIMindex.html"
-      },
-      {
         "innovation_description": "Torre de Control: Monitoring the New International Airport of Mexico City",
         "innovation_link": "https://torredecontrol.projectpoder.org"
       }
@@ -28,30 +24,6 @@
         "ocds_ongoing_data": false,
         "year_first_implemented": "2016",
         "ocds_historic_data": true
-      },
-      {
-        "publisher": "Public Administration and Finance Ministry",
-        "publisher_link": "https://datos.gob.mx/busca/dataset/concentrado-de-contrataciones-abiertas-de-la-apf",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2017"
-      },
-      {
-        "publisher": "Secretary of Planning, Administration, and Finance - Government of Jalisco",
-        "publisher_link": "https://datos.jalisco.gob.mx/dataset/contrataciones-abiertas-api-de-contratos",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": "2018"
-      },
-      {
-        "publisher": "Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI)",
-        "publisher_link": "http://contratacionesabiertas.inai.org.mx/contratacionesabiertas/contratos/",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2018"
       },
       {
         "publisher": "Secretaría de Infraestructura del Gobierno del Estado de Nuevo Leon",
@@ -70,24 +42,8 @@
         "year_first_implemented": "2021"
       },
       {
-        "publisher": "Instituto de Acceso a la Información Pública para el Estado de Guanajuato (IACIP)",
-        "publisher_link": "http://contratacionesabiertas.iacipgto.mx:4000/contratacionesabiertas/datosabiertos",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2021"
-      },
-      {
         "publisher": "Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México (INFOCDMX)",
         "publisher_link": "https://dashboard.infocdmx.org.mx/contratacionesabiertas/datosabiertos",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Instituto de Acceso a la Información Publica y Protección de Datos Personales del Estado de Oaxaca (IAIPOXACA)",
-        "publisher_link": "http://contratacionesabiertas-iaipoaxaca-org.mx:4000/contratacionesabiertas/datosabiertos",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": true,
@@ -97,31 +53,7 @@
         "publisher": "QuiénEsQuién.Wiki",
         "publisher_link": "https://qqwapi-elastic.readthedocs.io/es/latest/",
         "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo (IDAIPQROO)",
-        "publisher_link": "http://conab.idaipqroo.org.mx:4000/contratacionesabiertas/datosabiertos",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales",
-        "publisher_link": "http://www.ivai.org.mx/contrataciones-abiertas/",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Instituto Zacatecano de Transparencia y Acceso a la Información (IZAI)",
-        "publisher_link": "https://contratacionesabiertas.izai.org.mx/contratacionesabiertas/datosabiertos",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": true,
         "year_first_implemented": "2021"
       },
@@ -129,7 +61,7 @@
         "publisher": "Gobierno de Guadalajara",
         "publisher_link": "https://contratacionesabiertas.guadalajara.gob.mx:4000/contratacionesabiertas/datosabiertos",
         "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": true,
         "year_first_implemented": "2022"
       },
@@ -145,7 +77,7 @@
         "publisher": "Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Puebla ",
         "publisher_link": "https://www.plataformadigitalnacional.org/contrataciones",
         "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": true,
         "year_first_implemented": "2022"
       },
@@ -153,25 +85,9 @@
         "publisher": "Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes",
         "publisher_link": "https://www.plataformadigitalnacional.org/contrataciones",
         "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
+        "ocds_ongoing_data": false,
         "ocds_implementation": true,
         "year_first_implemented": "2023"
-      },
-      {
-        "publisher": "Instituto De Transparencia, Acceso A La Información Pública Y Protección De Datos Personales Del Estado De Puebla (ITAIPUE)",
-        "publisher_link": "http://contrataciones.itaipue.org.mx:4000/contratacionesabiertas/datosabiertos",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales (IVAI)",
-        "publisher_link": "http://www.ivai.org.mx/contrataciones-abiertas/",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2021"
       }
     ],
     "ogp_commitments": [
