@@ -12,7 +12,16 @@
         "innovation_link": "http://www.developmentcheck.org/countries/lr"
       }
     ],
-    "publishers": [],
+    "publishers": [
+        {
+            "publisher": "Public Procurement and Concessions Commission",
+            "publisher_link": "https://eprocurement.ppcc.gov.lr/ocds/report/home.action#/records",
+            "ocds_historic_data": true,
+            "ocds_ongoing_data": true,
+            "ocds_implementation": true,
+            "year_first_implemented": "2025"
+        }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP National Action Plan 2020-2022",
