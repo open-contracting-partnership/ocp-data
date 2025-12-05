@@ -53,6 +53,7 @@ def update_ocds_publishers(filename):
                     })
                 with Path(file_name).open("w") as country_file_updated:
                     json.dump(country_data, country_file_updated, indent=2, ensure_ascii=False)
+                    country_file_updated.write("\n")
 
 
 if __name__ == '__main__':
