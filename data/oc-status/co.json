@@ -14,19 +14,11 @@
     ],
     "publishers": [
       {
-        "publisher": "Colombia Compra",
-        "ocds_implementation": true,
-        "ocds_ongoing_data": false,
-        "ocds_historic_data": false,
-        "publisher_link": "https://www.colombiacompra.gov.co/transparencia/gestion-documental/datos-abiertos",
-        "year_first_implemented": "2016"
-      },
-      {
-        "publisher": "Agencia Nacional de Infraestructura (ANI)",
-        "ocds_implementation": false,
-        "ocds_ongoing_data": false,
-        "ocds_historic_data": true,
+        "publisher": "Agencia Nacional de Infraestructura (ANI) (Colombia)",
         "publisher_link": "https://aniscopio.ani.gov.co/datos-abiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
         "year_first_implemented": "2021"
       }
     ],

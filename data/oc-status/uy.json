@@ -9,8 +9,8 @@
     "innovations": [],
     "publishers": [
       {
-        "publisher": "Agencia de Compras y Contrataciones del Estado",
-        "publisher_link": "https://www.gub.uy/agencia-compras-contrataciones-estado/",
+        "publisher": "Uruguay: Agencia de Compras y Contrataciones del Estado (ACCE)",
+        "publisher_link": "https://www.gub.uy/agencia-reguladora-compras-estatales/datos-y-estadisticas/datos/open-contracting",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,

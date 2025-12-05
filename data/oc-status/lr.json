@@ -13,14 +13,14 @@
       }
     ],
     "publishers": [
-        {
-            "publisher": "Public Procurement and Concessions Commission",
-            "publisher_link": "https://eprocurement.ppcc.gov.lr/ocds/report/home.action#/records",
-            "ocds_historic_data": true,
-            "ocds_ongoing_data": true,
-            "ocds_implementation": true,
-            "year_first_implemented": "2025"
-        }
+      {
+        "publisher": "Liberia: Public Procurement and Concessions Commission (PPCC)",
+        "publisher_link": "https://eprocurement.ppcc.gov.lr/ocds/report/home.action#/records",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2025"
+      }
     ],
     "ogp_commitments": [
       {

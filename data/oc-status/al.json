@@ -14,12 +14,20 @@
     ],
     "publishers": [
       {
-        "publisher": "Public Procurement Commission",
+        "publisher": "Albania: Public Procurement Commission",
+        "publisher_link": "https://kpp.al/en",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "publisher_link": "https://kpp.al/en/Historiku?nrVendimi=&OperatoriEkonmik=&idOperatori=&autoritetiKotraktues=&id=",
-        "year_first_implemented": "2023"
+        "ocds_implementation": false,
+        "year_first_implemented": null
+      },
+      {
+        "publisher": "Albania: Public Procurement Commission (Historical)",
+        "publisher_link": "https://kpp.al/en/HistorikVendimesh?objektProkurimi=&viti=&vitiId=&muaji=&muajiId=",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": null
       }
     ],
     "ogp_commitments": [

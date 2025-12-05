@@ -14,44 +14,60 @@
     ],
     "publishers": [
       {
-        "publisher": "Bureau of Public Procurement (BPP)",
+        "publisher": "Cross River State (Nigeria)",
+        "publisher_link": "http://ocds.dppib-crsgov.org/ReleasePackageViewModel_ListView/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Ebonyi State (Nigeria)",
+        "publisher_link": "https://ebonyieprocure.eb.gov.ng/ocds_report.php",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Ekiti State (PPDC portal) (Nigeria)",
+        "publisher_link": "https://ocdsportal.azurewebsites.net/Home/Procurements",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Nigeria: Bureau of Public Procurement (BPP)",
         "publisher_link": "http://nocopo.bpp.gov.ng/OpenData.aspx",
-        "ocds_historic_data": false,
+        "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2018"
       },
       {
-        "publisher": "Cross River State",
-        "publisher_link": "http://ocdsapi.dppib-crsgov.org/Help",
-        "ocds_historic_data": false,
+        "publisher": "Osun State (Nigeria)",
+        "publisher_link": "https://egp.osunstate.gov.ng/awarded_contracts.php",
+        "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
-        "year_first_implemented": "2021"
+        "year_first_implemented": "2022"
       },
       {
-        "publisher": "Ebonyi E-PROCUREMENT",
-        "publisher_link": "https://ebonyieprocure.eb.gov.ng/ocds_report.php",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Ekiti State Open Contracting Portal",
-        "publisher_link": "https://ocds.bpp.ekitistate.gov.ng/",
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Oyo State Open Contracting Portal",
+        "publisher": "Oyo State (Nigeria)",
         "publisher_link": "https://ocdsoyo.oyostate.gov.ng/projects.php",
-        "ocds_historic_data": false,
+        "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Plateau State: Bureau of Public Procurement (Nigeria)",
+        "publisher_link": "https://plateaustatebpp.com/ocds",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2022"
       }
     ],
     "ogp_commitments": [

@@ -8,11 +8,11 @@
   "results": {
     "publishers": [
       {
-        "publisher": "Ministerio de Finanzas Públicas",
-        "publisher_link": "https://ocds.guatecompras.gt",
+        "publisher": "Guatemala: Ministerio de Finanzas Públicas",
+        "publisher_link": "https://ocds.guatecompras.gt/",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
-        "ocds_implementation": true,
+        "ocds_implementation": false,
         "year_first_implemented": "2024"
       }
     ],

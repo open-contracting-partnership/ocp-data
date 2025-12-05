@@ -18,36 +18,20 @@
     ],
     "publishers": [
       {
-        "publisher": "AppaltiPOP",
-        "publisher_link": "https://www.appaltipop.it/it/download",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": "2020"
-      },
-      {
-        "publisher": "Autorità Nazionale Anticorruzione (ANAC)",
+        "publisher": "Italy: Autorità Nazionale Anticorruzione (ANAC)",
         "publisher_link": "https://dati.anticorruzione.it/opendata/organization/anticorruzione",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
-        "year_first_implemented": "2021"
+        "year_first_implemented": "2022"
       },
       {
-        "publisher": "https://opentender.eu",
-        "publisher_link": "https://opentender.eu/it/",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2020"
-      },
-      {
-        "publisher": "Ministry of Infrastructure and Transport",
-        "publisher_link": "https://www.serviziocontrattipubblici.it/SPInApp/",
+        "publisher": "OnData (Italy)",
+        "publisher_link": "2024-07",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
         "ocds_implementation": false,
-        "year_first_implemented": "2024"
+        "year_first_implemented": "2020"
       }
     ],
     "ogp_commitments": [

@@ -18,75 +18,75 @@
     ],
     "publishers": [
       {
-        "publisher": "Mexico City",
-        "publisher_link": "http://www.contratosabiertos.cdmx.gob.mx/",
-        "ocds_implementation": false,
-        "ocds_ongoing_data": false,
-        "year_first_implemented": "2016",
-        "ocds_historic_data": true
-      },
-      {
-        "publisher": "Secretaría de Infraestructura del Gobierno del Estado de Nuevo Leon",
-        "publisher_link": "http://si.nl.gob.mx/transparencia/",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2020"
-      },
-      {
-        "publisher": "Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de Yucatán (INAIP)",
-        "publisher_link": "https://contratacionesabiertas.inaipyucatan.org.mx/contratacionesabiertas/",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México (INFOCDMX)",
+        "publisher": "Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México (INFOCDMX) (Mexico)",
         "publisher_link": "https://dashboard.infocdmx.org.mx/contratacionesabiertas/datosabiertos",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
-        "ocds_implementation": true,
+        "ocds_implementation": false,
         "year_first_implemented": "2021"
       },
       {
-        "publisher": "QuiénEsQuién.Wiki",
-        "publisher_link": "https://qqwapi-elastic.readthedocs.io/es/latest/",
+        "publisher": "Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de Yucatán (INAIP) (Mexico)",
+        "publisher_link": "https://contratacionesabiertas.inaipyucatan.org.mx/contratacionesabiertas/",
         "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
         "year_first_implemented": "2021"
       },
       {
-        "publisher": "Gobierno de Guadalajara",
+        "publisher": "Municipio de Guadalajara (Mexico)",
         "publisher_link": "https://contratacionesabiertas.guadalajara.gob.mx:4000/contratacionesabiertas/datosabiertos",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
-        "ocds_implementation": true,
-        "year_first_implemented": "2022"
-      },
-      {
-        "publisher": "Nuevo León: Secretaría de Administración",
-        "publisher_link": "https://catalogodatos.nl.gob.mx/dataset/contrataciones-abiertas-direccion-general-de-adquisiciones-y-servicios",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
+        "ocds_implementation": false,
         "year_first_implemented": "2024"
       },
       {
-        "publisher": "Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Puebla ",
+        "publisher": "Nuevo León: Secretaría de Administración (Mexico)",
+        "publisher_link": "https://catalogodatos.nl.gob.mx/dataset/contrataciones-abiertas-direccion-general-de-adquisiciones-y-servicios",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2024"
+      },
+      {
+        "publisher": "Nuevo León: Secretaría de Infraestructura (Mexico)",
+        "publisher_link": "http://si.nl.gob.mx/transparencia/contrataciones",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      },
+      {
+        "publisher": "QuienEsQuien.wiki",
+        "publisher_link": "https://api.quienesquien.wiki/v2/contracts",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Quintana Roo (SESAEQROO) (Mexico)",
         "publisher_link": "https://www.plataformadigitalnacional.org/contrataciones",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
-        "ocds_implementation": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2023"
+      },
+      {
+        "publisher": "Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes (SESEA) (Mexico)",
+        "publisher_link": "https://www.plataformadigitalnacional.org/contrataciones",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
         "year_first_implemented": "2022"
       },
       {
-        "publisher": "Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes",
+        "publisher": "Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Puebla (SESEAP) (Mexico)",
         "publisher_link": "https://www.plataformadigitalnacional.org/contrataciones",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
-        "ocds_implementation": true,
+        "ocds_implementation": false,
         "year_first_implemented": "2023"
       }
     ],

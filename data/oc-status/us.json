@@ -14,7 +14,7 @@
     ],
     "publishers": [
       {
-        "publisher": "City of Portland (OR)",
+        "publisher": "Procurement Services of the City of Portland (United States)",
         "publisher_link": "https://www.portland.gov/business-opportunities/ocds",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,

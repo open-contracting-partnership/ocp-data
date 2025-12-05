@@ -14,20 +14,20 @@
     ],
     "publishers": [
       {
-        "publisher": "Peru Compras",
+        "publisher": "Perú: Organismo Supervisor de las Contrataciones del Estado (OSCE)",
+        "publisher_link": "https://contratacionesabiertasdesa.osce.gob.pe",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2023"
+      },
+      {
+        "publisher": "Peru: Perú Compras",
         "publisher_link": "https://www.catalogos.perucompras.gob.pe/ConsultaOrdenesPub",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
-        "year_first_implemented": "2020"
-      },
-      {
-        "publisher": "Organismo Supervisor de las Contrataciones del Estado (OSCE)",
-        "publisher_link": "https://contratacionesabiertasdesa.osce.gob.pe",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2023"
+        "year_first_implemented": "2021"
       }
     ],
     "ogp_commitments": [

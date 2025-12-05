@@ -22,7 +22,7 @@
     ],
     "publishers": [
       {
-        "publisher": "Indonesia Corruption Watch",
+        "publisher": "Indonesia Corruption Watch (ICW)",
         "publisher_link": "https://v3.opentender.net/#/ocds",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,

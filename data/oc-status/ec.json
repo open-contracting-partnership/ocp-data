@@ -9,8 +9,8 @@
     "innovations": [],
     "publishers": [
       {
-        "publisher": "Servicio Nacional de Contratación Pública",
-        "publisher_link": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA",
+        "publisher": "Ecuador: Servicio Nacional de Contratación Pública",
+        "publisher_link": "https://portal.compraspublicas.gob.ec/sercop/datos_abiertos/",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,

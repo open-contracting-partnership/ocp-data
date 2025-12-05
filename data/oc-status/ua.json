@@ -18,12 +18,12 @@
     ],
     "publishers": [
       {
-        "publisher": "Ministry of Economic Development",
-        "ocds_implementation": false,
-        "publisher_link": "http://www.prozorro.gov.ua",
-        "ocds_ongoing_data": true,
+        "publisher": "Ukraine: ProZorro",
+        "publisher_link": "https://public-api.prozorro.gov.ua/api/2.5/tenders",
         "ocds_historic_data": true,
-        "year_first_implemented": "2015"
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2024"
       }
     ],
     "ogp_commitments": [

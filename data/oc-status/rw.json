@@ -7,11 +7,11 @@
     "innovations": [],
     "publishers": [
       {
-        "publisher": "Umucyo, Rwanda Public Procurement Authority",
-        "publisher_link": "https://ocds.umucyo.gov.rw/",
+        "publisher": "Rwanda: Public Procurement Authority (RPPA)",
+        "publisher_link": "https://ocds.umucyo.gov.rw/core/api/docs",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
-        "ocds_implementation": true,
+        "ocds_implementation": false,
         "year_first_implemented": "2024"
       }
     ],
