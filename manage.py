@@ -20,12 +20,12 @@ def update_ocds_publishers(filename):
     """
     # The columns name and values must match the MEL 1 spreadsheet columns name and values
     # https://docs.google.com/spreadsheets/d/1NuGNEHpNFxrK-Vf0zGTWVEjrgqt2nYmKDbGN9FLp-k4/edit?gid=1539522696#gid=1539522696
-    non_mvp_reason_column = "Reason for non-MVP status"
-    date_first_mvp_column = "Date of first MVP"
     publisher_name_column = "Publisher or system name (see note if different from organization)"
     country_column = 'Country (or "Multiple")'
     conforms_column = "Conforms"
     status_column = "Status"
+    non_mvp_reason_column = "Reason for non-MVP status"
+    date_first_mvp_column = "Date of first MVP"
     url_column = "URL"
     standard_column = "Standard"
 
@@ -43,7 +43,8 @@ def update_ocds_publishers(filename):
         ],
         keep_default_na=False,
     )
-    # Include only retrievable OCDS publishers
+
+    # Include only retrievable OCDS publishers.
     publishers = publishers[
         (publishers[standard_column] == "OCDS")
         & (publishers[conforms_column] == "Yes")
@@ -58,10 +59,13 @@ def update_ocds_publishers(filename):
         publishers_countries = publishers[country_column]
         if countries[country]["name"] in publishers_countries.to_numpy():
             file_name = f"data/oc-status/{country}"
+
             with Path(file_name).open() as f:
                 country_data = json.load(f)
-                # We clear the list to remove any lapsed publisher
-                country_data["results"]["publishers"] = []
+
+            # Clear the list to remove any lapsed publishers.
+            country_data["results"]["publishers"] = []
+
             for _index, publisher in publishers[publishers_countries == countries[country]["name"]].iterrows():
                 country_data["results"]["publishers"].append(
                     {
@@ -76,6 +80,7 @@ def update_ocds_publishers(filename):
                         else None,
                     }
                 )
+
             with Path(file_name).open("w") as f:
                 json.dump(country_data, f, indent=2, ensure_ascii=False)
                 f.write("\n")
