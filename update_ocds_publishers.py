@@ -40,15 +40,15 @@ def update_ocds_publishers(filename):
         & (~publishers[non_mvp_reason_column].str.startswith("Retrievable"))
     ]
 
-    with Path("data/oc-status/_index.json").open() as countries_file:
-        countries = json.load(countries_file)
+    with Path("data/oc-status/_index.json").open() as f:
+        countries = json.load(f)
 
     for country in countries:
         publishers_countries = publishers['Country (or "Multiple")']
         if countries[country]["name"] in publishers_countries.to_numpy():
             file_name = f"data/oc-status/{country}"
-            with Path(file_name).open() as country_file:
-                country_data = json.load(country_file)
+            with Path(file_name).open() as f:
+                country_data = json.load(f)
                 # We clear the list to remove any lapsed publisher
                 country_data["results"]["publishers"] = []
                 for _index, publisher in publishers[publishers_countries == countries[country]["name"]].iterrows():
@@ -67,9 +67,9 @@ def update_ocds_publishers(filename):
                             else None,
                         }
                     )
-                with Path(file_name).open("w") as country_file_updated:
-                    json.dump(country_data, country_file_updated, indent=2, ensure_ascii=False)
-                    country_file_updated.write("\n")
+                with Path(file_name).open("w") as f:
+                    json.dump(country_data, f, indent=2, ensure_ascii=False)
+                    f.write("\n")
 
 
 if __name__ == "__main__":
