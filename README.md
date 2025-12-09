@@ -5,7 +5,7 @@ This repository contains the data that is managed through [OCP forms](http://sur
 
 The structure of these surveys is defined in the `/forms` folder, using [JSON schema](http://json-schema.org/).
 
-Admins can run the `update_ocds_publishers` command using as input the latest [MEL1 sheet](https://docs.google.com/spreadsheets/d/1NuGNEHpNFxrK-Vf0zGTWVEjrgqt2nYmKDbGN9FLp-k4/edit?gid=1539522696#gid=1539522696) to
+Admins can run the `python manage.py update-ocds-publishers [filename.csv]` command using as input the latest [MEL1 sheet](https://docs.google.com/spreadsheets/d/1NuGNEHpNFxrK-Vf0zGTWVEjrgqt2nYmKDbGN9FLp-k4/edit?gid=1539522696#gid=1539522696) to
 update the OCDS publishers list for all countries.
 
 ## Serving the data
