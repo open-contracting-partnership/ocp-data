@@ -12,7 +12,16 @@
         "innovation_link": "http://tender.health"
       }
     ],
-    "publishers": [],
+    "publishers": [
+      {
+        "publisher": "Moldova: State Procurement Agency (SPA) I",
+        "publisher_link": "http://opencontracting.date.gov.md/downloads",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2016"
+      }
+    ],
     "ogp_commitments": [
       {
         "ogp_commitment": "OGP National Action Plan 2016-18",

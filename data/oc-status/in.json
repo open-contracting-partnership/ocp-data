@@ -9,16 +9,24 @@
     "innovations": [],
     "publishers": [
       {
-        "publisher": "Assam State Government Finance Department",
+        "publisher": "Assam State: Finance Department (India)",
         "publisher_link": "https://data.gov.in/catalog/assam-public-procurement-data",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
-        "ocds_implementation": true,
-        "year_first_implemented": "2023"
+        "ocds_implementation": false,
+        "year_first_implemented": "2022"
       },
       {
-        "publisher": "CivicDataLab",
-        "publisher_link": "https://github.com/CivicDataLab/himachal-pradesh-health-procurement-OCDS/",
+        "publisher": "CivicDataLab (Assam, India)",
+        "publisher_link": "https://github.com/CivicDataLab/assam-tenders-data/tree/main/data",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": null
+      },
+      {
+        "publisher": "CivicDataLab (India)",
+        "publisher_link": "https://github.com/CivicDataLab/himachal-pradesh-health-procurement-OCDS/blob/master/HP%20Health%20Procurements(FY%202017-18%20to%202020-21%20July).xlsx",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
         "ocds_implementation": false,

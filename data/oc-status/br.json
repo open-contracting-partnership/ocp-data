@@ -14,16 +14,16 @@
     ],
     "publishers": [
       {
-        "publisher": "Medicamentos Transparentes",
-        "publisher_link": "https://medicamentos.transparencia.org.br/dados-abertos",
+        "publisher": "Brazil: Secretaria de Gestão e Inovação (SEGES), Compras Públicas do Governo Federal, compras.gov.br",
+        "publisher_link": "https://dadosabertos.compras.gov.br/swagger-ui/index.html#/11%20-%20OCDS/releases",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2025"
       },
       {
-        "publisher": "Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos - Compras Públicas do Governo Federal",
-        "publisher_link": "https://dadosabertos.compras.gov.br/swagger-ui/index.html#/11%20-%20OCDS/releases",
+        "publisher": "Transparencia Brasil",
+        "publisher_link": "https://medicamentos.transparencia.org.br/dados-abertos",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,

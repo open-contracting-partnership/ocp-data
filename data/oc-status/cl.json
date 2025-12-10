@@ -18,20 +18,12 @@
     ],
     "publishers": [
       {
-        "publisher": "Dirección de Compra y Contratación Pública (ChileCompra)",
-        "publisher_link": "https://desarrolladores.mercadopublico.cl/OCDS",
+        "publisher": "Chile: Chile Compra",
+        "publisher_link": "https://datos-abiertos.chilecompra.cl/descargas/procesos-ocds",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
-        "ocds_implementation": true,
-        "year_first_implemented": "2018"
-      },
-      {
-        "publisher": "Observatorio del Gasto Fiscal (OGF)",
-        "publisher_link": "https://obrapublica.cl/download/ocds_descargamasiva.zip",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
         "ocds_implementation": false,
-        "year_first_implemented": "2024"
+        "year_first_implemented": "2018"
       }
     ],
     "ogp_commitments": [

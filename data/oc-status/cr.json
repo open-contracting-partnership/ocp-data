@@ -14,8 +14,8 @@
     ],
     "publishers": [
       {
-        "publisher": "Poder Judicial de Costa Rica",
-        "publisher_link": "http://datosabiertospj.eastus.cloudapp.azure.com/ca/dataset/estandar-de-datos-de-contrataciones-abiertas-ocds",
+        "publisher": "Costa Rica: Poder Judicial",
+        "publisher_link": "https://ckanpj.azurewebsites.net/dataset/estandar-de-datos-de-contrataciones-abiertas-ocds",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
         "ocds_implementation": false,

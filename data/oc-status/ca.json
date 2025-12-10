@@ -14,23 +14,24 @@
     ],
     "publishers": [
       {
-        "publisher": "Public Works and Government Services Canada",
-        "publisher_link": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/about-the-ocds-pilot",
+        "publisher": "Canada: Public Works and Government Services",
+        "publisher_link": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
+        "ocds_implementation": false,
         "year_first_implemented": "2015"
       },
       {
-        "publisher": "City of Montreal",
-        "publisher_link": "http://ville.montreal.qc.ca/vuesurlescontrats",
+        "publisher": "Montreal (Canada)",
+        "publisher_link": "https://ville.montreal.qc.ca/vuesurlescontrats/",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2015"
       },
       {
-        "publisher": "Secrétariat du Conseil du trésor - Gouvernement du Québec",
-        "publisher_link": "https://www.donneesquebec.ca/recherche/dataset/systeme-electronique-dappel-doffres-seao",
+        "publisher": "Québec: Secrétariat du Conseil du trésor (Canada)",
+        "publisher_link": "",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,

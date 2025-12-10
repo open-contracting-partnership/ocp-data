@@ -3,14 +3,18 @@
   "name": "Tanzania",
   "full_name": "Tanzania – United Republic of Tanzania",
   "meta": {},
-  "results": { "innovations": [], "publishers": [
+  "results": {
+    "innovations": [],
+    "publishers": [
       {
-        "publisher": "NeST Data Portal, Tanzania Public Procurement Regulatory Authority",
-        "publisher_link": "https://data.nest.go.tz/ocds",
+        "publisher": "Tanzania: Public Procurement Regulatory Authority (PPRA)",
+        "publisher_link": "https://data.nest.go.tz/",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
-        "ocds_implementation": true,
+        "ocds_implementation": false,
         "year_first_implemented": "2025"
-          }
-  ], "ogp_commitments": [] }
+      }
+    ],
+    "ogp_commitments": []
+  }
 }

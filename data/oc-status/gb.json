@@ -14,44 +14,36 @@
     ],
     "publishers": [
       {
-        "publisher": "UK Cabinet Office Contracts Finder",
-        "ocds_implementation": false,
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "publisher_link": "https://www.gov.uk/government/publications/open-contracting",
-        "year_first_implemented": "2016"
-      },
-      {
-        "publisher": "Find a Tender Service (FTS)",
-        "ocds_implementation": false,
-        "ocds_historic_data": false,
-        "ocds_ongoing_data": true,
-        "publisher_link": "https://www.find-tender.service.gov.uk/apidocumentation/1.0/GET-ocdsReleasePackages",
-        "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Scotland: Scottish Procurement and Commercial Directorate (SPCD)",
+        "publisher": "Scotland: Scottish Procurement and Commercial Directorate (SPCD) (United Kingdom)",
         "publisher_link": "https://www.publiccontractsscotland.gov.uk/NoticeDownload/Download.aspx",
-        "ocds_historic_data": false,
+        "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2018"
       },
       {
-        "publisher": "https://opentender.eu",
-        "publisher_link": "https://opentender.eu/uk/",
+        "publisher": "United Kingdom: Crown Commercial Services",
+        "publisher_link": "https://www.gov.uk/government/publications/open-contracting",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
-        "year_first_implemented": "2020"
+        "year_first_implemented": "2016"
       },
       {
-        "publisher": "Wales: Sell2Wales",
-        "publisher_link": "https://api.sell2wales.gov.wales/v1",
+        "publisher": "United Kingdom: Find a Tender",
+        "publisher_link": "https://www.find-tender.service.gov.uk/Developer/Documentation",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Welsh Government",
+        "publisher_link": "https://www.sell2wales.gov.wales/helpandresources/ocds/dataaccessinfo",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2022"
       }
     ],
     "ogp_commitments": [

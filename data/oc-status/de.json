@@ -9,11 +9,11 @@
     "innovations": [],
     "publishers": [
       {
-        "publisher": "Procurement Office of the Federal Ministry of the Interior (BMI)",
+        "publisher": "Germany: Federal Ministry of the Interior and Community",
         "publisher_link": "https://www.oeffentlichevergabe.de/documentation/swagger-ui/opendata/index.html#/opendata/getExportAsEforms",
-        "ocds_historic_data": false,
+        "ocds_historic_data": true,
         "ocds_ongoing_data": true,
-        "ocds_implementation": true,
+        "ocds_implementation": false,
         "year_first_implemented": "2023"
       }
     ],

@@ -14,7 +14,7 @@
     ],
     "publishers": [
       {
-        "publisher": "Buenos Aires Compras",
+        "publisher": "Buenos Aires: Gobierno de la Ciudad de Buenos Aires (Argentina)",
         "publisher_link": "https://data.buenosaires.gob.ar/dataset/buenos-aires-compras",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
@@ -22,18 +22,10 @@
         "year_first_implemented": "2019"
       },
       {
-        "publisher": "Dirección Nacional de Vialidad",
-        "publisher_link": "https://datosabiertos.vialidad.gob.ar/ui/index.html",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": "2019"
-      },
-      {
-        "publisher": "Dirección General de Contrataciones y Gestión de Bienes, Provincia de Mendoza",
+        "publisher": "Mendoza: Dirección General de Contrataciones y Gestión de Bienes del Gobierno de la Provincia de Mendoza (Argentina)",
         "publisher_link": "https://datosabiertos-compras.mendoza.gov.ar/datasets/",
         "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
+        "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2023"
       }

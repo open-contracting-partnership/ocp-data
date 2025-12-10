@@ -9,20 +9,12 @@
     "innovations": [],
     "publishers": [
       {
-        "publisher": "Secrétariat Général du Gouvernement",
+        "publisher": "France",
         "publisher_link": "https://www.data.gouv.fr/en/datasets/fichiers-consolides-des-donnees-essentielles-de-la-commande-publique/#resource-68bd2001-3420-4d94-bc49-c90878df322c",
         "ocds_historic_data": true,
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2019"
-      },
-      {
-        "publisher": "https://opentender.eu",
-        "publisher_link": "https://opentender.eu/fr/",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2020"
       }
     ],
     "ogp_commitments": [
