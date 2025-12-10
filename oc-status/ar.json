@@ -1,0 +1,58 @@
+{
+  "iso": "ar",
+  "name": "Argentina",
+  "full_name": "Argentina – Argentine Republic",
+  "meta": {
+    "date": 1744747294247
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "A Qué Precio: an observatory of public contracts in the health sector",
+        "innovation_link": "https://aqueprecio.lanacion.com.ar"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Buenos Aires: Gobierno de la Ciudad de Buenos Aires (Argentina)",
+        "publisher_link": "https://data.buenosaires.gob.ar/dataset/buenos-aires-compras",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "Mendoza: Dirección General de Contrataciones y Gestión de Bienes del Gobierno de la Provincia de Mendoza (Argentina)",
+        "publisher_link": "https://datosabiertos-compras.mendoza.gov.ar/datasets/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2023"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "3rd National OGP Action Plan",
+        "ogp_commitment_link": "https://drive.google.com/file/d/0B6plaXO3RncLbFQtZDIzRHdlMDg/view"
+      },
+      {
+        "ogp_commitment": "Commitment UK Anti-Corruption Summit",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522967/Argentina.pdf"
+      },
+      {
+        "ogp_commitment": "Transparency and Institutional Innovation Agenda, City of Buenos Aires",
+        "ogp_commitment_link": "http://www.buenosaires.gob.ar/agendadetransparencia/gobierno-abierto/compras-publicas"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Inclusive infrastructure: how open procurement is putting informal settlements on the map in Argentina",
+        "story_url": "https://www.open-contracting.org/2022/08/02/inclusive-infrastructure-how-open-procurement-is-putting-informal-settlements-on-the-map-in-argentina/"
+      },
+      {
+        "story_title": "From open data to joined-up government: driving efficiency with BA Obras",
+        "story_url": "https://www.open-contracting.org/2021/07/12/from-open-data-to-joined-up-government-driving-efficiency-with-ba-obras/"
+      }
+    ]
+  }
+}

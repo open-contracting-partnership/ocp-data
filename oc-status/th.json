@@ -1,0 +1,31 @@
+{
+  "iso": "th",
+  "name": "Thailand",
+  "full_name": "Thailand – Kingdom of Thailand",
+  "meta": {},
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Bangkok Open Policy: Public spending",
+        "innovation_link": "https://opencontract.bangkok.go.th/budget.html"
+      },
+      {
+        "innovation_description": "ACT AI: Detecting red flags",
+        "innovation_link": "https://actai.co/"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "Lift impact accelerator 2023-2025, Bangkok",
+        "ogp_commitment_link": "https://www.open-contracting.org/news/ten-outstanding-project-teams-will-use-open-contracting-to-reduce-corruption-increase-competition-and-sustainability/"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "The power of procurement data: How one villager unveiled a corruption scandal",
+        "story_url": "https://www.open-contracting.org/2024/06/26/the-power-of-procurement-data-how-one-villager-unveiled-a-corruption-scandal/"
+      }
+    ]
+  }
+}

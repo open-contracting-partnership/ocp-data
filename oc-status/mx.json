@@ -1,0 +1,129 @@
+{
+  "iso": "mx",
+  "name": "Mexico",
+  "full_name": "Mexico – United Mexican States",
+  "meta": {
+    "date": 1744655563712
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Social Witness",
+        "innovation_link": "http://www.opengovguide.com/country-examples/in-mexico-social-witnesses-oversee-public-procurement/"
+      },
+      {
+        "innovation_description": "Torre de Control: Monitoring the New International Airport of Mexico City",
+        "innovation_link": "https://torredecontrol.projectpoder.org"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México (INFOCDMX) (Mexico)",
+        "publisher_link": "https://dashboard.infocdmx.org.mx/contratacionesabiertas/datosabiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de Yucatán (INAIP) (Mexico)",
+        "publisher_link": "https://contratacionesabiertas.inaipyucatan.org.mx/contratacionesabiertas/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Municipio de Guadalajara (Mexico)",
+        "publisher_link": "https://contratacionesabiertas.guadalajara.gob.mx:4000/contratacionesabiertas/datosabiertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2024"
+      },
+      {
+        "publisher": "Nuevo León: Secretaría de Administración (Mexico)",
+        "publisher_link": "https://catalogodatos.nl.gob.mx/dataset/contrataciones-abiertas-direccion-general-de-adquisiciones-y-servicios",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2024"
+      },
+      {
+        "publisher": "Nuevo León: Secretaría de Infraestructura (Mexico)",
+        "publisher_link": "http://si.nl.gob.mx/transparencia/contrataciones",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      },
+      {
+        "publisher": "QuienEsQuien.wiki",
+        "publisher_link": "https://api.quienesquien.wiki/v2/contracts",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2019"
+      },
+      {
+        "publisher": "Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Quintana Roo (SESAEQROO) (Mexico)",
+        "publisher_link": "https://www.plataformadigitalnacional.org/contrataciones",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2023"
+      },
+      {
+        "publisher": "Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes (SESEA) (Mexico)",
+        "publisher_link": "https://www.plataformadigitalnacional.org/contrataciones",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2022"
+      },
+      {
+        "publisher": "Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Puebla (SESEAP) (Mexico)",
+        "publisher_link": "https://www.plataformadigitalnacional.org/contrataciones",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2023"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2016-2018",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/sites/default/files/Mexico_Plan-de-Accion-2016-2018.pdf"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522966/Mexico.pdf"
+      },
+      {
+        "ogp_commitment": "Jalisco subnational OGP action plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Jalisco_Subnational_Action-Plan_2016-2018_EN.pdf"
+      },
+      {
+        "ogp_commitment": "OGP NAP 2013-2015",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/pa_aga_2015%20%281%29.pdf"
+      }
+    ],
+    "citizen_monitoring": true,
+    "impacts_stories": [
+      {
+        "story_title": "Country overview: Mexico",
+        "story_url": "https://www.open-contracting.org/why-open-contracting/worldwide/mexico/"
+      },
+      {
+        "story_title": "Your city, your data: Open Contracting Challenge CDMX 2017",
+        "story_url": "https://www.open-contracting.org/2017/07/10/city-data-open-contracting-challenge-cdmx-2017/"
+      },
+      {
+        "story_title": "El nexo entre contratos y élites: Poner las contrataciones abiertas en uso desde sociedad civil",
+        "story_url": "https://www.open-contracting.org/2017/05/22/el-nexo-entre-contratos-y-elites-poner-las-contrataciones-abiertas-en-uso-desde-sociedad-civil/"
+      }
+    ],
+    "commitment_oil_mining": "none",
+    "commitment_oil_mining_link": ""
+  }
+}

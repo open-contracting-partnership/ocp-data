@@ -1,0 +1,48 @@
+{
+  "iso": "ke",
+  "name": "Kenya",
+  "full_name": "Kenya – Republic of Kenya",
+  "meta": {
+    "date": 1744747851003
+  },
+  "results": {
+    "publishers": [
+      {
+        "publisher": "Kenya: Public Procurement Regulatory Authority (PPRA) ",
+        "publisher_link": "https://tenders.go.ke/Contracts",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2024"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Kenya_AP2_2016_0.pdf"
+      },
+      {
+        "ogp_commitment": "Elgeyo Marakwet County subnational OGP action plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Elgeyo-Marakwet_Subnational_Action-Plan20161201.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2020-2022",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/03/Kenya_Action-Plan_2020-2022.pdf"
+      },
+      {
+        "ogp_commitment": "Nandi County subnational OGP action plan ",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/04/Nandi_LoS_20201020.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "Pro-active disclosure can help curb flawed procurement processes in Kenya",
+        "story_url": "https://www.open-contracting.org/2017/04/13/pro-active-disclosure-can-help-curb-flawed-procurement-processes-kenya/"
+      },
+      {
+        "story_title": "New year, big plans for open contracting in Africa",
+        "story_url": "https://www.open-contracting.org/2017/01/18/new-year-big-plans-open-contracting-africa/"
+      }
+    ]
+  }
+}

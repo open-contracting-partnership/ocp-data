@@ -1,0 +1,33 @@
+{
+  "iso": "no",
+  "name": "Norway",
+  "full_name": "Norway – Kingdom of Norway",
+  "meta": {
+    "date": 1511574331299
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/no/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": [],
+    "commitment_oil_mining": "partial",
+    "commitment_oil_mining_description": "partial (oil/gas)",
+    "disclosure_oil_mining": "partial",
+    "disclosure_oil_mining_description": "partial (oil/gas)",
+    "disclosure_oil_mining_link": "petroleum directorate website",
+    "impacts_stories": [
+      {
+        "story_title": "Standards, eServices, and open contracting in the EU",
+        "story_url": "https://www.open-contracting.org/2016/03/11/standards-eservices-and-open-contracting-in-the-eu/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "iso": "al",
+  "name": "Albania",
+  "full_name": "Albania – Republic of Albania",
+  "meta": {
+    "date": 1471379771595
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Open Procurement Albania: Monitoring of tenders and contracts in local government",
+        "innovation_link": "http://www.openprocurement.al/en"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Albania: Public Procurement Commission",
+        "publisher_link": "https://kpp.al/en",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": null
+      },
+      {
+        "publisher": "Albania: Public Procurement Commission (Historical)",
+        "publisher_link": "https://kpp.al/en/HistorikVendimesh?objektProkurimi=&viti=&vitiId=&muaji=&muajiId=",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": null
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/NAP3_ALB.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "How Albania’s e-complaints system reduces red tape for government suppliers",
+        "story_url": "https://www.open-contracting.org/2022/11/22/how-albanias-e-complaints-system-reduces-red-tape-for-government-suppliers/"
+      }
+    ]
+  }
+}

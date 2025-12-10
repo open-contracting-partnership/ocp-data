@@ -1,0 +1,18 @@
+{
+  "iso": "tw",
+  "name": "Taiwan (Republic of China)",
+  "full_name": "Taiwan",
+  "meta": {
+    "date": 1529088632306
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "DSP Inc. in Cooperation with National Development Council",
+        "innovation_link": "http://data.dsp.im/dataset/taiwan-open-contracting"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": []
+  }
+}

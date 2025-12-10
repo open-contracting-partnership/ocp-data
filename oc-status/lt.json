@@ -1,0 +1,32 @@
+{
+  "iso": "lt",
+  "name": "Lithuania",
+  "full_name": "Lithuania – Republic of Lithuania",
+  "meta": {
+    "date": 1666211454354
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/lt/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "How Lithuania fast-tracked green procurement",
+        "story_url": "https://www.open-contracting.org/2023/12/06/how-lithuania-fast-tracked-green-procurement/"
+      },
+      {
+        "story_title": "Going 100% green in Lithuania",
+        "story_url": "https://www.open-contracting.org/2022/10/17/going-100-green-in-lithuania/"
+      }
+    ]
+  }
+}
