@@ -5,18 +5,18 @@ default_language_version:
     python: python3.11
 repos:
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.12.2
+    rev: v0.14.10
     hooks:
       - id: ruff-check
       - id: ruff-format
   - repo: https://github.com/astral-sh/uv-pre-commit
-    rev: 0.7.19
+    rev: 0.9.21
     hooks:
       - id: pip-compile
         name: pip-compile requirements.in
         args: [requirements.in, -o, requirements.txt]
   - repo: https://github.com/biomejs/pre-commit
-    rev: v2.2.5
+    rev: v2.3.10
     hooks:
       - id: biome-ci
         additional_dependencies: ["@biomejs/biome@1.7.3"]
