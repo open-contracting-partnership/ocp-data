@@ -2,7 +2,6 @@
  * This script takes raw OCP data and processes it into something that can be
  * used more easily by other applications.
  */
-'use strict';
 
 var _ = require('lodash');
 var async = require('async');
@@ -82,13 +81,13 @@ function prepTableData(countryData) {
 
 async.waterfall(
     [
-        function (callback) {
+        (callback) => {
             // Write the original data files
-            fs.copy(sourceDir, targetDir, function (err) {
+            fs.copy(sourceDir, targetDir, (err) => {
                 callback(err);
             });
         },
-        function (callback) {
+        (callback) => {
             // remove unused geojson properties
             output.map.data.objects.ne_50m_admin_0_countries.geometries = _.map(
                 output.map.data.objects.ne_50m_admin_0_countries.geometries,
@@ -103,7 +102,7 @@ async.waterfall(
             );
 
             // process country data files
-            fs.readdir(sourceDir, function (err, list) {
+            fs.readdir(sourceDir, (err, list) => {
                 const files = _.chain(list)
                     .filter((filename) => filename !== '_index.json')
                     .keyBy()
@@ -115,9 +114,7 @@ async.waterfall(
 
                         var geoIndex = _.findIndex(
                             output.map.data.objects.ne_50m_admin_0_countries.geometries,
-                            function (o) {
-                                return o.properties.iso_a2.toLowerCase() === jsonData.iso;
-                            },
+                            (o) => o.properties.iso_a2.toLowerCase() === jsonData.iso,
                         );
 
                         if (geoIndex !== -1) {
@@ -150,11 +147,11 @@ async.waterfall(
                 callback(err, output);
             });
         },
-        function (output, callback) {
+        (output, callback) => {
             var tasks = [];
-            _.forEach(output, function (f) {
-                tasks.push(function (cb) {
-                    fs.writeFile(`${targetDir}/${f.file}`, JSON.stringify(f.data), function (err) {
+            _.forEach(output, (f) => {
+                tasks.push((cb) => {
+                    fs.writeFile(`${targetDir}/${f.file}`, JSON.stringify(f.data), (err) => {
                         cb(err);
                     });
                 });
@@ -162,7 +159,7 @@ async.waterfall(
             async.parallel(tasks, callback);
         },
     ],
-    function (err) {
+    (err) => {
         if (err) console.error(err.message);
         console.log('Success, all data processed and ready to serve beautiful things.');
     },

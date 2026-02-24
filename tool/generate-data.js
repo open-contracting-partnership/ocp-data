@@ -1,7 +1,6 @@
 /* Take a CSV with initial data for the 'OC Status' and generate a
  * the basic json files for it
  */
-'use strict';
 
 var csv = require('csv');
 var fs = require('fs-extra');
@@ -24,7 +23,7 @@ function checkBool(value) {
     }
 }
 
-var parser = csv.parse({ columns: true }, function (err, data) {
+var parser = csv.parse({ columns: true }, (err, data) => {
     if (err) return console.error(err);
     for (var i in data) {
         if (data[i].iso) {
@@ -81,7 +80,7 @@ var parser = csv.parse({ columns: true }, function (err, data) {
     }
 });
 
-fs.emptyDir(exportDir, function (err) {
+fs.emptyDir(exportDir, (err) => {
     if (err) return console.log(err);
 });
 
