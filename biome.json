@@ -6,6 +6,9 @@
     "useIgnoreFile": true,
     "defaultBranch": "master"
   },
+  "files": {
+    "includes": ["**", "!lib"]
+  },
   "assist": {
     "actions": {
       "source": {
@@ -17,7 +20,7 @@
     "indentStyle": "space",
     "indentWidth": 4,
     "lineWidth": 119,
-    "includes": ["**", "!lib", "!data/oc-status/_index.json"]
+    "includes": ["**", "!data/oc-status/_index.json"]
   },
   "javascript": {
     "formatter": {
