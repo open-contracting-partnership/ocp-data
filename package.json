@@ -1,27 +1,8 @@
 {
   "name": "ocp-data",
   "version": "1.0.0",
-  "description": "OCP data",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/developmentseed/ocp-data.git"
-  },
-  "license": "BSD-2",
-  "author": {
-    "name": "Development Seed",
-    "url": "https://developmentseed.org"
-  },
-  "bugs": {
-    "url": "https://github.com/developmentseed/ocp-data/issues"
-  },
-  "scripts": {
-    "build": "node index.js"
-  },
-  "homepage": "http://open-contracting.org/",
-  "devDependencies": {
-    "eslint": "^9.39.1",
-    "neostandard": "^0.12.0"
-  },
+  "private": true,
+  "type": "module",
   "dependencies": {
     "async": "^1.5.2",
     "fs-extra": "^0.26.5",

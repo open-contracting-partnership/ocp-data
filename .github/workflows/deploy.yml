@@ -11,7 +11,7 @@ jobs:
         with:
           node-version: 16
       - run: npm ci
-      - run: npm run build
+      - run: node index.js
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
