@@ -19,4 +19,4 @@ repos:
     rev: v2.3.10
     hooks:
       - id: biome-ci
-        additional_dependencies: ["@biomejs/biome@1.7.3"]
+        additional_dependencies: ["@biomejs/biome@2.3.11"]
