@@ -64,7 +64,7 @@
             "type": "string",
             "description": "In YYYY format"
           }
-        } 
+        }
       }
     },
     "ocds_description": {
@@ -90,7 +90,7 @@
         },
         "required": ["innovation_description"]
       }
-    },    
+    },
     "ogp_commitments": {
       "type": "array",
       "title": "Relevant OGP commitments",
