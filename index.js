@@ -3,15 +3,14 @@
  * used more easily by other applications.
  */
 
-const _ = require('lodash');
-const async = require('async');
-const fs = require('fs-extra');
-const slugify = require('slugify');
+import async from 'async';
+import fs from 'fs-extra';
+import _ from 'lodash';
+import slugify from 'slugify';
+import mapData from './lib/ne_50m_admin_0_countries_topo.json' with { type: 'json' };
 
 const sourceDir = './data/oc-status';
 const targetDir = './dist/oc-status';
-
-const mapData = require('./lib/ne_50m_admin_0_countries_topo.json');
 const tableData = {
     meta: {
         display: [

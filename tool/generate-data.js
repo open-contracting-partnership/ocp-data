@@ -2,8 +2,8 @@
  * the basic json files for it
  */
 
-const csv = require('csv');
-const fs = require('fs-extra');
+import csv from 'csv';
+import fs from 'fs-extra';
 
 const exportDir = './export';
 
