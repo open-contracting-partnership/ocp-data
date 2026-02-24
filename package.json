@@ -4,10 +4,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "async": "^1.5.2",
-    "fs-extra": "^0.26.5",
-    "lodash": "^4.17.23",
-    "slugify": "^1.6.5",
-    "topojson-server": "^3.0.1"
+    "slugify": "^1.6.5"
   }
 }
