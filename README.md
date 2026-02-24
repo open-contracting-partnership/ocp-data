@@ -9,4 +9,13 @@ Admins can run the `python manage.py update-ocds-publishers [filename.csv]` comm
 update the OCDS publishers list for all countries.
 
 ## Serving the data
+
 The final JSON data is served statically from the `publish` branch. When accepting an edit and merging the Pull Request to `master`, Travis runs a script that processes the data and optimizes it for use in other applications. This includes the map on the [Open Contracting website](http://open-contracting.org).
+
+## TopoJSON
+
+TopoJSON is generated from GeoJSON:
+
+```bash
+npx geo2topo lib/ne_50m_admin_0_countries.json > lib/ne_50m_admin_0_countries_topo.json
+```
