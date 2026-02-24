@@ -3,16 +3,16 @@
  * used more easily by other applications.
  */
 
-var _ = require('lodash');
-var async = require('async');
-var fs = require('fs-extra');
-var slugify = require('slugify');
+const _ = require('lodash');
+const async = require('async');
+const fs = require('fs-extra');
+const slugify = require('slugify');
 
-var sourceDir = './data/oc-status';
-var targetDir = './dist/oc-status';
+const sourceDir = './data/oc-status';
+const targetDir = './dist/oc-status';
 
-var mapData = require('./lib/ne_50m_admin_0_countries_topo.json');
-var tableData = {
+const mapData = require('./lib/ne_50m_admin_0_countries_topo.json');
+const tableData = {
     meta: {
         display: [
             {
@@ -36,7 +36,7 @@ var tableData = {
     data: [],
 };
 
-var output = {
+const output = {
     merged: {
         data: [],
         file: '_all.json',
@@ -68,7 +68,7 @@ function processOCDS(countryData) {
 }
 
 function prepTableData(countryData) {
-    var d = {
+    const d = {
         country: countryData.name,
         ocds_data: processOCDS(countryData),
         ocds_implementation: countryData.results.ocds_implementation ? 'Yes' : 'No',
@@ -103,7 +103,7 @@ async.waterfall(
 
             // process country data files
             fs.readdir(sourceDir, (err, list) => {
-                const files = _.chain(list)
+                _.chain(list)
                     .filter((filename) => filename !== '_index.json')
                     .keyBy()
                     .mapValues((filename) => JSON.parse(fs.readFileSync(`${sourceDir}/${filename}`)))
@@ -112,7 +112,7 @@ async.waterfall(
                         // False values on booleans count as no data
                         jsonData.results.has_data = !_.every(_.map(jsonData.results), _.isEmpty);
 
-                        var geoIndex = _.findIndex(
+                        const geoIndex = _.findIndex(
                             output.map.data.objects.ne_50m_admin_0_countries.geometries,
                             (o) => o.properties.iso_a2.toLowerCase() === jsonData.iso,
                         );
@@ -136,7 +136,7 @@ async.waterfall(
                 output.map.data.objects.ne_50m_admin_0_countries.geometries = _.map(
                     output.map.data.objects.ne_50m_admin_0_countries.geometries,
                     (geo) => {
-                        if (geo.properties.iso_a2 == -99) {
+                        if (geo.properties.iso_a2 === -99) {
                             geo.properties.iso_a2 = slugify(geo.properties.name);
                         }
 
@@ -148,7 +148,7 @@ async.waterfall(
             });
         },
         (output, callback) => {
-            var tasks = [];
+            const tasks = [];
             _.forEach(output, (f) => {
                 tasks.push((cb) => {
                     fs.writeFile(`${targetDir}/${f.file}`, JSON.stringify(f.data), (err) => {

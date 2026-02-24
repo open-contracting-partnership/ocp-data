@@ -2,10 +2,10 @@
  * the basic json files for it
  */
 
-var csv = require('csv');
-var fs = require('fs-extra');
+const csv = require('csv');
+const fs = require('fs-extra');
 
-var exportDir = './export';
+const exportDir = './export';
 
 function checkEmpty(value) {
     if (value === '') {
@@ -23,11 +23,11 @@ function checkBool(value) {
     }
 }
 
-var parser = csv.parse({ columns: true }, (err, data) => {
+const parser = csv.parse({ columns: true }, (err, data) => {
     if (err) return console.error(err);
-    for (var i in data) {
+    for (const i in data) {
         if (data[i].iso) {
-            var countryJSON = {
+            const countryJSON = {
                 iso: data[i].iso.toLowerCase(),
                 name: data[i].country_simple,
                 full_name: data[i].country,
