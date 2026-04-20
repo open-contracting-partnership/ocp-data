@@ -1,0 +1,77 @@
+{
+  "iso": "id",
+  "name": "Indonesia",
+  "full_name": "Indonesia – Republic of Indonesia",
+  "meta": {
+    "date": 1744747781138
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "OpenTender portal by Indonesia Corruption Watch",
+        "innovation_link": "http://www.opentender.net/"
+      },
+      {
+        "innovation_description": "BIRMS Tender Notification App (Android) - uses data from Bandung City's OCDS API",
+        "innovation_link": ""
+      },
+      {
+        "innovation_description": "BIRMS Public Transportation Procurement App (Android) - uses data from Bandung City's OCDS API",
+        "innovation_link": ""
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Indonesia Corruption Watch (ICW)",
+        "publisher_link": "https://v3.opentender.net/#/ocds",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "Bojonegoro subnational OGP action plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Bojonegoro_Subnational_Action-Plan_2016-17_ENG.pdf"
+      },
+      {
+        "ogp_commitment": "National Action Plan 2018-20",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2019/01/Indonesia_Action-Plan_2018-2020.pdf"
+      },
+      {
+        "ogp_commitment": "National Action Plan 2020-2022",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/01/Indonesia_Action-Plan_2020-2022_EN.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "The ‘snakes and ladders’ of open contracting",
+        "story_url": "https://webfoundation.org/2017/09/the-snakes-and-ladders-of-open-contracting/"
+      },
+      {
+        "story_title": "Developer-to-Developer Mentoring in Bandung City, Indonesia: A Blueprint for Open Contracting Success",
+        "story_url": "https://www.developmentgateway.org/blog/developer-developer-mentorship-bandung-indonesia-blueprint-open-contracting-success"
+      },
+      {
+        "story_title": "Water Governance and Open Contracting in Bantul Regency",
+        "story_url": "https://sea.hivos.org/story/small-steps-towards-a-better-water-governance/"
+      },
+      {
+        "story_title": "When CSOs and Journalists Join Forces: Story from Yogyakarta",
+        "story_url": "https://antikorupsi.org/en/article/when-yogyakartas-journalists-and-civil-society-organizations-join-forces"
+      },
+      {
+        "story_title": "E-Procurement and Women-Led SMEs",
+        "story_url": "https://sea.hivos.org/story/growing-a-catering-business-with-gulo-asem/"
+      },
+      {
+        "story_title": "Partners in crime prevention: How civil society and government worked together to open up public contracts in Indonesia",
+        "story_url": "https://www.open-contracting.org/2022/04/27/a-partnership-for-better-procurement-how-civil-society-and-government-worked-together-to-open-up-public-contracts-in-indonesia/"
+      }
+    ],
+    "tenders_awards": "Bandung City",
+    "complaints_mechanism": false,
+    "ocds_description": "OCDS implemented in Bandung City (planning, tender, award, contract) on open and direct procurement"
+  }
+}

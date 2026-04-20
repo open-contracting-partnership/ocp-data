@@ -1,0 +1,94 @@
+{
+  "iso": "ng",
+  "name": "Nigeria",
+  "full_name": "Nigeria – Federal Republic of Nigeria",
+  "meta": {
+    "date": 1744657726781
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Civil society monitoring program",
+        "innovation_link": "http://library.procurementmonitor.org/index.php"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Cross River State (Nigeria)",
+        "publisher_link": "http://ocds.dppib-crsgov.org/ReleasePackageViewModel_ListView/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Ebonyi State (Nigeria)",
+        "publisher_link": "https://ebonyieprocure.eb.gov.ng/ocds_report.php",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Ekiti State (PPDC portal) (Nigeria)",
+        "publisher_link": "https://ocdsportal.azurewebsites.net/Home/Procurements",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Nigeria: Bureau of Public Procurement (BPP)",
+        "publisher_link": "http://nocopo.bpp.gov.ng/OpenData.aspx",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2018"
+      },
+      {
+        "publisher": "Osun State (Nigeria)",
+        "publisher_link": "https://egp.osunstate.gov.ng/awarded_contracts.php",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2022"
+      },
+      {
+        "publisher": "Oyo State (Nigeria)",
+        "publisher_link": "https://ocdsoyo.oyostate.gov.ng/projects.php",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "Plateau State: Bureau of Public Procurement (Nigeria)",
+        "publisher_link": "https://plateaustatebpp.com/ocds",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2022"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2017-2019",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Nigeria_NAP_2017-2019.doc"
+      },
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/523799/NIGERIA-_FINAL_COUNTRY_STATEMENT-UK_SUMMIT.pdf"
+      }
+    ],
+    "impacts_stories": [
+      {
+        "story_title": "How Budeshi can help Nigeria track public services and tackle corruption using open data",
+        "story_url": "https://www.open-contracting.org/2016/02/29/how-budeshi-can-help-nigeria-track-public-services-and-tackle-corruption-using-open-data/"
+      },
+      {
+        "story_title": "No more islands of prosperity in a torn society",
+        "story_url": "https://www.open-contracting.org/2017/03/07/no-islands-prosperity-torn-society/"
+      }
+    ]
+  }
+}
