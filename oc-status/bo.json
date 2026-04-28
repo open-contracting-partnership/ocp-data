@@ -1,0 +1,23 @@
+{
+  "iso": "bo",
+  "name": "Bolivia",
+  "full_name": "Bolivia – Plurinational State of Bolivia",
+  "meta": {
+    "date": 1603109200923
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Bolivia: Agencia de Gobierno Electrónico Y Tecnologías de la Información y la Comunicación (AGETIC)",
+        "publisher_link": "https://datos.gob.bo/es_AR/dataset/contrataciones-agetic-2019-estandar-ocp/resource/be665deb-828f-41a0-a104-c34817cd9def",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": [],
+    "disclosure_oil_mining": "some"
+  }
+}

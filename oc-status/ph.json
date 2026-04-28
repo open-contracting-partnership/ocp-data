@@ -1,0 +1,34 @@
+{
+  "iso": "ph",
+  "name": "Philippines",
+  "full_name": "Philippines – Republic of the Philippines",
+  "meta": {
+    "date": 1625631500859
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Philippine National Textbook Delivery Programme; NGO and Private Sector Participation in Procurement",
+        "innovation_link": "https://www.g-watch.org/news-release/textbook-count-philippines"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [],
+    "citizen_monitoring": true,
+    "commitment_oil_mining": "partial",
+    "commitment_oil_mining_description": "partial (oil, gas, mining)",
+    "disclosure_oil_mining": "partial",
+    "disclosure_oil_mining_description": "partial (oil, gas, mining)",
+    "disclosure_oil_mining_link": "government website",
+    "impacts_stories": [
+      {
+        "story_title": "Better bike lanes in the Philippines: Civic groups won a budget for bike lanes, then followed the money",
+        "story_url": "https://www.open-contracting.org/2024/04/02/better-bike-lanes-in-the-philippines-civic-groups-won-a-budget-for-bike-lanes-then-followed-the-money/"
+      },
+      {
+        "story_title": "How data revealed more than just nepotismin the Philippines",
+        "story_url": "https://www.hivos.org/story/how-data-revealed-more-than-just-nepotism-in-the-philippines/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "iso": "pe",
+  "name": "Peru",
+  "full_name": "Peru – Republic of Peru",
+  "meta": {
+    "date": 1733162821891
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Perú Observa: Observatorio de Compras Públicas",
+        "innovation_link": "https://www.perucompras.gob.pe/observatorio/indicadores-acuerdos-marco.php"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Perú: Organismo Supervisor de las Contrataciones del Estado (OSCE)",
+        "publisher_link": "https://contratacionesabiertasdesa.osce.gob.pe",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2023"
+      },
+      {
+        "publisher": "Peru: Perú Compras",
+        "publisher_link": "https://www.catalogos.perucompras.gob.pe/ConsultaOrdenesPub",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Government Open Data Strategy of Peru 2017 - 2021",
+        "ogp_commitment_link": "https://sgp.pcm.gob.pe/wp-content/uploads/2017/05/Modelo-y-Estrategia-DAG-del-Peru.pdf"
+      }
+    ],
+    "disclosure_oil_mining": "partial",
+    "disclosure_oil_mining_description": "Most or all"
+  }
+}
