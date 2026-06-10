@@ -9,14 +9,6 @@
     "innovations": [],
     "publishers": [
       {
-        "publisher": "Assam State: Finance Department (India)",
-        "publisher_link": "https://data.gov.in/catalog/assam-public-procurement-data",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": "2022"
-      },
-      {
         "publisher": "CivicDataLab (Assam, India)",
         "publisher_link": "https://github.com/CivicDataLab/assam-tenders-data/tree/main/data",
         "ocds_historic_data": true,
