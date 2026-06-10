@@ -1,0 +1,19 @@
+{
+  "iso": "my",
+  "name": "Malaysia",
+  "full_name": "Malaysia",
+  "meta": {
+    "date": 1511546425784
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Malaysian project to expose political interests in procurement wins Open Contracting Innovation Challenge",
+        "story_url": "https://www.open-contracting.org/news/malaysian-project-expose-political-interests-procurement-wins-open-contracting-innovation-challenge/"
+      }
+    ]
+  }
+}

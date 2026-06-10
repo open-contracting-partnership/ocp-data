@@ -1,0 +1,20 @@
+{
+  "iso": "hr",
+  "name": "Croatia",
+  "full_name": "Croatia – Republic of Croatia",
+  "meta": {},
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Narodne Navine d.d. (Croatia)",
+        "publisher_link": "https://eojn.nn.hr/SPIN/application/ipn/Oglasnik/PreuzimanjeUgovoraOCD.aspx",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      }
+    ],
+    "ogp_commitments": []
+  }
+}
