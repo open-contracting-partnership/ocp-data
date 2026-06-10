@@ -2,7 +2,9 @@
   "iso": "tz",
   "name": "Tanzania",
   "full_name": "Tanzania – United Republic of Tanzania",
-  "meta": {},
+  "meta": {
+    "date": 1773426983200
+  },
   "results": {
     "innovations": [],
     "publishers": [
@@ -15,6 +17,12 @@
         "year_first_implemented": "2025"
       }
     ],
-    "ogp_commitments": []
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Transforming Africa’s procurement: Locally owned, data-driven. A case study from Tanzania",
+        "story_url": "https://www.open-contracting.org/2026/03/12/transforming-africas-procurement-locally-owned-data-driven-a-case-study-from-tanzania/"
+      }
+    ]
   }
 }
