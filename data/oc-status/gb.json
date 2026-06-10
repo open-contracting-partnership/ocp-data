@@ -36,14 +36,6 @@
         "ocds_ongoing_data": true,
         "ocds_implementation": false,
         "year_first_implemented": "2021"
-      },
-      {
-        "publisher": "Welsh Government",
-        "publisher_link": "https://www.sell2wales.gov.wales/helpandresources/ocds/dataaccessinfo",
-        "ocds_historic_data": true,
-        "ocds_ongoing_data": true,
-        "ocds_implementation": false,
-        "year_first_implemented": "2022"
       }
     ],
     "ogp_commitments": [
