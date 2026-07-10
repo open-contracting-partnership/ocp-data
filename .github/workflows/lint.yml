@@ -8,4 +8,4 @@ jobs:
     secrets:
       personal-access-token: ${{ secrets.PAT }}
     with:
-      ocds-schema-exceptions: src/oc-status.json
+      ocds-schema-exceptions: oc-status.json
