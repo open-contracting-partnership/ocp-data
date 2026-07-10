@@ -3,8 +3,6 @@
   "title": "Open Contracting Status",
   "description": "Surveying the status of open contracting around the world",
   "type": "object",
-  "version": 1,
-  "required": [],
   "properties": {
     "tenders_awards": {
       "title": "Transparency of Tenders & Awards",

@@ -5,8 +5,10 @@
 
 import { readFileSync } from 'node:fs';
 import fs from 'node:fs/promises';
+import Ajv04 from 'ajv-draft-04';
 import slugify from 'slugify';
 import mapData from '../assets/ne_50m_admin_0_countries_topo.json' with { type: 'json' };
+import schema from './oc-status.json' with { type: 'json' };
 
 const sourceDir = './data/oc-status';
 const targetDir = './dist/oc-status';
@@ -77,7 +79,29 @@ function prepTableData(countryData) {
     return d;
 }
 
+const validate = new Ajv04({ allErrors: true }).compile(schema);
+
 try {
+    // Read the list of country data files, excluding the index
+    const list = (await fs.readdir(sourceDir)).filter((f) => f !== '_index.json');
+
+    // Validate the source data against the schema before writing anything
+    const errors = [];
+    for (const filename of list) {
+        const { results } = JSON.parse(readFileSync(`${sourceDir}/${filename}`));
+        if (!validate(results)) {
+            for (const e of validate.errors) {
+                errors.push(`${filename}: results${e.instancePath} ${e.message}`);
+            }
+        }
+    }
+    if (errors.length) {
+        for (const e of errors) {
+            console.error(e);
+        }
+        throw new Error(`${errors.length} schema validation error(s) in source data`);
+    }
+
     // Write the original data files
     await fs.cp(sourceDir, targetDir, { recursive: true });
 
@@ -92,8 +116,7 @@ try {
         });
 
     // process country data files
-    const list = await fs.readdir(sourceDir);
-    for (const filename of list.filter((f) => f !== '_index.json')) {
+    for (const filename of list) {
         const jsonData = JSON.parse(readFileSync(`${sourceDir}/${filename}`));
 
         // Add an indication if the country has any data reported
@@ -130,4 +153,5 @@ try {
     );
 } catch (err) {
     console.error(err.message);
+    process.exitCode = 1;
 }
