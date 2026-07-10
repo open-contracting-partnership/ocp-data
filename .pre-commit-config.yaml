@@ -18,5 +18,4 @@ repos:
   - repo: https://github.com/biomejs/pre-commit
     rev: v2.5.2
     hooks:
-      - id: biome-ci
-        additional_dependencies: ["@biomejs/biome@2.3.11"]
+      - id: biome-check
