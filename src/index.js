@@ -6,7 +6,7 @@
 import { readFileSync } from 'node:fs';
 import fs from 'node:fs/promises';
 import slugify from 'slugify';
-import mapData from './lib/ne_50m_admin_0_countries_topo.json' with { type: 'json' };
+import mapData from '../assets/ne_50m_admin_0_countries_topo.json' with { type: 'json' };
 
 const sourceDir = './data/oc-status';
 const targetDir = './dist/oc-status';

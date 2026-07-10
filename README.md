@@ -13,8 +13,8 @@ The final JSON data is served statically from the `publish` branch. When accepti
 
 ## TopoJSON
 
-TopoJSON is generated from GeoJSON:
+`assets/ne_50m_admin_0_countries_topo.json` is generated from [Natural Earth](https://www.naturalearthdata.com/) GeoJSON. Download the 1:50m "Admin 0 – Countries" file from [nvkelso/natural-earth-vector](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_0_countries.geojson), then convert it:
 
 ```bash
-npx geo2topo lib/ne_50m_admin_0_countries.json > lib/ne_50m_admin_0_countries_topo.json
+npx geo2topo ne_50m_admin_0_countries.geojson > assets/ne_50m_admin_0_countries_topo.json
 ```
