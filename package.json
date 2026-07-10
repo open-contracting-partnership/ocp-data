@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@11.9.0",
   "dependencies": {
     "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "knip": "^6.24.0"
   }
 }
