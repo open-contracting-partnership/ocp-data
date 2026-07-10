@@ -5,33 +5,14 @@
     "useIgnoreFile": true,
     "defaultBranch": "master"
   },
-  "files": {
-    "includes": ["**", "!lib"]
-  },
-  "assist": {
-    "actions": {
-      "source": {
-        "organizeImports": "on"
-      }
-    }
-  },
   "formatter": {
     "indentStyle": "space",
-    "indentWidth": 4,
     "lineWidth": 119,
-    "includes": ["**", "!data/oc-status/_index.json"]
+    "includes": ["**", "!assets", "!data/**/*.json"]
   },
   "javascript": {
     "formatter": {
       "quoteStyle": "single"
     }
-  },
-  "json": {
-    "formatter": {
-      "indentWidth": 2
-    }
-  },
-  "linter": {
-    "enabled": true
   }
 }
