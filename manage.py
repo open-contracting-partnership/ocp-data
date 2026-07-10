@@ -67,19 +67,18 @@ def update_ocds_publishers(filename):
             country_data["results"]["publishers"] = []
 
             for _index, publisher in publishers[publishers_countries == countries[country]["name"]].iterrows():
-                country_data["results"]["publishers"].append(
-                    {
-                        "publisher": publisher[publisher_name_column],
-                        "publisher_link": publisher[url_column],
-                        "ocds_historic_data": True,
-                        "ocds_ongoing_data": publisher[non_mvp_reason_column]
-                        != "Active: Updated in previous four calendar quarters",
-                        "ocds_implementation": False,
-                        "year_first_implemented": publisher[date_first_mvp_column][0:4]
-                        if publisher[date_first_mvp_column]
-                        else None,
-                    }
-                )
+                publisher_data = {
+                    "publisher": publisher[publisher_name_column],
+                    "publisher_link": publisher[url_column],
+                    "ocds_historic_data": True,
+                    "ocds_ongoing_data": publisher[non_mvp_reason_column]
+                    != "Active: Updated in previous four calendar quarters",
+                    "ocds_implementation": False,
+                }
+                # Omit year_first_implemented when there is no date, matching the schema (a string when present).
+                if publisher[date_first_mvp_column]:
+                    publisher_data["year_first_implemented"] = publisher[date_first_mvp_column][0:4]
+                country_data["results"]["publishers"].append(publisher_data)
 
             with Path(file_name).open("w") as f:
                 json.dump(country_data, f, indent=2, ensure_ascii=False)

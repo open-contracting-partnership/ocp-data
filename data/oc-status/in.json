@@ -13,8 +13,7 @@
         "publisher_link": "https://github.com/CivicDataLab/assam-tenders-data/tree/main/data",
         "ocds_historic_data": true,
         "ocds_ongoing_data": false,
-        "ocds_implementation": false,
-        "year_first_implemented": null
+        "ocds_implementation": false
       },
       {
         "publisher": "CivicDataLab (India)",
