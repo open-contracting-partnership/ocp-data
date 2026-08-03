@@ -1,0 +1,27 @@
+{
+  "iso": "tw",
+  "name": "Taiwan (Republic of China)",
+  "full_name": "Taiwan",
+  "meta": {
+    "date": 1529088632306
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "DSP Inc. in Cooperation with National Development Council",
+        "innovation_link": "http://data.dsp.im/dataset/taiwan-open-contracting"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Taiwan: Agency Against Corruption (AAC)",
+        "publisher_link": "https://gpip.aac.moj.gov.tw/cht/index.php?code=list&ids=6",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2026"
+      }
+    ],
+    "ogp_commitments": []
+  }
+}
