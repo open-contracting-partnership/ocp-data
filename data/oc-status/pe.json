@@ -37,6 +37,12 @@
       }
     ],
     "disclosure_oil_mining": "partial",
-    "disclosure_oil_mining_description": "Most or all"
+    "disclosure_oil_mining_description": "Most or all",
+    "impacts_stories": [
+      {
+        "story_title": "FUNES, the corruption-detecting algorithm that ‘never forgets’",
+        "story_url": "https://www.open-contracting.org/2020/09/10/funes-the-corruption-detecting-algorithm-that-never-forgets/"
+      }
+    ]
   }
 }
