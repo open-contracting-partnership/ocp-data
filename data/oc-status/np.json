@@ -8,8 +8,8 @@
   "results": {
     "innovations": [
       {
-        "innovation_description": "Open Contracting Portal Prototype (2014);Civil Society Construction and Projects monitoring (2010-2015)",
-        "innovation_link": "http://opencontracting.opennepal.net/#/;http://www.developmentcheck.org/countries/np"
+        "innovation_description": "Open Contracting Portal Prototype (2014); Civil Society Construction and Projects monitoring (2010-2015)",
+        "innovation_link": "http://opencontracting.opennepal.net/#/; http://www.developmentcheck.org/countries/np"
       }
     ],
     "publishers": [
@@ -25,8 +25,8 @@
     "ogp_commitments": [],
     "impacts_stories": [
       {
-        "story_title": "Showcase& Learning",
-        "story_url": "https://www.open-contracting.org/why-open-contracting/showcase-projects/nepal/"
+        "story_title": "Dhangadhi, Nepal: An open secret to building local infrastructure on time and budget",
+        "story_url": "https://www.open-contracting.org/2020/09/30/citizens-empowered-an-open-secret-to-building-local-infrastructure-on-time-and-budget/"
       },
       {
         "story_title": "Citizen monitoring matters to open data on procurement: A perspective from Nepal",
