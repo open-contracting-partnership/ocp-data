@@ -32,6 +32,10 @@
     ],
     "ogp_commitments": [
       {
+        "ogp_commitment": "4th National OGP Action Plan 2019-22",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/documents/argentina-action-plan-2019-2022/"
+      },
+      {
         "ogp_commitment": "3rd National OGP Action Plan",
         "ogp_commitment_link": "https://drive.google.com/file/d/0B6plaXO3RncLbFQtZDIzRHdlMDg/view"
       },
@@ -42,6 +46,14 @@
       {
         "ogp_commitment": "Transparency and Institutional Innovation Agenda, City of Buenos Aires",
         "ogp_commitment_link": "http://www.buenosaires.gob.ar/agendadetransparencia/gobierno-abierto/compras-publicas"
+      },
+      {
+        "ogp_commitment": "Buenos Aires subnational: 2nd OGP NAP 2021-23",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/documents/action-plan-buenos-aires-argentina-2021-2023/"
+      },
+      {
+        "ogp_commitment": "Rosario, subnational OGP action plan, 2021-23",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/documents/action-plan-rosario-argentina-2021-2023/"
       }
     ],
     "impacts_stories": [
