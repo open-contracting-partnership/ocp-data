@@ -21,12 +21,20 @@
       {
         "ogp_commitment": "OGP NAP 2016-2018",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/RepDom_NAP3.pdf"
+      },
+      {
+        "ogp_commitment": "4th OGP NAP 2022-24",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/members/dominican-republic/commitments/DO0057/"
       }
     ],
     "impacts_stories": [
       {
         "story_title": "A red light for corruption: How the Dominican Republic is using open data, better processes & collaboration to fight corruption",
         "story_url": "https://www.open-contracting.org/2023/12/09/a-red-light-for-corruption-how-the-dominican-republic-is-using-open-data-better-processes-collaboration-to-fight-corruption/"
+      },
+      {
+        "story_title": "Women win one in four contracts in the Dominican Republic thanks to inclusive procurement reforms",
+        "story_url": "https://www.open-contracting.org/2020/09/23/women-win-one-in-four-contracts-in-the-dominican-republic-thanks-to-inclusive-procurement-reforms/"
       }
     ]
   }
