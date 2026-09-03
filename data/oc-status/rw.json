@@ -15,6 +15,12 @@
         "year_first_implemented": "2024"
       }
     ],
-    "ogp_commitments": []
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Rwanda: A new open contracting portal to promote effective and inclusive procurement",
+        "story_url": "https://www.open-contracting.org/2024/11/13/rwanda-a-new-open-contracting-portal-to-promote-effective-and-inclusive-procurement/"
+      }
+    ]
   }
 }
