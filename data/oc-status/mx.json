@@ -98,19 +98,39 @@
       {
         "ogp_commitment": "OGP NAP 2013-2015",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/pa_aga_2015%20%281%29.pdf"
+      },
+      {
+        "ogp_commitment": "Nuevo Leon subnational: OGP NAP 2022-24",
+        "ogp_commitment_link": ""
       }
     ],
     "citizen_monitoring": true,
     "impacts_stories": [
       {
-        "story_title": "Country overview: Mexico",
-        "story_url": "https://www.open-contracting.org/why-open-contracting/worldwide/mexico/"
+        "story_title": "Three strategies for designing an e-procurement system: Lessons learned in Nuevo León, Mexico",
+        "story_url": "https://www.open-contracting.org/2026/02/11/3-strategies-egp-nuevo-leon/"
       },
       {
-        "story_title": "Your city, your data: Open Contracting Challenge CDMX 2017",
-        "story_url": "https://www.open-contracting.org/2017/07/10/city-data-open-contracting-challenge-cdmx-2017/"
+        "story_title": "How Nuevo Leon increased participation and competition in its public infrastructure",
+        "story_url": "https://www.open-contracting.org/2022/12/19/how-nuevo-leon-increased-participation-and-competition-in-its-public-infrastructure/"
       },
       {
+        "story_title": "Peddling openness: Mexico City’s journey to procure a better bike share system",
+        "story_url": "https://www.open-contracting.org/2022/01/27/peddling-openness-mexico-citys-journey-to-procure-a-better-bike-share-system/"
+      },
+      {
+        "story_title": "Public works watchers: Making Nuevo Léon’s infrastructure projects more transparent and more competitive",
+        "story_url": "https://www.open-contracting.org/2021/09/07/nuevo-leon-public-works-watchers/"
+      },
+      {
+        "story_title": "All Mexico’s public contracts on one platform run by civil society",
+        "story_url": "https://www.open-contracting.org/2020/03/02/all-mexicos-public-contracts-on-one-platform-run-by-civil-society/"
+      },
+      {
+        "story_title": "Mexico’s INAI launches new open-source tool to upload and visualize open contracting data",
+        "story_url": "https://www.open-contracting.org/2020/06/12/mexicos-inai-launches-new-open-source-tool-to-upload-and-visualize-open-contracting-data/"
+      },
+     {
         "story_title": "El nexo entre contratos y élites: Poner las contrataciones abiertas en uso desde sociedad civil",
         "story_url": "https://www.open-contracting.org/2017/05/22/el-nexo-entre-contratos-y-elites-poner-las-contrataciones-abiertas-en-uso-desde-sociedad-civil/"
       }
