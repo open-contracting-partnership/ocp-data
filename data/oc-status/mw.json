@@ -11,6 +11,19 @@
       }
     ],
     "publishers": [],
-    "ogp_commitments": []
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "1st OGP National Action Plan 2023-25",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/documents/malawi-action-plan-2023-2025/"
+      },
+      {
+        "ogp_commitment": "2nd OGP National Action Plan 2025-2028",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/documents/malawi-action-plan-2025-2028/"
+      },
+      {
+        "ogp_commitment": "Updated 2nd OGP National Action Plan 2026-2929",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2025/07/Malawi_Action-Plan_2026-2029_EN.pdf"
+      }
+    ]
   }
 }
