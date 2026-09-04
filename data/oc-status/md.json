@@ -30,6 +30,10 @@
       {
         "ogp_commitment": "OGP National Action Plan 2018-20",
         "ogp_commitment_link": "https://www.opengovpartnership.org/members/moldova/commitments/MD0070/"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2023-25",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/documents/moldova-action-plan-2023-2025/"
       }
     ],
     "impacts_stories": [
@@ -40,7 +44,16 @@
       {
         "story_title": "Digging into Moldova’s never-ending road with open data",
         "story_url": "https://www.open-contracting.org/2017/08/08/digging-moldovas-never-ending-road-open-data/"
+      },
+      {
+        "story_title": "Patients, experts, and openness: A powerful combination therapy for unaffordable medicines in Moldova",
+        "story_url": "https://www.open-contracting.org/2021/11/23/patients-experts-and-openness-a-powerful-combination-therapy-for-unaffordable-medicines-in-moldova/"
+      },
+      {
+        "story_title": "Building a campaign for COVID monitoring in Moldova in 60 days",
+        "story_url": "https://www.open-contracting.org/2020/05/08/building-a-campaign-for-covid-monitoring-in-moldova-in-60-days/"
       }
+    ]
     ]
   }
 }
