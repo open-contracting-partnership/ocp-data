@@ -3,5 +3,12 @@
   "name": "Korea, South",
   "full_name": "Korea, South – Republic of Korea",
   "meta": {},
-  "results": { "innovations": [], "publishers": [], "ogp_commitments": [] }
+  "results": { "innovations": [], "publishers": [], "ogp_commitments": [],
+  "impacts_stories": [
+      {
+        "story_title": "How South Korea enables its green transition through green public procurement",
+        "story_url": "https://www.open-contracting.org/2024/09/25/how-south-korea-enables-its-green-transition-through-green-public-procurement/"
+      }
+    ]
+  }
 }
