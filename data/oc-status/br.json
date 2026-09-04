@@ -45,7 +45,7 @@
       }
     ],
     "contract_changes": false,
-    "ocds_description": "Transparência Brasil (TB) structures medicines procurement processes from the Portal Nacional de Contratações Públicas (PNCP) and republishes them as OCDS in the Medicamentos Transparentes portal, with the aim of promoting greater transparency, efficiency in public procurement, and savings for the healthcare system."
+    "ocds_description": "Transparência Brasil (TB) structures medicines procurement processes from the Portal Nacional de Contratações Públicas (PNCP) and republishes them as OCDS in the Medicamentos Transparentes portal, with the aim of promoting greater transparency, efficiency in public procurement, and savings for the healthcare system.",
     "impacts_stories": [
       {
         "story_title": "A remedy for medicine procurement: How Brazil is improving decision-making in a $75 billion market using open data and AI",
