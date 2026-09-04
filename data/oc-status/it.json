@@ -44,11 +44,15 @@
         "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522710/Italy.pdf"
       }
     ],
-    "ocds_description": "United States",
+    "ocds_description": "Italy",
     "impacts_stories": [
       {
         "story_title": "Behind Italy’s ‘small revolution’ in the fight for corruption-free contracts",
         "story_url": "https://www.open-contracting.org/2022/09/21/behind-italys-small-revolution-in-the-fight-for-corruption-free-contracts/"
+      },
+      {
+        "story_title": "AppaltiPOP: Accountability for Italy’s public contracts",
+        "story_url": "https://www.open-contracting.org/2020/12/08/appaltipop-accountability-for-italys-public-contracts/"
       }
     ]
   }
