@@ -8,7 +8,7 @@
   "results": {
     "innovations": [
       {
-        "innovation_description": " ",
+        "innovation_description": "",
         "innovation_link": ""
       }
     ],
@@ -39,12 +39,16 @@
       }
     ],
     "ogp_commitments": [
+       {
+        "ogp_commitment": "6th OGP National Action Plan 2024-25",
+        "ogp_commitment_link": "https://www.gov.uk/government/publications/uk-national-action-plan-for-open-government-2024-2025"
+      },
       {
-        "ogp_commitment": "OGP NAP 2013-2015",
+        "ogp_commitment": "OGP National Action Plan 2013-2015",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/20131031_ogp_uknationalactionplan.pdf"
       },
       {
-        "ogp_commitment": "OGP NAP 2016-2017",
+        "ogp_commitment": "OGP National Action Plan 2016-2017",
         "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/UK%20Open%20Government%20National%20Action%20Plan%202016-18.pdf"
       },
       {
@@ -60,6 +64,10 @@
     "disclosure_oil_mining_description": "",
     "impacts_stories": [
       {
+        "story_title": "UK Procurement Act implementation: what do the first three months of data tell us?",
+        "story_url": "https://www.open-contracting.org/2025/06/23/uk-procurement-act-implementation-what-does-the-first-three-months-of-data-tell-us/"
+      },
+     {
         "story_title": "Showcase and Learning",
         "story_url": "https://www.open-contracting.org/why-open-contracting/showcase-projects/uk/"
       },
