@@ -1,0 +1,27 @@
+{
+  "iso": "sl",
+  "name": "Sierra Leone",
+  "full_name": "Sierra Leone – Republic of Sierra Leone",
+  "meta": {
+    "date": 1489005752371
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Civil Society Infrastructure Monitoring (2014)",
+        "innovation_link": "http://www.developmentcheck.org/countries/sl"
+      }
+    ],
+    "publishers": [],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan 2016-2018",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Sierra%20Leone%27s%202nd%20%20OGP%20National%20Action%20Plan.docx"
+      }
+    ],
+    "commitment_oil_mining": "full",
+    "commitment_oil_mining_description": "Oil and Gas",
+    "commitment_oil_mining_link": "http://www.sierra-leone.org/Laws/2011-07.pdf",
+    "disclosure_oil_mining": "none"
+  }
+}
