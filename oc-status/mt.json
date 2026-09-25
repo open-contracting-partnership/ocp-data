@@ -1,0 +1,27 @@
+{
+  "iso": "mt",
+  "name": "Malta",
+  "full_name": "Malta – Republic of Malta",
+  "meta": {
+    "date": 1488487745649
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/mt/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "UK Anti-Corruption Summit Commitment",
+        "ogp_commitment_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/522854/Malta.pdf"
+      }
+    ]
+  }
+}
