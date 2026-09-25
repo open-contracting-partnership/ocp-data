@@ -10,6 +10,6 @@
     "slugify": "^1.6.5"
   },
   "devDependencies": {
-    "knip": "^6.24.0"
+    "knip": "^6.37.0"
   }
 }
