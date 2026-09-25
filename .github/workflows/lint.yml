@@ -4,9 +4,7 @@ jobs:
   lint:
     uses: open-contracting/.github/.github/workflows/lint.yml@main
     permissions:
-      contents: write
-    secrets:
-      personal-access-token: ${{ secrets.PAT }}
+      contents: read
     with:
       # Defer indentation to biome format.
       ocds-noindent: 'yes'
