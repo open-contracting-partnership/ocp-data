@@ -1,0 +1,83 @@
+{
+  "iso": "ua",
+  "name": "Ukraine",
+  "full_name": "Ukraine",
+  "meta": {
+    "date": 1619649629085
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Business Intelligence tool",
+        "innovation_link": "bi.prozorro.org/en"
+      },
+      {
+        "innovation_description": "DoZorro: Contracting monitoring platform ",
+        "innovation_link": "https://dozorro.org"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Ukraine: ProZorro",
+        "publisher_link": "https://public-api.prozorro.gov.ua/api/2.5/tenders",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2024"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP NAP 2017-2019",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Ukraine_National-Action-Plan-3_2016-18_EN.docx"
+      },
+      {
+        "ogp_commitment": "OGP NAP 2020-22",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2021/03/Ukraine_Action-Plan_2020-2022_EN.pdf"
+      }
+    ],
+    "citizen_monitoring": true,
+    "impacts_stories": [
+      {
+        "story_title": "DREAM: While fighting for its future, Ukraine invented a better way to make investments that benefit people and the planet",
+        "story_url": "https://www.open-contracting.org/2025/07/10/dream-while-fighting-for-its-future-ukraine-invented-a-better-way-to-make-investments-that-benefit-people-and-the-planet/"
+      },
+      {
+        "story_title": "How to make better public procurement decisions with business intelligence: Insights from Ukraine",
+        "story_url": "https://www.open-contracting.org/2024/12/04/how-to-make-better-public-procurement-decisions-with-business-intelligence-insights-from-ukraine/"
+      },
+      {
+        "story_title": "How Ukraine’s procurement appeals tool Clarity App promotes fair competition",
+        "story_url": "https://www.open-contracting.org/2024/05/23/how-ukraines-procurement-appeals-tool-clarity-app-promotes-fair-competition/"
+      },
+      {
+        "story_title": "The Ukrainian DREAM: Making wartime reconstruction digital and accountable",
+        "story_url": "https://www.open-contracting.org/2023/08/14/the-ukrainian-dream-making-wartime-reconstruction-digital-and-accountable/"
+      },
+      {
+        "story_title": "Fight for life: how Ukraine is fixing medical procurement and serving patients better",
+        "story_url": "https://www.open-contracting.org/2021/02/22/fight-for-life-how-ukraine-is-fixing-medical-procurement-and-serving-patients-better/"
+      },
+      {
+        "story_title": "Armed with open data: How Ukraine saved billions on defence procurement",
+        "story_url": "https://www.open-contracting.org/2021/12/08/armed-with-open-data-how-ukraine-saved-billions-on-defence-procurement/"
+      },
+      {
+        "story_title": "How do you build a network of citizen corruption fighters?",
+        "story_url": "https://www.open-contracting.org/2020/09/14/dozorro-a-network-of-citizen-corruption-fighters/"
+      },
+      {
+        "story_title": "Government’s first online store driven by open data: How Ukraine’s ProZorro.Sale is turning bankrupt assets into gold",
+        "story_url": "https://medium.com/@opencontracting/governments-first-online-store-driven-by-open-data-574ba06a23ce"
+      },
+      {
+        "story_title": "‘Everyone sees everything’: Overhauling Ukraine’s corrupt contracting sector",
+        "story_url": "https://medium.com/open-contracting-stories/everyone-sees-everything-fa6df0d00335"
+      },
+      {
+        "story_title": "Learning Insights: Measuring results from open contracting in Ukraine",
+        "story_url": "https://www.open-contracting.org/2017/04/19/learning-insights-measuring-results-ukraine/"
+      }
+    ]
+  }
+}

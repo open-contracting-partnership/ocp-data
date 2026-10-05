@@ -1,0 +1,56 @@
+{
+  "iso": "br",
+  "name": "Brazil",
+  "full_name": "Brazil – Federative Republic of Brazil",
+  "meta": {
+    "date": 1760377772607
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Transparência Brasil (TB) structures medicines procurement processes from the Portal Nacional de Contratações Públicas (PNCP) and republishes them as OCDS in the Medicamentos Transparentes portal, with the aim of promoting greater transparency, efficiency in public procurement, and savings for the healthcare system.",
+        "innovation_link": "https://medicamentos.transparencia.org.br"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Brazil: Secretaria de Gestão e Inovação (SEGES), Compras Públicas do Governo Federal, compras.gov.br",
+        "publisher_link": "https://dadosabertos.compras.gov.br/swagger-ui/index.html#/11%20-%20OCDS/releases",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2025"
+      },
+      {
+        "publisher": "Transparencia Brasil",
+        "publisher_link": "https://medicamentos.transparencia.org.br/dados-abertos",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2025"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "Law of public procurement  Nº 14.133/ 2021",
+        "ogp_commitment_link": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm"
+      },
+      {
+        "ogp_commitment": "OGP NAP 2023-27",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/wp-content/uploads/2024/01/Brazil_Action-Plan_2023-2027_December_EN.pdf"
+      },
+      {
+        "ogp_commitment": "Santa Catarina subnational: OGP NAP 2021-22",
+        "ogp_commitment_link": "https://www.opengovpartnership.org/documents/action-plan-santa-catarina-brazil-2021-2022/"
+      }
+    ],
+    "contract_changes": false,
+    "ocds_description": "Transparência Brasil (TB) structures medicines procurement processes from the Portal Nacional de Contratações Públicas (PNCP) and republishes them as OCDS in the Medicamentos Transparentes portal, with the aim of promoting greater transparency, efficiency in public procurement, and savings for the healthcare system.",
+    "impacts_stories": [
+      {
+        "story_title": "A remedy for medicine procurement: How Brazil is improving decision-making in a $75 billion market using open data and AI",
+        "story_url": "https://www.open-contracting.org/2026/02/25/a-remedy-for-medicine-procurement-how-brazil-is-improving-decision-making-in-a-75-billion-market-using-open-data-and-ai/"
+      }
+    ]
+  }
+}
