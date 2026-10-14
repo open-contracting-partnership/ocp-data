@@ -1,0 +1,23 @@
+{
+  "iso": "sn",
+  "name": "Senegal",
+  "full_name": "Senegal – Republic of Senegal",
+  "meta": {
+    "date": 1511574715435
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Assessing open contracting in West Africa",
+        "story_url": "https://www.open-contracting.org/2017/04/04/assessing-open-contracting-west-africa/"
+      },
+      {
+        "story_title": "Exploring Senegal Public Procurements : how we turned PDF files into browsable data?",
+        "story_url": "https://www.open-contracting.org/2013/07/08/exploring_senegal_public_procurements_how_we_turned_pdf_files_into_browsable_data/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "iso": "bf",
+  "name": "Burkina Faso",
+  "full_name": "Burkina Faso",
+  "meta": {
+    "date": 1511574778606
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "commitment_oil_mining": "full",
+    "commitment_oil_mining_description": "Full mining",
+    "impacts_stories": [
+      {
+        "story_title": "Open Contracting addresses employment in the Burkina Faso mining sector",
+        "story_url": "https://www.open-contracting.org/2013/10/03/open_contracting_addresses_employment_in_the_burkina_faso_mining_sector/"
+      }
+    ]
+  }
+}

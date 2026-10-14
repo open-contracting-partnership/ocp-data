@@ -1,0 +1,19 @@
+{
+  "iso": "vn",
+  "name": "Vietnam",
+  "full_name": "Vietnam – Socialist Republic of Vietnam",
+  "meta": {
+    "date": 1529088651077
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Putting open contracting into practice in Vietnam",
+        "story_url": "https://www.open-contracting.org/2016/06/28/putting-open-contracting-practice-vietnam/"
+      }
+    ]
+  }
+}

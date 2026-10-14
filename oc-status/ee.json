@@ -1,0 +1,20 @@
+{
+  "iso": "ee",
+  "name": "Estonia",
+  "full_name": "Estonia – Republic of Estonia",
+  "meta": {},
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/ee/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": []
+  }
+}
