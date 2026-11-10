@@ -1,0 +1,20 @@
+{
+  "iso": "is",
+  "name": "Iceland",
+  "full_name": "Iceland – Republic of Iceland",
+  "meta": {},
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/is/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": []
+  }
+}

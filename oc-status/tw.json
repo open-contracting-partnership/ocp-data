@@ -1,0 +1,33 @@
+{
+  "iso": "tw",
+  "name": "Taiwan (Republic of China)",
+  "full_name": "Taiwan",
+  "meta": {
+    "date": 1529088632306
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "DSP Inc. in Cooperation with National Development Council",
+        "innovation_link": "http://data.dsp.im/dataset/taiwan-open-contracting"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Taiwan: Agency Against Corruption (AAC)",
+        "publisher_link": "https://gpip.aac.moj.gov.tw/cht/index.php?code=list&ids=6",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2026"
+      }
+    ],
+    "ogp_commitments": [],
+    "impacts_stories": [
+      {
+        "story_title": "Using open contracting data to evaluate the cost-effectiveness of flood management in Taiwan",
+        "story_url": "https://www.open-contracting.org/2018/11/02/follow-the-water/"
+      }
+    ]
+  }
+}

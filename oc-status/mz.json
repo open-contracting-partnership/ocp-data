@@ -1,0 +1,25 @@
+{
+  "iso": "mz",
+  "name": "Mozambique",
+  "full_name": "Mozambique – Republic of Mozambique",
+  "meta": {
+    "date": 1511575146368
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [],
+    "ogp_commitments": [],
+    "commitment_oil_mining": "partial",
+    "commitment_oil_mining_description": "Oil gas and mining",
+    "commitment_oil_mining_link": "http://www.vda.pt/xms/files/Newsletters/2014/Petroleum_Law_translation.pdf",
+    "disclosure_oil_mining": "partial",
+    "disclosure_oil_mining_description": "partial (oil, gas, mining)",
+    "disclosure_oil_mining_link": "ministry website",
+    "impacts_stories": [
+      {
+        "story_title": "Monitoring Extractive Sector Contracts in Mozambique",
+        "story_url": "https://www.open-contracting.org/2014/03/18/monitoring_extractive_sector_contracts_in_mozambique/"
+      }
+    ]
+  }
+}
