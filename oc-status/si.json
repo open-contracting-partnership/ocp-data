@@ -1,0 +1,28 @@
+{
+  "iso": "si",
+  "name": "Slovenia",
+  "full_name": "Slovenia – Republic of Slovenia",
+  "meta": {},
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Ministry of Public Administration",
+        "publisher_link": "http://tbfy.ijs.si/?m=tenders&a=list_data&t=si_ocds",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2021"
+      },
+      {
+        "publisher": "https://opentender.eu",
+        "publisher_link": "https://opentender.eu/si/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false,
+        "year_first_implemented": "2020"
+      }
+    ],
+    "ogp_commitments": []
+  }
+}
